@@ -1,0 +1,253 @@
+id_devolucao;id_venda;motivo_devolucao;data_devolucao;status_devolucao
+e88a6fd6-8c29-4b18-be51-278f1b66be6f;b9614ebc-de15-440b-904e-c33cbeef1c10;defeito;2025-01-29;em andamento
+e39696bb-d632-465d-bc11-f1b0aa251eb3;59e03540-cd31-4006-b4e2-a1e04ca08ac8;não era o esperado;2025-03-26;finalizada
+387442f1-e57c-40a3-b1bf-6af5ce5076e6;a0b824a5-fb90-469e-a6af-25a4cbedd8df;não gostei;2025-01-18;finalizada
+b2bb85c1-8e7f-45e0-8f8d-d302aa45b5fb;2fe3d3d5-4377-40b9-833a-365fe595295d;erro na compra;2025-04-07;em andamento
+9971087e-c0c4-4386-a267-ea5fceb3f8b6;1365e71f-b4bf-4c64-89ed-23a4d00355b7;não gostei;2025-01-01;finalizada
+87778bb8-fead-485e-93d8-54cc11eed7d8;60ee50c5-e896-473a-9e62-f2e049eca5c0;erro na compra;2025-01-03;em andamento
+79ffe6a9-8883-46c1-9e9d-610d04956f6c;e1423070-20e9-498f-afc8-fcf78edd349e;defeito;2025-01-01;finalizada
+d760ff56-1be6-4bfa-94f7-a99d5e622da9;f9953a98-3f43-421b-80f8-5c8bb12114ac;erro na compra;2025-02-07;em andamento
+28c69f28-53d6-43a4-9a51-b7112f21d581;46f4e67f-6b51-4a55-81d4-20e9bf65617c;não era o esperado;2025-04-13;finalizada
+ef48c283-eed1-4b89-a292-cc2e995f8508;605becf4-1548-4074-90c5-c4905f4cced7;não gostei;2025-01-17;em andamento
+b196d654-1d46-43fc-a59b-2b2b142e5c6d;3a71770e-2bcb-49b2-8a60-8954730dfa45;defeito;2025-02-20;em andamento
+1f3e64ae-c724-4c26-9317-1b2b339bafe8;d0387801-9d74-4a7e-8788-756e020a749d;não gostei;2025-02-05;em andamento
+7963540d-8b36-422b-b4ec-724a07638846;6e551ae8-8baf-452c-bd90-90ec5b87fc53;defeito;2025-04-17;em andamento
+a2441a34-1b40-44a6-b089-224c1d131efb;8e0b7fa5-2ba6-4213-9e63-9fdaeb6681ee;não era o esperado;2025-03-10;finalizada
+951737f7-574c-469b-ac30-86cceea128af;359d911e-9940-4716-b2db-5e2a41353d18;não gostei;2025-02-07;finalizada
+50433920-8992-4b97-817a-299c0c4e1d67;e318a716-b6d7-43fb-8c88-5fa9020b3854;erro na compra;2025-02-24;finalizada
+5f1b9344-d3bd-4ee9-90c8-e8795db8d3d7;db501ba2-347f-46e3-bba1-a45c1fe6ec86;defeito;2025-04-09;em andamento
+20865d7c-7aa3-4535-a781-263841c06b4d;db30b713-2436-42fb-881f-514dc999ac5e;erro na compra;2025-02-14;finalizada
+4c50a77c-4457-4760-a827-bdec1bc9f92d;add5f533-4cb1-459b-8e4a-abf7734728f1;erro técnico de processamento;2025-03-29;em andamento
+72c12115-7401-4dbf-a82d-49c5fd123042;4ccc9676-74f2-4ba8-b77b-32b081f38795;defeito;2025-01-18;em andamento
+1d38853c-a013-487c-b6c4-2290b03bfbc6;df843c56-e007-4089-8e3b-2d4b1d55d5e8;erro na compra;2025-04-08;finalizada
+2fa9111e-4d73-4ea1-9d59-8a01a35ae592;e2d89bc2-6d39-4534-8c56-fa059db3b8fb;defeito;2025-03-29;finalizada
+11adbc9b-65b4-49ed-ad9a-3458ea17035a;57c905d3-0d8c-4ca7-bd01-f659fd586532;não era o esperado;2025-01-27;cancelado
+9320d1ef-be97-4ec8-87ad-e46ea44da38d;cb60e97f-dba9-4c3a-b70b-78b04277c873;não era o esperado;2025-02-11;em andamento
+b88f734d-71f6-4e73-9ef9-4c13d24f7baa;751565f6-a459-404b-9669-8787cd5e7178;não era o esperado;2025-03-17;finalizada
+acfb0160-9387-4aed-b6e5-28fdad1bac2c;38411b9b-ff1d-4029-b149-2b3c01b2552a;não era o esperado;2025-01-16;finalizada
+9964a4d8-e916-4cc8-a920-438b53b97c07;0d200e88-c0fc-4e73-887c-e6877d2b2af6;não era o esperado;2025-01-30;em andamento
+f34637c2-7f18-4732-b09a-56c9d47f9864;637d06f0-d44b-40fb-b647-77bb4a0b5141;erro na compra;2025-01-31;em andamento
+9ff86111-b6ff-40de-aef3-b57ae15da366;07c5db79-87ed-490d-bf3f-a0929837e001;defeito;2025-04-14;finalizada
+ca9b9eff-a4c7-40b8-9325-4a87ccf95b5e;37bf02de-fbaf-4827-af50-4855fbb35207;não era o esperado;2025-02-19;em andamento
+3e8773d8-4aaf-43bc-b70c-9b8ce7e2badb;b684463f-9d25-4f0f-bde4-fef23f149415;não gostei;2025-03-16;finalizada
+c6e0ce4e-e278-4111-8a2e-7bd7a2bdd169;19ff49c2-76ad-46cd-9101-45347b628f15;não gostei;2025-03-04;finalizada
+0a424a56-4629-40ed-907e-9c19750c7d49;9ecc7673-85e0-4210-b5bf-42473ca4aee8;erro na compra;2025-03-15;em andamento
+80157f50-a046-44a6-b4c6-b4c468fd35aa;1d09d63a-9df8-4a31-8d14-381c7cecc1df;não era o esperado;2025-02-06;cancelado
+531090e8-17d6-4ecb-871a-f3605d8ce526;345e3976-e6f9-43d8-a634-327489f22643;não era o esperado;2025-04-27;em andamento
+250c2668-a86b-4590-bac9-04ca23e75789;71cf4cfa-abb3-4a51-8bcc-62e1250ae2ab;não gostei;2025-03-25;finalizada
+14996906-9291-429e-b952-8fbad35908d9;9fdb5423-207e-4004-aad5-7d27be145e4a;erro na compra;2025-02-25;em andamento
+567662d7-6664-4a91-a6cc-b0dfb15d763a;e8d40e3f-f80a-4455-8ea3-028b7556367f;defeito;2025-03-26;finalizada
+1befaa7e-84c3-4147-af94-620ad8f0e2b9;6bc41638-d762-4543-a52b-577d97069699;erro na compra;2025-03-26;em andamento
+79bf35e9-a0b8-439e-93c7-134d5dfebb06;7c378bf7-e31a-41cd-895d-09e0dc3b67e7;não era o esperado;2025-01-01;em andamento
+db1759c8-3593-4de7-929f-fabd77c6d272;5cb1d2d8-2307-403f-a562-2f394aa4a4cc;não gostei;2025-01-05;finalizada
+3ffdf019-3224-4606-a0c3-c51518a9df5a;ec139942-1411-4946-8e75-bf158d2b0e92;não era o esperado;2025-02-14;em andamento
+5caac76d-b655-4139-84fe-6f1a829f4ed2;07a22b9e-f23c-493a-85f2-70f82f60671b;defeito;2025-01-30;pendente
+ef244f57-7bec-445c-a100-2c6fee3d2b70;469c3797-7e48-477e-a9c5-f57ab61b4922;erro na compra;2025-02-28;finalizada
+1986a03f-fb7e-4fa6-bcfd-f5b6d8824919;69e9e297-25b0-43b8-826e-7b254b3741e3;não gostei;2025-02-08;em andamento
+92ba72cd-8c9e-4b37-90c5-563a570faa6c;33b21730-05f9-4df9-a362-f4add3aa2b5e;erro na compra;2025-01-09;em andamento
+54d176fa-195b-42b0-9104-6fb0fbba7c7c;23eb783f-85b1-4dae-911c-817e2cefbeea;não era o esperado;2025-01-24;finalizada
+8974bc23-1f29-4c5a-95d5-5fda0faa8604;3b9c4aa2-7534-4f93-be5b-27da65f37968;erro técnico de processamento;2025-05-01;finalizada
+69c7f78e-62e2-4a95-b915-99b60bbe1703;4f31160c-5c55-4171-999f-0602691f12d7;erro na compra;2025-04-11;finalizada
+47d4f9db-16eb-4d63-8b7d-02bef68020e6;7915b242-b4d7-4da2-9b83-2767b06c7367;não era o esperado;2025-03-23;em andamento
+3aa6de0c-13a4-485d-b941-738d47c5efd2;52aaeacf-988a-48ed-b5b8-68c4080de2c2;defeito;2025-02-04;em andamento
+640c3aa6-f6b9-4d99-bf65-0dd0b763fa6e;e139022a-fcfb-4d43-bc83-2a6487241670;erro na compra;2025-03-27;finalizada
+2fee2748-76cb-4011-8f22-82ee84b5bd09;c1c72427-2334-46f4-83f7-f564678f0a8d;defeito;2025-04-24;em andamento
+fe930e9a-1668-4b78-a016-584a77e86228;b418d5e7-6134-478d-9bd1-8d46cde0a511;erro na compra;2025-02-17;em andamento
+8eea3c14-775c-49b9-a6ba-cf634bf64331;0318d73a-5399-4611-87f2-6bbbefc206b7;não era o esperado;2025-05-05;finalizada
+899919bf-c335-483e-b1c9-c6377996d58a;6f9e18c6-7315-4a76-9c4f-1a32226261ca;não gostei;2025-02-17;em andamento
+1a3ce2f1-b0b0-4d48-a524-e14c90491b83;bb184028-a300-4c16-9aee-04f6a7fb022f;não gostei;2025-02-14;em andamento
+a69adcb6-6712-472e-8abd-cedfad2d859b;9335fb76-ed94-4ca8-8f12-d8abf8eb7c44;defeito;2025-05-03;finalizada
+438ca7cd-bcaa-4263-b655-571b0b5ce342;386c872f-ab43-4c4d-bc7e-c57c2ca4e2cc;defeito;2025-02-04;finalizada
+3a68b9b5-354f-42c0-909e-dd0498316152;3c872697-d6cb-4d07-a6a6-07004c063bb4;erro na compra;2025-02-12;finalizada
+5ee46fb3-7c67-45bf-bef1-44b2663c6ad2;e7f92c19-3221-4906-955a-0a2876b2057d;erro na compra;2025-02-05;finalizada
+77c9c287-c67b-4d7f-a1fc-5487adf82681;ebf68336-c460-4643-bafe-622123c0b672;defeito;2025-03-31;em andamento
+9b44dee6-7988-42ac-9580-ce6f97c7ea75;c85bffb7-a164-49ea-952d-5fd80abb4f41;não era o esperado;2025-02-17;em andamento
+3f977e6b-ea05-4427-8d3a-b3c091f77249;ccb30275-2b31-4419-b13d-c3733e8df04d;não era o esperado;2025-02-11;em andamento
+f0c63b22-a314-420c-9041-e3c60dc255d3;f5ace0d1-0e3a-478c-8b1a-54bfa376b737;defeito;2025-05-01;finalizada
+ad501cd4-c1e5-49dd-9161-9b552c1344fd;722ee80b-8a3a-481a-bf8c-7c466b60a4c8;defeito;2025-02-12;finalizada
+e32a7339-4bbe-43c5-ba69-5e83fc4e9076;82326551-423d-424a-bc15-86f76e7040ae;erro na compra;2025-04-26;finalizada
+f39f1462-8a31-44a7-9a9d-40eefc3ac0e0;0de41bd2-fe6a-487b-a2d3-b6ef16c13b27;erro na compra;2025-01-21;finalizada
+b108c148-65a6-445c-abc5-75688b31040f;38012f2f-e970-43fe-950f-100d5bcb4878;erro técnico de processamento;2025-01-02;em andamento
+cc095928-8330-43fc-a9c6-3fa1cb155b70;6bbfe0eb-eb91-4926-a84d-69787ce56e60;erro na compra;2025-01-28;em andamento
+7dbe3da8-3f4a-46af-92c5-539d29778f25;3d131a02-3ebe-4efd-a4fb-f146b87e791c;não era o esperado;2025-02-24;em andamento
+2cebc444-287b-4596-a2de-05fbcfcbdc3e;67bf869f-061c-4cc8-b20c-4194c12c35ba;defeito;2025-02-02;finalizada
+f6a69050-993c-4e17-8678-46ca5a29e2ba;79e44a0c-5ce3-44a0-9a7c-36db041624f2;erro técnico de processamento;2025-02-23;finalizada
+11337379-d39e-47c6-888b-2eb49d95cc54;9c17ac0d-dc05-4eb6-a77a-5574c7076f06;defeito;2025-05-02;finalizada
+d2ba2907-e3b8-4696-ae42-488552029040;aae157b7-cb26-402b-925b-02d91d6ad783;não era o esperado;2025-04-23;finalizada
+8634759e-803d-4b12-8be6-9ad3d6c915cc;cf9c82c5-24a1-4581-8995-7644c9bb534b;erro na compra;2025-01-05;em andamento
+10ba5b32-6958-4ef9-922f-1aa022723383;20c92509-f344-4c54-8f7a-76ecf6008de7;não era o esperado;2025-01-06;em andamento
+4bfdd31a-d072-4390-80ef-2f063c472517;5167f474-affc-4c29-8843-1154c8ab1383;não gostei;2025-02-12;finalizada
+0639fd8f-77d9-4152-a4f3-2e4383022830;00589214-092e-431f-85b2-13e9dfe3fe45;defeito;2025-03-19;em andamento
+f2c31947-33bc-4493-83fe-f2d0ec4d0f90;1e8261c7-337d-4a2b-a7b7-a88d6a53110e;defeito;2025-03-23;finalizada
+5ab93ea7-5a75-4fef-bfe6-3ed23caed5dd;89c95fca-d697-4851-bbed-c3b0c863a6e0;não era o esperado;2025-04-05;em andamento
+4888f173-7b1c-49b0-8868-734ed8a74ba3;4a9f9714-96fd-45b1-85c6-8b0a9acb8c26;não gostei;2025-04-05;em andamento
+514cf4d8-1d02-4323-85bc-ce65b175d626;2040a012-7d6d-48c0-8f49-5139b9f1639d;defeito;2025-03-04;finalizada
+ea22de62-14c3-405f-ad05-314355937a82;e719b3fa-a2cc-4090-b4cb-d935ddcb51a6;não gostei;2025-02-02;finalizada
+16ea32fd-82c1-4b8e-81ff-76093afbc85f;692f08ca-28e6-4a42-9b68-8a3e97a605bb;erro na compra;2025-04-23;finalizada
+5ed885e6-d722-4fc6-b3c5-3e1d8533e71d;9e7b6fab-92d2-4a8a-a75c-e345486a2b14;erro técnico de processamento;2025-01-21;finalizada
+3e050d8d-60e1-4b8b-8d9a-6994cc718a1c;aeebf847-1fef-46ca-a2c6-2e63ed0b261d;não gostei;2025-04-24;em andamento
+798feaee-b790-4ccf-adc1-714b7cc1b30b;07782e1a-e3d3-460f-adcc-78ebd8d52164;não era o esperado;2025-02-14;finalizada
+a96eca41-60be-4bcd-848c-e1c98835133e;2c9399f2-a5d5-47bc-ba6b-3f63fd25c5e4;não gostei;2025-04-20;em andamento
+15edf77c-e59c-4140-b397-eb894959234b;bd07a7e4-3d9e-4e88-a67e-f5505aa19598;erro na compra;2025-02-10;em andamento
+239dedbd-d8c2-4dfb-a893-a14cc5e07c6d;d1338262-b47f-4ddd-89b8-fc6ce7d143ad;não era o esperado;2025-02-13;finalizada
+2688af66-15fe-4d2b-9490-f1e64355d518;d4fc3aaf-d3fb-417f-82c3-150f7fd460dd;não gostei;2025-04-28;finalizada
+d19597d4-da50-4414-9a88-1dacb1219033;fa3f90b6-2a11-48b2-9d89-2192b499934a;não gostei;2025-04-14;em andamento
+f0703d9d-ad62-4bc1-bb87-32fa2b44385a;61df5c39-1db6-4c12-9f01-dc0b9f8d7a07;não era o esperado;2025-02-27;em andamento
+ae898d4f-02be-44b0-af9d-75bb550a020b;21aa830c-19ae-4158-8007-9d6acd3bb1c7;erro técnico de processamento;2025-01-09;finalizada
+ad6d0a93-2a36-4534-b141-b1fe053912b8;74dfa170-5584-4de8-96b6-46c7983ecfcd;defeito;2025-04-03;finalizada
+3c596e00-db29-44a8-960f-61d6a143bbad;2755edfa-d22c-40c9-a2e3-a8da7034c6f5;não era o esperado;2025-02-24;pendente
+183a0bd2-c5bf-4810-967c-a4f0d989480d;f31caede-6367-45be-a118-165c13a9f54a;erro técnico de processamento;2025-03-19;em andamento
+5493eb93-1551-4065-954e-c4ff8e5895db;098ea4fd-e7ae-4659-9a7e-fc343f334848;não era o esperado;2025-01-10;em andamento
+245a3359-15af-4ab8-9b58-1605ab13176c;8cf4297a-b56a-48b8-a9d1-614a713cdff4;não era o esperado;2025-04-22;em andamento
+fd7767a6-e692-4257-ab57-6e3b3934e722;6504b915-986e-47a0-bd7f-efc00a023142;defeito;2025-02-20;em andamento
+fa13e961-ad1d-48bb-883e-e53ac8f995cc;8b8124ed-1681-4e10-be57-364703eabb2a;defeito;2025-04-06;finalizada
+71a5846a-158e-434a-b753-6b37737c4d08;d5cadfee-1c5c-4c14-8f8d-5153babbdcf3;não gostei;2025-01-27;finalizada
+8b3edbb5-eb64-47c9-ae54-40cb7756e6ce;2a3c4779-e1e1-4a58-b5aa-e4e467628c04;erro técnico de processamento;2025-03-20;em andamento
+e0b466d7-8f1b-4109-8a61-7eee441d7559;49f908c0-9724-4bcc-a85f-de815ed5d78d;defeito;2025-02-08;em andamento
+543521bf-5d64-4a0f-b61d-a78083a8fd65;126dcaa4-3e08-4c9e-91ac-f12843379565;não gostei;2025-01-25;cancelado
+f51df06d-b109-4ab5-bb2f-860b8b5a3ab2;f456dc66-782e-45bc-994f-8c3d3fb994a9;não era o esperado;2025-01-12;finalizada
+7d1f66a8-9fdc-43ee-a4ba-3270bd0b9ceb;b73bb208-5e65-4a08-8a8b-c47471fea9ff;erro técnico de processamento;2025-03-04;em andamento
+d4cd2fdb-561e-4f46-bbfd-d75a129094fa;3bb8617c-443f-4692-89fd-d95418c16730;não era o esperado;2025-04-23;em andamento
+e5ab4f40-7549-493a-956f-3380ad3833df;2c50e9cb-38f7-4634-9260-79302cfb5440;não era o esperado;2025-01-09;finalizada
+6a76a3e3-acfb-49f0-b811-eac1ebfec9a2;0c9d2c68-22fd-4e0e-8c11-e8afcc0dedbf;não gostei;2025-01-25;finalizada
+acb8561e-597a-48de-98b8-c446359eba81;2eafe93c-60e6-4fa3-936b-3c2c896fcb1f;não gostei;2025-04-14;finalizada
+8dd8812f-2eba-4422-97f5-c6ae7c104f5f;425c6548-8b8e-41d4-9d4d-1629b741732b;não era o esperado;2025-04-12;em andamento
+c7a9d704-39d0-43a7-bfdf-d7705cce2e44;acaf43e4-d777-4517-8068-87c4dc3371ed;não gostei;2025-04-19;pendente
+e908b789-24ab-478a-8570-566ab2e3c01b;f6f37c78-80d3-46fc-8806-185588d2f766;erro na compra;2025-03-08;finalizada
+04a91c14-32a9-4e28-80ae-72b6869150df;0978d0ae-91d7-4fc3-8eda-ce729393d7d4;erro na compra;2025-02-02;finalizada
+ec2daa2e-5e36-43ca-934c-c371b8aee86f;eccb8ddb-e5ee-4f94-84d5-b6eabadcc89e;não era o esperado;2025-04-29;em andamento
+45092bd3-3248-49cf-8b2b-bc4b3a40f688;333b9904-14a7-4739-bfda-9bd72da98498;erro na compra;2025-03-21;em andamento
+8c6d0f78-85d5-40cf-9bc2-ecbdca94beb0;392dd961-6064-424e-b500-ac2032469458;não era o esperado;2025-01-13;finalizada
+24c6018e-17d0-46c9-8ee6-2112da4dcb70;001ae3b6-a009-4b16-b039-ff8df64fd070;não gostei;2025-01-03;finalizada
+58efca8b-ec25-4a3e-869b-4021fa4ca1ea;e7215f55-85ca-4a30-a3d5-852817a22425;defeito;2025-01-02;finalizada
+7a06f999-f928-4dc9-a832-b95ca3230ab7;1f755c36-f4dc-4236-bc4b-59d599383094;não gostei;2025-01-02;em andamento
+38c40f2d-0815-48bd-9879-e224b28ce38b;374fcf09-8acf-4ac0-ae61-6978c18736e3;defeito;2025-03-11;em andamento
+074e32cb-0c3d-41be-838c-6247975abf6e;e6481f99-06a9-4963-93e5-b74473c8114b;defeito;2025-01-10;em andamento
+d75141cd-3fcd-4584-9f60-0002014939d2;6fc61d6d-ec1d-416e-876e-22e0968a75ab;erro técnico de processamento;2025-02-06;em andamento
+d25a360b-a6e7-4cd1-b185-b63097fe1b41;16cf1940-853a-4576-9e22-1a40e0800764;defeito;2025-03-12;em andamento
+5e0da675-9d30-4874-868a-4eb2be7b75c6;5956e910-8b25-48dd-8e94-54a615966097;defeito;2025-01-07;finalizada
+21164fd3-d648-443c-91db-4a2ed5f06a2a;6584fbc1-2fad-43ff-baad-fd6ed11b52b1;erro técnico de processamento;2025-02-25;em andamento
+49f89d20-cc90-4736-a7e7-9df360ec6b57;0761725f-d1c9-40ae-9254-59bd72dc71bd;defeito;2025-01-20;finalizada
+e430c557-5619-4695-a661-9799cc9d954b;366f7882-ed1c-4625-b822-bbdd49439117;não gostei;2025-03-21;finalizada
+ad8c694b-f81d-4d41-a5f5-565290f08c77;18479481-e342-44fa-bf1d-e90c8a3aa79a;defeito;2025-04-02;em andamento
+65092178-43bc-484f-9ef5-225dbc69139a;1de03293-ad42-4281-91a0-14e1a0fa7a17;não era o esperado;2025-02-26;em andamento
+c0cc72f2-8877-4875-9777-c2e53f10322c;c94fc316-dc35-436b-9696-1216fac8f8e9;defeito;2025-03-26;finalizada
+5b9a9c89-ed0f-4f00-ac92-554e47ddd4bd;1e2896ae-21b5-400d-a3ab-d874385f836c;erro técnico de processamento;2025-01-26;em andamento
+504c62dc-72d1-4127-a04e-3d3135597a7d;1360d350-a2ed-4e0c-97b8-f9f70bf6b095;não gostei;2025-03-16;finalizada
+763c2ef6-120f-46eb-96da-0203c3c5ec77;f3af0ed0-8737-4255-ad5e-75758fd7bb72;erro na compra;2025-02-09;em andamento
+574b23f8-d1af-44b4-9a7e-62f836e8b6ef;03dded8f-dcf2-4e1b-a7ac-04b73f322d51;defeito;2025-04-15;finalizada
+3617af10-a000-4d77-a8f1-fe079ca78f01;887039f4-d5ff-4df1-a134-48e51d691051;erro na compra;2025-01-28;finalizada
+1ae7f95e-4867-4d9a-88ad-ab2f1c8017e0;3a57bce8-16df-4157-9781-af143e679df2;erro na compra;2025-02-19;finalizada
+5d2ebe1d-2b63-45cb-84c6-d59e0b7f81ce;a89e5b00-8eec-4a49-a00b-04e327dec3f7;erro técnico de processamento;2025-03-08;em andamento
+32259532-b862-4acd-b13c-1b1b5e471c2b;d38774e5-ced8-43da-8c64-d54d2eeead5d;não era o esperado;2025-04-25;finalizada
+c9ec57ef-bf1d-4f56-b01b-f85d7af43a19;f25e625c-428e-4ffb-887f-3664f031cc6c;defeito;2025-01-15;finalizada
+13649055-4ccc-476b-bc1b-269a2eebb047;13e8dfd1-c246-4d2b-a986-7ec75700ac7c;não gostei;2025-04-11;em andamento
+5682afc7-512a-4673-9d1d-38f4af313c61;7f00812e-e869-452e-a16d-17546409a28e;erro na compra;2025-02-01;em andamento
+67a1b684-d269-47c6-b03e-40ba62564fd8;6a7897d4-c9ff-41fa-897c-ac4f972c27d7;não gostei;2025-01-16;finalizada
+64c1b274-5f4a-468b-abcd-5992d9586ea2;159b0da8-7e1b-4535-9755-701ef8c4c471;não era o esperado;2025-02-01;finalizada
+fd7ca753-178a-4fb5-a728-068201047cb4;743af159-54cb-4d44-86bb-e471a650039c;não era o esperado;2025-01-11;finalizada
+f3be2531-78e6-429c-bb4b-5a583f318230;a39004ca-28e0-4ddc-8e8e-9b2b0177fd8a;defeito;2025-02-15;finalizada
+8ad01487-0fad-4f4f-90d5-66a78d0cef5e;5b0ffa81-d82b-4e92-8266-ad8813e31a38;não gostei;2025-04-20;pendente
+fff22e9e-e867-477c-8539-916731751352;a3f98209-83fe-467f-8b2d-e6fee80871c1;não gostei;2025-04-12;finalizada
+bfac24aa-98b1-4d94-9c5e-af8083d2a253;c10a3637-7006-4e62-a1c9-c8b5a25e0793;não era o esperado;2025-02-16;em andamento
+4744e990-1c64-4d38-91d0-9be8e5f24dbc;0a162237-10b6-4f9a-8c73-bfc820255fc5;defeito;2025-04-30;em andamento
+d929c181-19f2-400f-8e6c-6de7c5a540d8;338e2a2e-8498-4777-be7d-d60cec94e0a7;erro na compra;2025-02-23;em andamento
+3b6c8982-de8b-4425-a29e-dde9998466aa;9f78af5b-dc74-4e67-bb25-7f3b0bd96272;erro na compra;2025-01-21;finalizada
+c7f3f03f-99c3-4d31-aa86-6e26e96c1ae2;d2ac3e8e-f102-4640-b31e-eb3371d7bdc0;defeito;2025-04-05;finalizada
+ca850066-17c7-4e15-9f5d-f87a03a03e87;49641d92-99ea-4b7e-84c4-b2c30d8ea294;defeito;2025-03-02;finalizada
+1366ec3e-12dd-48f4-80ff-e90e49f66678;796e4a43-3d87-41fd-bf3c-0e5b417217c0;não gostei;2025-01-12;em andamento
+add054d1-a95c-431e-a66f-048a323f4bae;f1284845-bf92-4cd6-8c98-6946c105b626;defeito;2025-02-07;finalizada
+81492e45-3b28-4c54-ad2c-9147676b7e61;c3ae0b55-5fba-4aeb-99c9-887c409b6f60;erro na compra;2025-03-15;em andamento
+a354cbd5-00b2-4a96-aa2f-56206865c58c;eb2f596b-df26-4e0c-af39-ebc04dadaa27;defeito;2025-03-26;finalizada
+07394937-b74f-4688-bd6c-115eac4796b7;7a9c74f3-1ccf-48b7-81ab-d5847b975cb4;erro na compra;2025-04-18;finalizada
+cf7e5bf8-68b6-4524-b757-fa3d2545564f;5e76f93c-0af9-4847-a388-3f55a43fd0af;defeito;2025-03-02;em andamento
+25fc1516-26da-4d76-8699-778f9e7aa29c;fd591957-e4ee-4013-825a-b8fef4e11b44;não gostei;2025-02-27;em andamento
+80d76c7f-dc18-4244-9fe0-dce8ff3273eb;49885204-56d6-4353-89b5-e5522b6d876a;não era o esperado;2025-02-21;em andamento
+c0be7c6d-d949-44a7-9c59-0cba1455799e;0a46e44d-b894-4550-bd0d-be3a2f8ba745;erro na compra;2025-04-27;pendente
+ebfffed7-998b-4ef0-9953-31d327d1c142;e109b2f8-08d9-4b9d-8081-931ba0882e16;não era o esperado;2025-03-04;finalizada
+68b8c30b-fb26-485d-8709-d4f43efbd2e3;b28df8c1-e702-474c-b366-653a3bd24968;defeito;2025-01-11;em andamento
+9ffc0af4-c5e7-420e-8ad5-d6396597ad1e;64c94e50-fd89-44d1-bce7-36ca9465589c;não era o esperado;2025-02-24;em andamento
+4ea21518-9b80-45c6-a395-c0f8eef430f3;7be0d9df-7b1b-44ce-ae1c-c895f8e36cd1;não gostei;2025-02-02;finalizada
+8d63b94a-932e-4a8e-be07-cb09c130371c;65938ba0-3de1-4b8f-8783-4c2b71fb2f71;não era o esperado;2025-03-18;em andamento
+cf01ae33-d367-45fa-8585-b2da8ffb3a1c;c5db4d93-ee54-4296-a67f-8caeed2b07f5;defeito;2025-01-05;em andamento
+99f30eec-f743-4c7a-8851-cffdbaa8a0fb;c8b44a14-1510-4518-9ab1-beaaaa96b7ec;não era o esperado;2025-03-07;finalizada
+bb057a88-6847-48fd-875d-e8cd14ef58e6;c9b4f7d5-5a1b-48f0-86fe-fa5e8b5ae027;defeito;2025-02-03;finalizada
+79396d40-dd0c-4fe1-881b-58b1a6325a88;c4dcef4d-a374-4f9e-9a7f-d0ec7d572a75;não era o esperado;2025-05-03;finalizada
+145e1164-069b-4080-b83a-acca2a3ae2b1;579ca071-1cfa-4081-8c50-026cf665abb1;defeito;2025-04-30;finalizada
+f956ebad-6709-4892-b91e-d5fd48ba40c1;0990e03d-cd39-4f60-8b71-3e0a728dc437;não era o esperado;2025-01-23;em andamento
+21b15ec5-8202-40cd-b437-2f98b22cf390;6f544525-9758-419e-85e1-758d55449e7c;erro na compra;2025-01-27;finalizada
+028eef12-20e3-4699-a33e-bc5798f5205e;9c5b594d-0ed5-4b51-9196-b694f1fc8822;erro na compra;2025-01-03;finalizada
+aa73a085-11cb-4c1b-9d91-32e2f8441280;9b159079-c38e-4d08-9294-ff7f1bfe1f01;não era o esperado;2025-05-04;finalizada
+dc9c5c68-e027-46f1-8abd-dbf205c7b714;d41e77bb-d52d-4dcd-8c0a-79eb91018e3f;não era o esperado;2025-05-02;em andamento
+7c449017-5efe-4f5c-bf74-6777375f6531;4e60f09f-8de2-4058-90f8-de34e54cad93;não gostei;2025-03-21;em andamento
+eccf4c2c-fc88-4204-be32-5c3f2f77ef49;6fd1a8aa-7138-4fc3-8272-bad14a7a9267;não era o esperado;2025-01-28;em andamento
+341e20a3-6295-4f4d-932b-f916e7610781;b7ee5c5d-f602-425e-98c3-68d03e9cfa74;não gostei;2025-01-07;finalizada
+acfcc45a-ea22-49a9-bce4-0552f0b32750;35cd0f18-74bd-4657-8d93-2dbaaf0e96e7;não gostei;2025-04-28;finalizada
+1ca536af-c60f-468d-948a-bd974c80a073;aa77b046-598c-4d92-bc56-cd4cbe54f3a0;não era o esperado;2025-04-05;em andamento
+0116bae8-24e6-454a-9684-599c2c5d5ddf;c0b292a5-31b5-427f-800d-bd3039c9742f;erro na compra;2025-03-18;finalizada
+16253715-80d1-46ed-ace4-e8a3de2a4a2d;92d16cd3-0f3f-4073-a101-16086d04cfdf;defeito;2025-03-24;finalizada
+acef237b-3037-46d8-a765-c708b5abc314;2b1c94ee-ab2e-46c9-85bb-48eec6d168c1;defeito;2025-03-13;em andamento
+2ff19d01-57b4-4ddc-9663-1ffc03c3c4f9;1b02f120-55d2-43b4-9437-0f0d8d02d276;erro na compra;2025-04-02;em andamento
+7480929c-66a2-4318-9640-28bf943afcb3;69ce5808-4385-4275-8f4c-6f2e9670c910;defeito;2025-04-25;em andamento
+1ddc60cd-4d09-4a3c-9121-934881323668;434bd616-ece3-4491-867f-9ac3cacfb316;defeito;2025-04-09;finalizada
+001c403d-507c-4dfc-bdcd-73cb75a49b71;0dd954d0-c7f3-46d7-ad1d-91fa7d379d39;não gostei;2025-03-12;em andamento
+68229003-64b3-404a-9924-5f4453be1472;2fb7741f-5489-412a-abd8-40ac9d9a3693;não gostei;2025-03-03;finalizada
+defeefd4-79cd-49b0-aff2-068bdca70fb7;f7029710-4a2f-4f1b-a233-6ebacb4188d0;não gostei;2025-03-09;em andamento
+be36ada1-333c-472f-80e2-978ddfd2b7ae;72251e63-a4aa-4480-9c09-8509240580ac;erro na compra;2025-01-25;finalizada
+86801728-cbc1-4953-9308-f86db3dd213d;8fbb2d62-3287-41e3-94da-c8d87f88c6f1;não era o esperado;2025-01-09;em andamento
+6da73953-1d14-4ef5-81b0-fbd5f246cbdd;62f6ee9d-d79d-4a3c-be81-3d6c477da12a;defeito;2025-02-26;em andamento
+0bfeb997-4799-402b-8d9b-2e2437cd7c75;dc5e1f91-3f28-4b4f-ae63-e63fe501bdf1;erro na compra;2025-03-27;em andamento
+71456a61-0cff-4187-8439-d5306cb4f4f7;a651db1a-0ff5-4fbf-9f24-54f86300d655;não era o esperado;2025-02-16;finalizada
+4c72d865-5bb9-4c52-94b4-51d6cf4eedbf;a3c3c5d3-ef21-4bdf-9415-badfc9c9fce9;defeito;2025-04-01;finalizada
+60aac853-4311-4099-a97b-8147687eeb2d;4130f9e6-229f-4d8f-8da4-1279aee05b59;erro na compra;2025-01-05;finalizada
+e6640d7b-4391-4e3e-a246-77b22c742aef;d231a4fd-a01f-4f7d-a1e1-9279a2be9c23;não era o esperado;2025-01-20;em andamento
+72c63345-56c8-4fbf-a5f6-6bba9b653a73;2d43e5d4-a7bc-4117-bfc4-27e8dfcde5cd;defeito;2025-02-18;em andamento
+24167ff2-a56d-433c-8c83-23471f948408;e8247aa2-5f73-4bd6-a42b-f157aaf4ff9e;não era o esperado;2025-04-25;finalizada
+a2e8ffb8-98ee-4353-85d6-8428bb75739e;65a977a8-1cf9-4e47-8914-4e90dabdd178;erro na compra;2025-01-06;em andamento
+066ee23e-077f-406b-88e7-ff512013d1d8;b8640966-e016-4a8d-8b7c-94366301a034;não era o esperado;2025-03-19;finalizada
+00f09341-abec-4738-9922-26282b334695;cea5a983-3ff8-4775-8bd9-407c3c7f0591;erro técnico de processamento;2025-04-24;finalizada
+ee8a11de-25b1-45db-b6c2-06b624c996bf;8133ac66-64a9-4d75-8d50-8a027400986c;erro na compra;2025-02-17;em andamento
+62ca3f46-5212-422f-848b-4785f0417ea0;6db27b0d-e458-493f-bc72-48cfdde29e3c;não gostei;2025-04-12;em andamento
+d4670545-fac2-447c-b17c-a34ae871d6c5;f6ec91c4-2874-4f25-a327-b7bcf447f3fa;não era o esperado;2025-02-18;em andamento
+45dfee05-1477-4922-acbd-ff18669addde;d30002dd-01d2-4b3f-93fc-3a5f34f94828;defeito;2025-04-10;finalizada
+81d3970e-47b8-4dd3-bcd9-b5d567f5eef0;e45458f0-d812-4899-bf4b-e64116d88f62;erro na compra;2025-04-20;em andamento
+a559d016-49cb-4c01-a0f5-240d68fc4784;6c9def82-4d30-472d-a010-e2672aeb4b00;erro na compra;2025-04-07;finalizada
+0d1f28eb-2316-438d-bbb8-6091dc7cf4ac;460b4789-cc92-4e1d-a0af-96d5f9a7f544;não gostei;2025-03-24;em andamento
+557c2148-25ee-4dc9-b534-75761703f654;d5bcf3bb-1e11-4149-af77-3e07ceea57d9;defeito;2025-03-09;finalizada
+bf836ffd-e459-4e22-b140-549ca76e462d;118225ee-f3ff-43ff-a821-fee2c88c0376;defeito;2025-02-25;em andamento
+5a9ab37e-50b0-42ab-bcc3-0deed8551afe;99ee2f2b-5f86-4e60-92b4-ea69451c2b94;não gostei;2025-05-02;finalizada
+c0e4d17c-a35c-4e08-aca2-ffa28c489039;f33dd848-9b3f-4490-b6b1-ed98cda4c985;erro na compra;2025-01-17;em andamento
+abb5fec8-2589-4fe9-b051-4a31a58ac0eb;5a890c18-68ca-41ac-a1d0-a1aa67ede779;não era o esperado;2025-03-30;finalizada
+ab29ed19-5299-428f-8522-de249729f8d9;ebccf76f-7e29-4ddb-8881-3aec3bfeef75;não era o esperado;2025-03-08;finalizada
+cdf4fbf7-5499-481e-b37a-39974a78882e;fd8cec7a-03ce-44ba-97d2-1ba913cf3ab6;não era o esperado;2025-04-24;em andamento
+f2c5e20f-37c4-44c9-bbc1-171220b54bad;a729e832-0f56-4bf0-a774-3471550cd5c5;não era o esperado;2025-04-24;em andamento
+c5190a40-8f4c-4d3f-8f94-6b4533941d60;9fddcb0d-2fc2-4086-af5c-204b4422642e;não gostei;2025-02-18;cancelado
+595502d7-55ec-40df-9798-abb7b9a30a73;8bed043b-8ded-4af2-a28a-cbaa23f2a545;não era o esperado;2025-03-11;em andamento
+ba059d45-2bbe-4242-9915-6915d6338963;1c4a25ff-c564-49d4-9066-30d8ccf73fe3;defeito;2025-02-21;em andamento
+b69e7d6f-5881-4516-a220-5de980ac559c;297f1d23-4f60-4f3d-a8a8-1fb37e6d5b7a;não era o esperado;2025-04-25;em andamento
+c7413905-f177-4d05-9bb7-98c7227cf96f;c201b48f-99bb-4295-85f7-08ab565a60c9;defeito;2025-01-18;em andamento
+90092713-b7d1-4503-a09c-1fa22d2ff363;c39856b1-b20f-4ffc-bf56-068b8b14a2b8;não era o esperado;2025-02-07;finalizada
+38eb0e17-96dd-49b2-9dce-f2f2fd66c1c1;e64be654-4654-4d2d-af16-16f7fe2b9e82;defeito;2025-03-30;em andamento
+1c73f318-0414-47e8-a59d-a5673347b626;c653da90-8766-43e9-a091-16b27cd728b2;erro na compra;2025-04-03;em andamento
+82ad8e34-fdcf-4d89-8e56-a3efa9cfef44;4975d2fd-cc13-41e0-8859-1345b633c56c;erro técnico de processamento;2025-02-26;finalizada
+8056c6b1-7073-4081-bfa3-544144649f13;8a9adbfc-788b-41d4-8176-0cc275ac8d74;erro na compra;2025-02-03;finalizada
+ab959762-2a67-42fe-a191-6cc179656772;d6a7c6cf-f412-4de6-9818-0992bbc4bfb7;não era o esperado;2025-01-31;finalizada
+29419d21-fb0a-4372-9983-87a24a53af27;c81381d6-a925-4823-b1cc-3e912034b8d8;erro na compra;2025-03-23;cancelado
+0e53ee13-4356-4fa5-96f0-18fea34d62e1;e224489d-30b3-4624-a240-b4e21d05ae07;defeito;2025-02-01;cancelado
+531920b7-b5a4-4f8a-90cb-044a376f0034;a7362bea-6c68-456f-95e8-7bd40ef3893f;não era o esperado;2025-02-04;em andamento
+53a72e17-ef02-4b71-9e26-8cee667a9b9f;87bd6e92-8905-485c-b77e-b2c82ae4063d;erro na compra;2025-02-12;finalizada
+e5c83bf7-ed5f-4627-b5fc-9a2c06972471;1533db1c-ddad-444d-a8bb-647cbab6a1e7;não era o esperado;2025-01-15;finalizada
+19bdc5a0-ac95-4a9f-89c0-554c70d1f2b9;0946b01c-033f-4cd7-be2f-b2671e94f22d;não era o esperado;2025-01-28;finalizada
+2e150aca-cb6e-4429-882f-54df3952feb1;31f497a4-7204-4348-a5bc-40baabd3fe59;erro técnico de processamento;2025-01-09;finalizada
+c881c393-8237-4158-ba12-fc938f05e235;b77c6d6a-105f-4d5c-8660-7fb9dd326504;não gostei;2025-05-05;finalizada
+c59588fd-ee58-46dd-a61b-254bed181f9c;8fca11b5-4a5e-40d5-89f0-884ced1c8698;não gostei;2025-05-04;finalizada
+7972b2a5-f5f8-4569-9f30-4eb2b2116515;4fcd77dc-123f-437c-8b7b-943b2229d3bf;erro na compra;2025-02-02;em andamento
+2d71d148-6e0d-42ad-9a55-5111cdd31ce4;c602fc81-4eeb-4af4-a58b-9aa5ffec2814;não era o esperado;2025-02-28;finalizada
+06c18687-e4c3-447e-a4e8-d090648553ca;4dd4112b-1a4e-4237-8607-2acd2bb05a56;defeito;2025-03-24;em andamento
+84ae3d60-4b49-496f-b79f-4fd7d1ff3ef6;d4b152d3-889c-4ed8-8d5c-9c793f9dde06;não era o esperado;2025-04-16;em andamento
+21652b91-f853-42e3-a075-9bae26055f52;a24c9d98-46f8-4598-9463-ba00e6a073c7;defeito;2025-02-04;em andamento
+6b4390bb-1ae0-4811-ac3f-9f714375396e;48269b80-ef0e-4a39-8118-acac0f729501;defeito;2025-05-01;em andamento
+b69a2f0e-30c7-4a8b-acf6-575b68a6c907;418e794b-93c1-4153-88b5-2636977a7251;não era o esperado;2025-03-11;em andamento
+8ec93cb6-ece6-45bc-95d1-7f9e9b4c6382;79b139ca-3cb0-4ef0-9c47-f970494d094f;não era o esperado;2025-03-23;em andamento
+07d709c8-c9ff-47f1-8eb0-b248927d3485;27cd21ce-0348-4116-8baa-cdea1b1ce5e6;não gostei;2025-02-08;em andamento
+4781c079-177b-4cb7-80c2-48b0186ebfbc;51c1dd50-9b70-4f66-b685-1c8cc45d3869;erro na compra;2025-03-29;em andamento
