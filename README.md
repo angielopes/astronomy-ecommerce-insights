@@ -4,7 +4,7 @@ Este repositório contém um projeto completo de geração, tratamento e anális
 
 ## Objetivo Geral
 
-Criar uma base sólida de dados sintéticos que represente um cenário realista de vendas, clientes, produtos e transações — incluindo ruídos e inconsistências propositalmente adicionadas — para então aplicar técnicas de:
+Criar uma base sólida de dados sintéticos que represente um cenário realista de vendas, clientes, produtos e transações incluindo ruídos e inconsistências, propositalmente adicionados, para então aplicar técnicas de:
 
 - Limpeza e padronização de dados
 - Análise de dados com foco em negócios
@@ -16,7 +16,7 @@ Criar uma base sólida de dados sintéticos que represente um cenário realista 
 
 Minha intenção é desenvolver um portfólio que vá além da simples visualização de dados, simulando as etapas enfrentadas por profissionais de dados no mundo real. Desde a construção dos dados, passando pela estruturação dos fluxos, até a apresentação final dos resultados. Tudo foi feito com o objetivo de demonstrar autonomia, raciocínio analítico e visão prática da área.
 
-## Tema escolhido: Astronomia 🔭
+## Tema escolhido: Astronomia
 
 O e-commerce fictício foi inspirado no meu interesse pessoal por astronomia e tecnologia. Os produtos vendidos vão de telescópios a itens decorativos e livros, criando um universo lúdico que torna o processo mais envolvente e único.
 
