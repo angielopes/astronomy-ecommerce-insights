@@ -19,9 +19,9 @@ CREATE TABLE `produtos` (
 CREATE TABLE `devolucoes` (
   `id_devolucao` char(36) PRIMARY KEY,
   `id_venda` char(36),
-  `motivo_devolucao` enum(defeito,não gostei,erro na compra,não era o esperado),
+  `motivo_devolucao` enum('defeito','não gostei','erro na compra','não era o esperado'),
   `data_devolucao` date,
-  `status_devolucao` enum(em andamento,finalizada)
+  `status_devolucao` enum('em andamento','finalizada')
 );
 
 CREATE TABLE `vendas` (
