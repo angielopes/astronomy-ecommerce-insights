@@ -6,7 +6,7 @@ CREATE TABLE `clientes` (
   `regiao` varchar(5),
   `data_cadastro` date,
   `numero_compras` integer,
-  `status` enum(ativo,inativo)
+  `status` enum('ativo','inativo')
 );
 
 CREATE TABLE `produtos` (
