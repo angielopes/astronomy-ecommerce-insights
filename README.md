@@ -1,4 +1,4 @@
-# Nebula E-commerce Analytics
+# CosmoLume E-commerce Analytics
 
 Este repositório contém um projeto completo de geração, tratamento e análise de dados sintéticos de um e-commerce fictício especializado em produtos astronômicos. O objetivo principal é demonstrar habilidades técnicas em Python, SQL e Análise de Dados por meio de um portfólio autoral que simula problemas reais enfrentados por empresas de varejo digital.
 
