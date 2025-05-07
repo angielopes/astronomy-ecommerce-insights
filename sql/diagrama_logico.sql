@@ -31,8 +31,8 @@ CREATE TABLE `vendas` (
   `quantidade` integer,
   `preco_total` decimal(10,2),
   `data_venda` date,
-  `canal_venda` enum(site,loja física,marketplace),
-  `status_venda` enum(em processamento,erro,pendente)
+  `canal_venda` enum('site','loja física','marketplace'),
+  `status_venda` enum('em processamento','erro','pendente')
 );
 
 ALTER TABLE `devolucoes` ADD FOREIGN KEY (`id_venda`) REFERENCES `vendas` (`id_venda`);
