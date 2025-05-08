@@ -1,0 +1,1001 @@
+﻿id_cliente;nome_cliente;email;idade;regiao;data_cadastro;numero_compras;total_gasto
+a3b442bd-4649-4296-af58-42c3ff86cc31;Noah Barbosa;josuegomes@example.com;50;Centro-Oeste;29/01/2025;4;1808.48
+0f5ae9d3-8e6e-4003-a14f-3f12cfd01cbd;Dra. Letícia Moreira;sampaiodante@example.org;45;Sul;11/04/2025;1;539.97
+2a9528c3-5ae1-4bad-aa29-60fda85894df;Benício Cavalcante;pedro-lucassampaio@example.org;59;Sudeste;21/02/2025;1;934.0
+6a241f46-3af7-4a21-a93e-7b5b1e4ae3a7;Otto Marques;xfernandes@example.net;51;Sul;03/01/2025;5;1815.85
+39b02e2a-d96e-484f-bdb0-174e7938878a;Nicole da Cruz;pedro-miguelnovaes@example.net;38;Sudeste;19/04/2025;1;177.95
+2c6a6e9a-3280-47a1-8187-222b257d5e52;Evelyn Gomes;gael-henrique43@example.com;61;Centro-Oeste;13/02/2025;3;2385.45
+0a58f43c-5bda-4655-b06d-ca247bc6e121;Matteo Cavalcante;mirellaalmeida@example.net;39;Norte;10/03/2025;1;509.97
+61a66444-e2af-4629-9efb-336e2f546033;Julia Ribeiro;diasmurilo@example.net;55;Sudeste;11/03/2025;1;650.0
+54e14f3a-bba4-4ae0-adf8-f7672261ddef;Alice Fernandes;anthony-gabriel94@example.org;54;Norte;11/03/2025;2;2394.46
+8de1596c-5a9a-406a-96f1-42a206b919aa;Ana Lívia Lopes;isabellacassiano@example.com;37;Sudeste;31/01/2025;1;1617.47
+e3395b1a-1ce9-4871-bcf5-9d5feb9f33cb;Rebeca Cavalcanti;alvesmelissa@example.com;20;Sudeste;14/01/2025;3;3244.99
+716fda0a-45a8-4829-94e2-86e5ac8936bc;Ravi Lucca da Paz;aragaoesther@example.net;57;Sul;22/01/2025;2;485.93
+73d39457-b25f-43df-b8d4-9848702ba49f;Luiz Fernando Sousa;goliveira@example.net;29;Nordeste;18/01/2025;2;631.46
+1238d630-743b-45a2-9c0f-2fcfb3f6fe0d;Srta. Maria Fernanda Fernandes;fernando84@example.net;43;Sul;20/02/2025;1;22.5
+cff2b1c4-e53f-4644-b39e-4df25c0a1feb;Dr. Enzo Pinto;pda-cunha@example.net;57;Sudeste;11/03/2025;4;1849.9
+2240063b-fed7-47be-afd0-d2f7e3524444;Sr. Davi Miguel Brito;icosta@example.net;61;Sul;22/03/2025;2;1269.98
+b599277f-f78e-49e8-b676-291d4e329b4b;Diego da Luz;qramos@example.org;26;Sul;07/02/2025;3;3069.93
+638e1388-8faf-4d4a-a5a9-9ebcbe0ec2da;Yasmin Araújo;augustocassiano@example.net;29;Centro-Oeste;09/02/2025;3;2908.92
+35ce8841-4973-4d6c-8dca-bfb7001a9a8b;Raul Cavalcanti;xdias@example.org;45;Sudeste;06/01/2025;5;7226.38
+b08a4895-d4ff-4666-b5c8-e90d9e3d750d;Isabelly Silveira;joao-vitor04@example.net;24;Centro-Oeste;07/03/2025;2;1963.9
+e39836bb-e23d-4faa-afad-49e9c41c147e;Dr. Valentim Sá;da-cruzheitor@example.com;25;Sudeste;23/01/2025;4;1557.46
+30a5648e-efe9-43d0-b639-08bf03ece8ff;Dr. Davi Miguel Silveira;rafael03@example.org;67;Nordeste;05/01/2025;4;2238.46
+d65e59dd-e62d-4d06-8f9b-85581a7f195b;João Lucas Azevedo;arthur-gabrielalbuquerque@example.org;20;Sudeste;18/02/2025;2;1768.94
+497ec6d1-081f-46dc-b8d9-a88aef0bea4f;Gustavo Henrique Azevedo;lais44@example.org;68;Nordeste;13/01/2025;3;527.94
+8de08fc2-c3e1-4a85-946e-f10411906f50;João Miguel da Cruz;eramos@example.net;59;Centro-Oeste;02/01/2025;3;1109.96
+5200044b-3148-4df8-a6ca-8d50e5f5c891;Ana Freitas;joao-guilherme27@example.com;35;Sudeste;21/02/2025;5;2733.92
+13106665-aec2-4b19-bbc3-98d82d6bc882;Davi Lucas Lima;sousaana-laura@example.net;20;Sudeste;06/03/2025;3;604.47
+c28fa16b-0aa6-4cb9-81bc-be59d296a12d;Maria Liz Pinto;lpimenta@example.net;43;Nordeste;08/03/2025;2;859.97
+ada58417-5e2a-432d-b1ab-0b56d5c9fdc7;Milena Sampaio;claraguerra@example.net;24;Sul;22/02/2025;2;1999.97
+c8fe3ccd-c8b8-49c6-ad30-49cf43e458fc;Maya Ramos;eduardo13@example.com;74;Sul;09/03/2025;2;2154.96
+bc2cbb0d-dd33-4cc7-ab7f-089acd5f4822;Pietro Sales;sviana@example.net;34;Nordeste;16/01/2025;2;4124.94
+54231dbe-2ba6-4158-a5ae-cf37a9d1a28e;Maria Helena Machado;maitesantos@example.com;36;Centro-Oeste;06/04/2025;2;2578.96
+1f8b4af1-96bc-432d-ac11-7babd6642fe8;Henrique Nunes;bmontenegro@example.org;73;Nordeste;24/01/2025;1;299.97
+eec259dc-7f95-497c-a76a-a6ced50755d9;Brenda Caldeira;melina50@example.net;72;Centro-Oeste;05/03/2025;3;4569.42
+afd380c4-2713-482c-b41e-a3ac5fd23109;Sr. Davi Lucas Aparecida;azevedojoao-pedro@example.com;75;Sudeste;09/04/2025;1;1379.94
+a8aa7158-2b70-4525-bc67-f831cbc84759;João Miguel Casa Grande;esternunes@example.net;24;Sul;11/01/2025;2;1849.91
+a61f0b96-e75f-445a-aa1d-3fc65f31273d;Isaac Rezende;ottoteixeira@example.net;68;Sul;09/02/2025;2;274.99
+db23aa8c-3bca-4f85-a20a-60ac9261549d;Kevin da Conceição;henry-gabrieljesus@example.org;46;Sudeste;20/01/2025;4;8650.82
+49646b96-fa3c-4628-8926-21df465568b7;Maria Luiza Sousa;rdas-neves@example.com;20;Sul;01/02/2025;2;1940.97
+d1682e09-f1f7-4904-9307-5157d8c128e7;Raquel Aparecida;hcamargo@example.net;53;Centro-Oeste;08/02/2025;4;2354.93
+4f9a5f98-4d95-4273-8b2c-c805d1403430;Luísa Azevedo;camposester@example.com;61;Sul;04/01/2025;3;1413.91
+7885187d-18fc-43b7-8b35-6e9a2e5eeb6a;Mirella Cardoso;dantecosta@example.com;54;Centro-Oeste;03/01/2025;2;1090.0
+c55523ed-fe89-46c8-99cb-3540643ffdae;Lorenzo Ramos;pietra60@example.org;65;Sudeste;03/01/2025;3;3639.91
+e916da57-f248-43ab-977a-8a5f6ffe33b3;Liz Cardoso;isiscavalcanti@example.net;52;Sudeste;01/01/2025;4;2812.48
+c72850c1-3322-468b-9be7-8aec32da81f0;Lucca Moraes;fernanda93@example.com;46;Sudeste;13/01/2025;2;3094.98
+b253d218-6c4a-47ea-8906-17f2747b6dba;João Lucas Martins;bferreira@example.net;57;Norte;18/02/2025;5;5474.89
+398d1ca6-8b68-40b5-9d61-fac36cd5e859;Alícia Fogaça;epires@example.org;66;Norte;19/01/2025;5;4459.92
+9e91a71c-7374-4cbf-978c-57d3508850d3;Vitória da Luz;agatha00@example.org;21;Sul;16/01/2025;3;1044.99
+0e0630cd-996d-4c50-bc04-a168652ffb49;Sra. Joana Vasconcelos;luigi44@example.org;59;Sul;09/01/2025;4;4735.39
+a3422e50-9e2a-4324-8f79-a8a75f8a14bd;Gabrielly Guerra;dlima@example.com;47;Nordeste;03/01/2025;4;4938.44
+a3b5cece-a446-4e72-b64c-911aa9ab364a;Vitor Gabriel Sá;vviana@example.com;45;Sudeste;26/01/2025;6;5683.39
+5ef787b8-f2e6-495f-b32e-2016add702c9;Dante Nascimento;jesusdavi-luiz@example.net;23;Centro-Oeste;22/01/2025;4;1288.96
+97a418b8-92d0-4319-a0bd-14220b0b81de;Samuel Silva;oramos@example.com;46;Centro-Oeste;27/04/2025;1;539.97
+1d48a071-ab61-47b1-b93b-4c3220500494;Nicole da Paz;hmacedo@example.net;33;Centro-Oeste;14/01/2025;3;2854.9
+beed10b6-4f6e-474b-9eda-b0276550f74a;Marcelo Sampaio;maria-eduardada-costa@example.net;46;Centro-Oeste;02/04/2025;1;539.96
+929daf9f-0149-42af-8ab1-a5041f8c56e0;Cauã Porto;diaskamilly@example.com;57;Sudeste;10/01/2025;2;3143.93
+69fb0763-8a9c-46f7-8ee4-e5125802b640;Dr. Dante Cunha;yuri55@example.net;31;Sul;11/02/2025;3;2794.87
+3610901c-2196-43b5-bc21-109bba27bc64;Mirella Porto;silveiramaria-clara@example.net;48;Norte;02/02/2025;4;3873.89
+409d3602-5084-4242-968b-1625746f7891;Srta. Olívia Macedo;das-nevesevelyn@example.com;22;Nordeste;04/02/2025;2;579.99
+9780c215-2b2b-48e9-a417-c09380a8a23d;Apollo Almeida;mendoncamatteo@example.org;35;Centro-Oeste;12/02/2025;3;2649.95
+f796611f-c7c1-4b1b-9d58-631b052226b9;Cauã Cassiano;wcavalcanti@example.net;31;Norte;18/01/2025;4;4355.86
+956269f0-e5d7-4875-adad-d6c795a76d79;Cauê Porto;eduardagarcia@example.com;45;Sudeste;25/01/2025;1;699.98
+af76b6c2-dd6d-4b41-b692-a531c6097cd8;Srta. Joana Aragão;emanuelly52@example.com;40;Centro-Oeste;18/01/2025;2;240.0
+7daec949-d700-4461-8cb6-b0ba925f8199;Theo Melo;sophia56@example.com;51;Nordeste;12/01/2025;1;37.5
+2812859a-1337-439e-8d4f-5d272c7f0b79;Nathan das Neves;vitor-hugocunha@example.com;75;Sudeste;06/01/2025;1;899.99
+a013ac6e-deda-4e16-9b3d-bd5ce9a1fa6f;Eduardo Montenegro;leandroalves@example.org;33;Sul;09/01/2025;1;100.0
+84e3b774-569a-4ef0-9f86-5633ab7aeb66;Benjamim da Mota;abreularissa@example.com;52;Norte;11/01/2025;4;1439.88
+fde91c42-002c-4c22-b4de-5f7070f81dba;Maria Luiza Aparecida;ycastro@example.com;35;Sul;01/01/2025;2;2099.97
+5cd8fe1a-dafe-48a9-bc71-e0bef3579560;Bento Rodrigues;silveiraagatha@example.net;18;Sudeste;08/03/2025;2;925.95
+f4e95734-5052-4700-a077-96a38685abaa;Mariah Aragão;omachado@example.com;20;Sul;17/02/2025;1;750.0
+6dda4f8d-cea6-4f4c-b9e5-8ff092f837d4;Marcelo Andrade;oliveirarhavi@example.org;58;Centro-Oeste;21/01/2025;6;5954.38
+9e44e98c-b359-490e-b030-9aaf85ea16e0;Luigi Gomes;luiz-henriquearaujo@example.com;30;Sul;09/03/2025;1;189.98
+48998e5f-d40e-43ce-92a7-4a4144bed486;Srta. Mariana Siqueira;bryan69@example.com;40;Norte;14/01/2025;1;1999.98
+09cb3942-43f5-4a85-bbc9-f87af668a617;Bruna Rocha;valentina84@example.com;69;Centro-Oeste;17/01/2025;3;1538.97
+7914c120-c8dc-419f-be35-11287900f7f9;Marcela Cardoso;isabellada-cunha@example.net;71;Sul;10/01/2025;5;6199.43
+a56b61e0-4ba8-44ca-a449-cb6fbf72ae52;Brayan Caldeira;andradeluigi@example.org;41;Sul;11/02/2025;2;1489.93
+3c088990-54a2-4051-bb0c-cad9eee13cae;Maria Flor Mendonça;csouza@example.com;68;Centro-Oeste;23/01/2025;2;154.96
+a9f25336-83f4-49a9-88a6-39d015b52908;Noah Casa Grande;marcelobrito@example.com;29;Sul;05/01/2025;4;3330.92
+0426fcc9-255b-40e2-bdc2-b74b38a56b49;Ravi Lucca Dias;pereirafernanda@example.com;75;Centro-Oeste;15/02/2025;4;725.94
+546252e7-f43b-4052-8459-bd6ec0f63229;Emanuelly Oliveira;valves@example.net;26;Norte;23/02/2025;3;1259.87
+b9a5d4d0-4237-41f1-bdac-dc5e20c0f275;Maria da Conceição;da-mataotavio@example.com;71;Nordeste;02/02/2025;7;3325.85
+7f05fbf5-efca-4577-9aa6-f7cb90c7e6ac;Felipe Andrade;saparecida@example.org;60;Nordeste;08/01/2025;1;759.98
+d0725b5c-a281-4044-af96-288295d82980;Augusto Marques;kcavalcante@example.org;48;Nordeste;26/01/2025;3;2736.93
+493e904d-30ec-4796-a59b-457fc0d7ac73;Nina da Cunha;natalia93@example.net;39;Sul;08/02/2025;2;1067.95
+3f738f50-19a2-476f-a8dd-2bfdf956be95;Raquel da Rocha;valentinasiqueira@example.com;25;Nordeste;13/02/2025;2;1669.96
+972a8469-1641-4f82-8b9d-2434e465e150;Bryan Mendonça;psales@example.com;41;Sul;23/02/2025;3;2185.94
+31a3ac4d-828c-47e7-87d5-b7be1d30d990;Vitória Machado;milenateixeira@example.net;75;Sul;19/01/2025;5;3462.38
+7250ee18-260a-4962-9d81-b7f57d5911c6;Dante Caldeira;costelabenicio@example.net;29;Norte;15/02/2025;2;2518.98
+889fe107-443b-4d0f-bdbc-3093a8284442;Sr. Dom Costela;emanuellacavalcante@example.org;27;Nordeste;05/01/2025;5;2494.86
+43ad3d62-b17c-4b21-8dbc-2c1ca4afe7bd;Ravi Lucca Monteiro;caio44@example.net;18;Norte;21/02/2025;2;580.99
+f758dce2-0556-4aea-a7b0-32831d7c0098;Miguel Rezende;marceloda-luz@example.com;53;Sudeste;11/01/2025;3;1247.42
+3985fb62-17dc-4eff-a872-13f98d605936;Maria Liz Novaes;julia04@example.org;47;Centro-Oeste;03/03/2025;2;1447.92
+ec86a890-d7b0-4bdc-966e-3cbe9aea622f;Srta. Mariah Caldeira;vsilveira@example.com;73;Centro-Oeste;19/02/2025;2;352.0
+aab612c9-415d-474a-b5a6-69814104a8b5;Dr. Davi Lucca Martins;matteoribeiro@example.net;40;Centro-Oeste;22/01/2025;2;1712.46
+24eeb4a6-c145-45c7-9d98-6115f05eeefe;Olivia Araújo;isaqueda-rosa@example.net;25;Sudeste;19/02/2025;3;1870.47
+3d114802-2702-478b-9f0f-da8d05379ff6;Ana Vitória Sousa;vpimenta@example.org;32;Nordeste;17/03/2025;2;2809.91
+f6c8b8b9-d915-4664-bd27-4ad5a9a54c24;Renan Rios;dbarbosa@example.org;63;Sudeste;03/01/2025;5;4936.44
+c5f833cf-f4ce-4477-b8bc-a9ac2ada62ce;Mariane Ribeiro;vinicius41@example.net;29;Sudeste;31/03/2025;2;1524.93
+f5c9b047-9c10-4572-8f6b-40d09efba58b;Srta. Julia Costa;cmartins@example.org;67;Sul;16/01/2025;4;3031.93
+cd98f9e2-8d88-4beb-890d-9655db842660;Maria Vitória Marques;fariasantonio@example.org;42;Norte;04/01/2025;2;1179.94
+e3de4ec0-4dfa-41be-a335-b2c89e7b1e95;Dr. Enzo Gabriel da Costa;wcirino@example.com;18;Centro-Oeste;01/02/2025;2;4748.5
+4cc9f5f2-e42e-4037-8a55-2ea08acbbe09;Juliana Vargas;isabella04@example.net;52;Norte;03/01/2025;5;2541.89
+6dd49c96-6744-4b9e-aded-cba5a22c3d4f;Sr. Bryan Pacheco;guerraantonella@example.com;74;Sudeste;11/01/2025;2;2451.0
+1b2ededb-8fc8-4fc0-83d5-bceb5edbb8ee;Srta. Emanuelly Cirino;mmendonca@example.org;49;Centro-Oeste;30/01/2025;6;3944.89
+9d3616a1-08de-4921-a60c-b547e2280fe3;Breno Mendonça;ian25@example.net;31;Sul;24/01/2025;1;120.0
+acef45c4-de37-40fb-9db9-4eee1a3c2131;Srta. Mirella Cavalcanti;guerraana@example.org;59;Centro-Oeste;08/04/2025;1;80.0
+118a9d29-2f92-4996-99f1-95d014822f53;Davi Lucca Pereira;ceciliada-cruz@example.net;20;Nordeste;20/01/2025;1;730.48
+b34c6c73-5833-4b30-ac77-6e950b981ccd;Brayan Novaes;yfarias@example.com;19;Nordeste;25/03/2025;1;2699.97
+287d06ca-6f4c-469a-8b22-d3081c8eaee9;Aurora Mendonça;rfreitas@example.com;75;Sudeste;02/01/2025;6;4962.85
+94fb09f0-53c9-4ae7-bcf0-7bb3f343d9eb;Emanuel Rios;emanuella88@example.org;22;Nordeste;27/03/2025;2;2023.47
+0f3f0f48-52d6-4779-9e43-79cbd8230076;Marina Albuquerque;jpacheco@example.org;70;Sul;04/04/2025;2;736.47
+4be318a8-0b39-4ccf-bc9f-3bc37210045a;João Miguel Aragão;mathiasmelo@example.net;39;Nordeste;18/02/2025;4;4984.42
+f692641a-9aad-40ce-8ab2-4f241744ee3f;Matteo Porto;fogacaluiz-otavio@example.com;26;Centro-Oeste;09/01/2025;4;2789.9
+b65feea9-7d82-4264-9ba3-62e7afa415e5;Stephany Guerra;hramos@example.org;50;Sudeste;13/01/2025;4;1759.93
+8fc3d7d3-f6bd-40c7-a24a-2a50d0b1fde0;Alícia Mendes;lara53@example.org;45;Centro-Oeste;07/01/2025;4;704.93
+27d415b6-0d77-45a0-a222-b6a615bfbe97;Benicio Cirino;maria-vitoriafonseca@example.org;35;Centro-Oeste;23/02/2025;1;1164.95
+f4fd25b7-384f-4e3b-8680-4a8a515f352c;Gabriela Sales;bribeiro@example.com;74;Centro-Oeste;23/01/2025;2;704.93
+e1ad640c-7463-435e-aafb-9f20783c91eb;Alana Pinto;brayanda-costa@example.org;72;Sul;04/01/2025;3;1499.94
+2e326567-d284-454e-bebe-c0db9a3a6103;Aurora da Luz;henry-gabrielcunha@example.com;73;Sul;25/02/2025;3;2988.45
+606cc2f5-2c81-4bf0-91f6-04068b5a8683;Rael Cavalcanti;onunes@example.net;70;Norte;19/02/2025;4;2420.87
+3b41c943-ebd8-43b1-8b3d-0c3617d09810;Diego Rodrigues;tsilveira@example.net;65;Sul;08/02/2025;2;949.95
+7ea5a387-363b-45cb-9329-37246dfd171a;Lara Oliveira;vicente27@example.com;69;Norte;02/01/2025;1;129.98
+7387928a-29a3-4b6d-b9bf-ca38afe9be90;Srta. Isadora Siqueira;isabelasiqueira@example.net;45;Norte;03/01/2025;5;2197.43
+d43cdd6d-e0c1-4f1e-a0da-897258321ee4;Hadassa Casa Grande;bento72@example.net;19;Sul;11/03/2025;1;2498.98
+a2a9d4d8-102e-4de5-a5cc-8bf738ab854c;Luiz Felipe Pimenta;pireslara@example.org;35;Sul;07/01/2025;1;100.0
+b60b4f87-5dd8-4ffc-9f87-8b322b429596;Sarah Alves;peixotosophie@example.net;24;Sudeste;15/01/2025;2;509.96
+f296d9f0-cd23-42c2-abff-e17b532401fc;Srta. Julia Almeida;ravigoncalves@example.net;68;Nordeste;02/01/2025;4;2205.96
+f7222fbe-ea06-494b-a310-ff72ad62d094;Pedro Lucas Casa Grande;ana-julia52@example.org;33;Sul;26/03/2025;1;429.99
+e9366a85-3a46-4be3-9255-a4de9330ba83;Maria Cecília Pereira;joao-gabriel67@example.org;20;Norte;18/03/2025;3;2467.43
+30385dd7-4c7d-4313-a6c6-81b0e4729be5;Rodrigo Cavalcanti;juancaldeira@example.com;68;Sudeste;26/01/2025;1;309.96
+b24cc64f-be3e-4e57-b30a-9e32aba4fc03;Sr. Diogo Dias;vasconcelosgael@example.com;64;Centro-Oeste;18/02/2025;4;1098.38
+257c54bc-4024-4424-aef2-ab2f495fa2fc;Esther Vasconcelos;luisada-cunha@example.com;23;Sul;02/01/2025;3;1355.88
+afffcfd2-341e-440b-97c7-00aab7b56ea7;Bryan Santos;sfernandes@example.org;37;Sudeste;25/01/2025;3;939.94
+7eef09ab-da14-4a47-b823-51d9d94df188;Alana Nogueira;xcavalcanti@example.com;30;Sul;06/01/2025;3;2929.95
+235fc3d5-2224-4806-8e07-2a5273edb223;Lunna Caldeira;murilopacheco@example.com;53;Sul;01/01/2025;2;1207.92
+379d58f9-dc26-4108-b140-11a1afc2ccfc;Alana Sousa;maria-fernanda52@example.net;23;Sul;06/01/2025;4;1579.95
+fea82e3a-b544-41cb-9541-0a9d090aaa93;Maria Luiza Gonçalves;maria-luiza11@example.net;33;Centro-Oeste;29/01/2025;2;1690.4
+a9488d99-0bbb-4599-91ce-5dd2b45ed1f0;Heitor Carvalho;marquesleonardo@example.org;62;Sul;03/01/2025;3;4928.99
+907276ea-44c0-4a9a-964a-cb1f39eb038a;Dra. Bárbara Pacheco;nascimentovinicius@example.com;45;Nordeste;04/01/2025;4;714.96
+7de31a51-6694-4343-90ba-58e3d2762bdc;Dr. Benjamim Vasconcelos;bcunha@example.net;73;Norte;01/01/2025;2;199.97
+e9aa144b-9dd4-4675-af14-5064aab07015;Dra. Sophia Fernandes;garciamaria-cecilia@example.net;40;Sul;23/01/2025;5;3639.87
+de6cf36b-9edd-4182-b3fd-862d4057e470;Maria Cecília Fogaça;peixotogabrielly@example.com;63;Sul;08/01/2025;3;3456.94
+53f30073-83e9-4ef4-ad7d-f5d0d3b59af7;Melina Guerra;sousaleo@example.org;69;Sudeste;19/01/2025;4;2035.88
+597278c5-1789-4e63-a746-5743897b303d;Marcos Vinicius da Mota;cecilia14@example.org;71;Norte;02/01/2025;1;1833.99
+ccf4ffb0-b4bb-473f-ac70-51d1d051267f;Alana Sousa;matteo42@example.com;65;Sudeste;02/03/2025;2;617.48
+51397c06-a630-4d9d-bcb9-23f5f5edf382;Bella Leão;lorenacosta@example.org;34;Sudeste;03/03/2025;3;1080.91
+e67093a0-fc48-4615-83b0-b35cdba6fdf8;Nina Melo;yago22@example.org;71;Centro-Oeste;17/02/2025;3;2479.37
+670acc5c-b321-4f21-8dd8-eb85b04d3376;Francisco Rodrigues;joao19@example.com;45;Sul;22/01/2025;8;5335.85
+b379cb1e-e8cd-40cc-b6da-3ca0d2e82f38;Théo Borges;da-conceicaotheo@example.com;25;Centro-Oeste;11/01/2025;2;2524.96
+30c9c51f-c80b-4af7-9315-fafa7500f785;Cauã Marques;guilherme02@example.net;27;Sudeste;25/01/2025;2;485.49
+506e5a9a-b758-488d-ab73-295b344a54b8;Sr. Luan Albuquerque;ravycavalcante@example.com;66;Centro-Oeste;26/02/2025;1;89.97
+79db7862-8d7d-4772-a08e-2f5c61177270;Apollo da Rosa;oliver51@example.org;64;Sul;09/02/2025;2;1099.97
+a605b7c9-fb07-4e93-8a37-31ab0be3534a;Dr. Guilherme Rocha;rael17@example.org;37;Norte;02/04/2025;1;500.0
+2e709838-0190-4620-99dc-abd056febfb9;Ana Luiza Garcia;matteoteixeira@example.com;35;Nordeste;12/03/2025;2;1580.44
+033e02f7-1e93-4127-acf7-2140bd9bc648;Pietro Pires;sampaioelisa@example.com;49;Centro-Oeste;04/05/2025;1;739.95
+292bd156-db94-4570-9ac7-0ec0ab8ddeb4;Joaquim Porto;aylada-rosa@example.org;41;Nordeste;06/01/2025;4;1807.41
+09b2eae6-54eb-4c91-b784-ae08758fc8fa;Maria Sophia Nogueira;juanandrade@example.com;58;Norte;20/03/2025;1;657.48
+3b53f64b-7cd6-4da4-82ef-da8b38048786;Catarina Nunes;carolina80@example.org;34;Norte;17/02/2025;2;1375.5
+34981735-4d38-4415-a036-35fca88d4108;Liz Ferreira;rcampos@example.net;64;Centro-Oeste;10/02/2025;3;1139.97
+59e4b671-4774-4c58-85f8-bc16f7860b50;Beatriz Sá;limaluiz-gustavo@example.com;50;Centro-Oeste;13/01/2025;2;3109.5
+a9f948b2-4e63-44bb-be49-3f43b118f68d;Gael Henrique Caldeira;aurora36@example.com;48;Nordeste;13/01/2025;2;1120.96
+f2ce7eeb-4c56-4b8f-8bb4-32b3d2e76deb;Guilherme Cunha;ycamargo@example.org;44;Nordeste;19/01/2025;1;430.0
+52961fb3-4d40-4b28-9628-ddcd19dd3e8c;Nina Sales;helena16@example.org;63;Sudeste;24/01/2025;6;6854.38
+7c059799-bdae-4eff-a83c-510ed2efa93b;Alexia Dias;rodrigo37@example.net;61;Centro-Oeste;08/01/2025;5;7319.82
+1a5165ca-3c7c-4d85-a5cf-0041d0a643fe;Rodrigo Sá;giovannamelo@example.org;29;Norte;25/02/2025;3;3305.44
+f9a55cf2-a66c-4fa1-b5dc-8a9afb38cd91;Theo Sampaio;maria-sophia06@example.net;58;Nordeste;24/03/2025;3;2949.89
+cf03f0c8-0eff-45bd-87eb-340dc74e48ff;Sr. Breno Cavalcanti;marquessarah@example.net;26;Nordeste;28/01/2025;3;2080.43
+f72169bb-8096-4718-a051-acef097a1e10;Alexandre Ribeiro;xpinto@example.com;63;Nordeste;09/01/2025;3;4361.92
+7d154385-52fb-443b-9954-6eb400257ad1;Paulo Machado;cauada-mata@example.org;54;Centro-Oeste;01/01/2025;4;2139.95
+86e52753-7c93-46cc-97d7-a560adb14670;Marina Cavalcante;davi-luccapimenta@example.org;71;Centro-Oeste;01/03/2025;3;2661.42
+b07aa066-7354-45ea-a894-9b8d00af5b3a;Maria Flor Macedo;vdias@example.net;75;Nordeste;02/03/2025;2;871.5
+4c2272f3-4811-4562-a91c-f19243e8644b;Maria Isis Sales;mariane40@example.org;25;Sudeste;09/01/2025;4;1609.89
+9132b63e-f162-47e4-a9c3-49e03602f8ac;Cecília Porto;catarina31@example.com;54;Norte;03/02/2025;4;4590.9
+5cce5ba9-31d4-4e09-8fd3-3afc91fdfa4f;Dr. Alexandre da Luz;bcaldeira@example.org;18;Sul;22/01/2025;2;279.98
+b4adaf89-0ff1-4a9f-ba37-0623bc5fd4dd;Igor Nogueira;carlos-eduardo39@example.com;62;Norte;23/02/2025;2;341.97
+4b83b570-8bb4-495a-9976-b2bacc27f386;Marcos Vinicius Mendes;alexia57@example.com;31;Nordeste;28/03/2025;0;0.0
+86cac6f4-e238-4e93-bd17-c5e8d5ca69ab;Ana Laura Pacheco;felipe42@example.com;60;Norte;03/04/2025;1;599.97
+1036ca81-0bc4-47ba-b0d0-ebcb6949ece5;Ana Liz Pimenta;heloisa36@example.net;36;Sudeste;10/01/2025;1;199.99
+96ef2ad6-b97e-4703-86c8-adfe7bf47042;Srta. Helena Moraes;aurora28@example.net;50;Sudeste;03/02/2025;3;972.9
+b42a2d93-9aba-4f15-b214-90623e1a963e;Gabriel Camargo;kaiquepinto@example.net;67;Sudeste;05/01/2025;4;5309.41
+c3231466-aebb-490e-a4e7-51de57ff51d9;Raquel Moraes;ana-luizacosta@example.com;44;Sul;23/02/2025;2;577.93
+51cbf9e5-fb7d-4ba1-98c8-8c483ced4d1f;Maria Clara Pinto;pereiramaria-fernanda@example.com;68;Sul;09/03/2025;2;419.97
+3b964c74-ffe6-4994-9580-4c2ac44fc4b8;Isadora Moraes;olivia69@example.org;22;Sudeste;23/01/2025;1;80.0
+d56f0350-8c45-4ce2-a7f4-8ad54d0b0d1a;Lucas Gabriel Silva;rafael76@example.org;71;Sudeste;17/01/2025;6;2654.88
+8f158449-4f40-422f-95b0-2530f020e992;Maria Luiza Cavalcanti;ebrito@example.com;25;Sul;24/01/2025;4;1387.87
+de8ede0b-a85c-4e4a-804b-6fabfcf56188;Pedro Henrique Freitas;carolinepeixoto@example.com;59;Sul;04/02/2025;4;7074.93
+e3a68a70-7e71-4b55-8639-bd418b15bd94;Sr. João Felipe Freitas;limaraquel@example.net;42;Norte;07/03/2025;3;1029.93
+21084dd9-f75d-4e3c-848d-56502e9522d6;Sr. João Nascimento;yda-costa@example.org;36;Sudeste;09/01/2025;3;1354.97
+17fc695a-07a0-4a6e-8822-e8f36c031199;Nicole Santos;raquelfarias@example.com;44;Centro-Oeste;12/03/2025;0;0.0
+e1fdc6d1-6978-4221-bfb7-5c574b8c031f;Dra. Kamilly Campos;npacheco@example.net;55;Nordeste;18/01/2025;3;3631.94
+a84554c3-a3f6-4c61-afb7-0dab2f383b43;Letícia Câmara;das-nevesisaac@example.com;54;Norte;04/05/2025;0;0.0
+5e717fca-020a-4497-b4ed-51458d9765c7;Brayan Fogaça;ana-luiza09@example.com;75;Norte;05/05/2025;0;0.0
+aa604892-3926-42e9-9b58-eb49c9784b52;Maria Julia Casa Grande;joao-pedro85@example.com;43;Sudeste;17/03/2025;3;5019.93
+cbf925b5-6418-46b7-bf2b-43b422e9e527;Arthur Gabriel das Neves;vasconcelosester@example.org;41;Sul;27/01/2025;2;249.99
+84182d35-3e71-4433-bd90-b81afbe0e6b8;Dra. Raquel Porto;bvieira@example.org;59;Sul;06/02/2025;4;3257.43
+668c879b-d2dc-42c8-b2b8-d8aa21768dd7;Dr. Ravi Lopes;dda-conceicao@example.com;49;Sul;15/01/2025;3;1089.96
+046a0df5-cafd-4613-b2bb-912d7da67785;Melina Oliveira;eduarte@example.net;66;Sul;13/02/2025;2;484.96
+bd29ede9-cab4-423b-b448-83858de7ad6c;Agatha Pacheco;goncalvesdaniela@example.org;41;Sul;25/01/2025;1;1570.97
+ec1f41ce-57b9-4dfb-af82-e70cb9644e4f;Larissa Almeida;zcavalcante@example.org;64;Sul;04/04/2025;4;1826.37
+c71d5e60-1d52-46ab-b7e6-427cbf780e3f;Nicolas Caldeira;bryan41@example.net;42;Sul;10/04/2025;1;1219.97
+11c58ef0-dd46-4c09-8752-87aa5408f9ac;Srta. Sara Aragão;kevincarvalho@example.org;73;Sudeste;19/01/2025;4;2584.95
+cf0df860-ebc9-4914-9176-a9d19a3624d6;Cecília Dias;saotto@example.net;48;Sul;01/02/2025;6;5752.94
+1723ecdb-b058-4256-94b3-e8cfbfbbeab3;André Cavalcanti;caio11@example.com;20;Centro-Oeste;12/01/2025;5;7894.37
+1c24220e-2cab-47e7-8c6b-66e5402adf9c;Jade Rocha;ncavalcanti@example.net;40;Nordeste;26/01/2025;3;1481.87
+92a81713-b90e-444b-951c-25d54d4c5280;Luiz Felipe Freitas;jose37@example.net;18;Centro-Oeste;11/02/2025;0;0.0
+b5d9ad36-5287-464d-a30a-6658b1be6df2;Arthur da Cunha;eferreira@example.net;60;Sudeste;14/01/2025;2;1891.92
+ded255d0-bf1e-4366-8b8e-63d4ce7607ad;Levi Garcia;alice26@example.org;72;Nordeste;02/02/2025;3;804.96
+960be0f4-9513-4c22-9583-9b99a50a13dc;Gustavo Henrique da Cruz;kamilly51@example.net;55;Sul;10/02/2025;0;0.0
+07f194f9-c115-4d6d-8a4e-5b70a6d964a3;Gustavo Henrique Silva;murilo08@example.org;37;Sudeste;30/01/2025;2;1111.5
+61a451ff-700b-4b43-ad3b-9d13c3e90323;Caio Costela;camposlavinia@example.org;74;Sudeste;07/01/2025;2;3470.95
+7bab1baa-2172-40aa-a44a-913af933a9fa;Jade Ribeiro;bryan35@example.net;29;Norte;22/02/2025;2;1599.96
+1fe771d6-d917-4793-a9d3-c2e6505cc686;Dra. Isabelly da Rocha;mendoncamaria-sophia@example.net;49;Sudeste;02/01/2025;2;499.98
+a2cd1590-58af-493c-8aa2-b4c93ba5bd76;Evelyn Costela;ravi-lucca07@example.org;21;Sudeste;17/01/2025;3;1899.91
+698c206f-e1a4-4e10-ad53-4dd0cf8ebc5a;Clarice Brito;franciscogomes@example.net;54;Centro-Oeste;08/03/2025;2;3655.96
+9191b363-4e2d-4645-adc7-cac7fd72b050;Pedro Henrique Rios;lucascamara@example.org;52;Centro-Oeste;27/02/2025;2;3277.96
+6c307511-b2b9-437a-a8df-6ec4ce4a2bbd;Maria Flor Martins;rochaenzo-gabriel@example.net;49;Centro-Oeste;21/01/2025;3;2120.0
+bff9507d-cd14-403e-8359-9af65d01f55f;Yago Araújo;ravynogueira@example.net;26;Centro-Oeste;26/03/2025;1;180.0
+28e333b6-4e8a-4c4b-b724-20411e43fbd2;Murilo Oliveira;xabreu@example.net;53;Centro-Oeste;17/02/2025;4;649.97
+c5285425-c7a9-433c-a2d8-39d333e4f986;Luiz Henrique Machado;rhavi56@example.com;49;Nordeste;03/02/2025;1;2030.0
+c4767556-f97b-42dd-8f9b-72aed85c16bd;Benício Azevedo;ceciliada-rocha@example.com;47;Sudeste;06/01/2025;4;1164.87
+1db14bfc-6f3a-4115-acb4-678c16120aa6;Srta. Stephany Gonçalves;heloisacastro@example.com;37;Sudeste;04/01/2025;3;2988.44
+f1faf665-7115-43f3-92e8-9d1028711733;Emanuel da Conceição;joao-pedro03@example.org;27;Nordeste;10/02/2025;5;4538.45
+d10bf4dc-0de4-4af4-9347-94cc5d04032d;Manuella Pinto;da-luzaurora@example.org;18;Sul;06/02/2025;0;0.0
+5958a499-eeea-463e-a1e8-ac6843e42caf;Ana Clara Peixoto;rezendemateus@example.net;22;Centro-Oeste;07/03/2025;3;2984.96
+6a34c854-1071-4d51-b6c5-9dacb4d7e28e;Maria Clara Vargas;hcarvalho@example.com;41;Norte;18/02/2025;3;5814.93
+f99cea5c-b65a-40f1-8350-ab061059ea28;Isabella Pimenta;ravy91@example.org;44;Centro-Oeste;09/03/2025;3;4580.42
+1dde7969-6886-43db-a634-8e784d5c55c7;Rafaela Câmara;paulomoreira@example.org;28;Centro-Oeste;26/01/2025;3;2751.93
+c2baf0e0-2179-43f0-a612-4ab4f9b21e6e;Maria Isis Dias;ana-carolinanogueira@example.net;70;Centro-Oeste;03/01/2025;4;1201.95
+95e7f614-42b4-4281-9f26-946654d1332a;Felipe Sales;heloisa68@example.net;47;Nordeste;22/01/2025;2;444.97
+0b705933-4cde-4b6b-9132-567c51a40d2a;Eloá da Costa;agatha55@example.net;59;Centro-Oeste;25/03/2025;2;1524.95
+0964fbbf-8cd3-41b0-82b0-1cfdd045dd1c;Apollo Barbosa;rodrigueshenry-gabriel@example.net;45;Sudeste;02/01/2025;3;3169.97
+8f15ba58-fce6-4504-87f8-424daae65fc1;Dra. Maria Clara Rocha;ana-julia48@example.com;20;Norte;09/01/2025;3;3642.48
+3098f7b2-500e-45c0-b89b-df7f93e34c35;Cecília Abreu;dda-mata@example.com;42;Sul;12/02/2025;4;4779.87
+28c13091-444d-410b-bf87-e362cf8d446a;Yan Martins;correiajoao-felipe@example.org;26;Sudeste;21/01/2025;1;919.97
+23a13e20-7fd2-45ee-ac48-436668bd80d7;Rael Marques;caue25@example.com;44;Sul;13/01/2025;3;5248.42
+22b5f457-1860-4d28-90af-b235ade68f51;Dra. Vitória da Costa;alvesoliver@example.org;30;Centro-Oeste;06/01/2025;4;3341.89
+0aeccec7-204d-49da-b156-7f2acef74829;João Guilherme Caldeira;da-conceicaomariah@example.org;20;Nordeste;05/02/2025;6;5100.33
+ff4c96d6-71f2-4e8f-b69f-68c3e60fd420;Ana Lívia Araújo;mariacavalcanti@example.net;28;Norte;14/01/2025;3;1243.94
+439db29d-4bc8-4c16-ba2f-bd74fd1935cc;Dr. Luan Fogaça;cassianolorena@example.org;34;Nordeste;19/02/2025;4;3301.85
+1d2c2721-7522-4646-b273-75bf5373bf4d;Ana Laura Ramos;monteiroleticia@example.net;21;Nordeste;18/01/2025;2;559.94
+0a398bf7-27a1-48a0-afff-a2f4b5ae329d;Srta. Giovanna Sampaio;vieiraluiz-miguel@example.org;23;Centro-Oeste;08/01/2025;2;630.97
+217d65a0-c568-41cd-9563-f61600e85ece;Sr. Ravi Lucca Gomes;ilopes@example.net;62;Nordeste;06/02/2025;1;636.48
+170d7507-05ee-41d4-bf53-a88e4efc8248;Emanuella Campos;marianada-paz@example.com;54;Nordeste;02/01/2025;2;1209.95
+4d57d880-d865-469a-b4f3-310340066ff2;Carlos Eduardo Costela;ana-juliafonseca@example.net;33;Norte;16/01/2025;3;2426.44
+54e38579-c0af-4193-b780-ef2f664d5922;Sra. Emanuelly Porto;isabella56@example.org;75;Norte;21/01/2025;3;2213.94
+893ad232-98c3-43ca-bff4-cec6e7b7b4c6;Enzo Gabriel Peixoto;benicio99@example.com;24;Norte;25/01/2025;7;2938.91
+3d0a5f0c-0c39-4ec7-9f31-74054d183eba;Breno Sá;melina53@example.com;69;Centro-Oeste;05/02/2025;1;592.98
+32a447b2-ef04-457d-8dcc-c33aa9434aa0;Fernanda Sá;jteixeira@example.net;34;Norte;31/01/2025;1;34.99
+d038e153-c601-418b-a1fa-01ba231ae7c7;Luiz Fernando Leão;nicole58@example.com;43;Sudeste;11/02/2025;4;2445.79
+6d9c5b50-a1fd-4187-9c3a-1e0bb5f3f8aa;Theo Lopes;wpacheco@example.net;34;Centro-Oeste;17/01/2025;4;2641.39
+722764e6-8c41-461b-a827-a1b9d4a02e53;Dr. Ryan Silveira;duarteisaac@example.net;52;Sudeste;13/02/2025;2;1829.9
+84d67c4f-f0df-4684-b28e-41225894f7f1;Maria Clara Aragão;mmartins@example.net;39;Centro-Oeste;02/01/2025;6;5187.37
+9d66e815-5a41-43b3-a95f-176cdebac186;Maria Sophia da Mota;davi-luiz15@example.net;49;Sudeste;23/01/2025;2;1609.97
+61af663c-ed2e-4bcd-8c06-df90aa1c4023;Alana Dias;biancajesus@example.net;41;Nordeste;14/01/2025;4;4318.43
+06e3f949-8cd3-4c62-8482-9b71ae84b81c;Agatha das Neves;laisda-luz@example.com;62;Sudeste;19/01/2025;4;4030.93
+ac9ed156-f63f-4e41-ba9a-ca5e176132ed;Sara Pinto;caleb80@example.com;40;Nordeste;03/02/2025;2;120.98
+dc6dafff-59c2-4153-b06b-0f0c96822e22;Sra. Maria Luísa Abreu;gcamara@example.net;54;Sul;16/01/2025;3;886.49
+d773f98d-550c-4fe9-a54c-11d9f2e61828;Thiago Freitas;silvaana-carolina@example.org;24;Sudeste;14/02/2025;3;1692.45
+0b531932-bd94-49aa-bea6-e5b20c760d28;Cecília Teixeira;afarias@example.net;22;Sudeste;20/02/2025;3;574.97
+f48f709c-49a2-4441-8ac4-de854a5b1aff;Elisa Alves;luiz-miguelfarias@example.org;30;Sul;05/01/2025;2;225.0
+e3c43657-1d8c-4bac-83b4-09ef2260e70f;Francisco Vargas;apollocavalcanti@example.net;56;Sul;11/01/2025;2;1354.48
+44007d5a-e88d-4719-a624-2b40a5cb63a2;Larissa da Luz;fcarvalho@example.com;34;Sudeste;06/03/2025;2;919.95
+a04d4d14-197d-4ae1-8bc2-ea720c648ca2;Lorenzo Silveira;da-rochanina@example.com;47;Centro-Oeste;14/01/2025;2;1165.0
+396d1ffb-3a79-4efa-84e5-5bd56744acd4;Ravy Pires;diasgael@example.org;31;Sudeste;01/05/2025;1;90.0
+2b843ef3-d86d-455d-8cd9-916481df62f4;Luísa da Mota;rodrigo85@example.org;22;Sul;04/03/2025;2;447.46
+8a45a905-badf-4397-acf2-6429b8d77d2f;Heloísa Farias;davi-luiz69@example.com;54;Centro-Oeste;13/03/2025;2;3163.5
+042b03ca-75a7-4686-9632-1d31c8acffcf;Luiz Fernando Teixeira;joao-pedro28@example.net;30;Centro-Oeste;08/01/2025;3;4123.46
+ff233d5f-6ced-415d-9800-7c0287ea7ff5;Luna Barros;anthony-gabrieloliveira@example.net;47;Norte;09/01/2025;1;269.97
+7e0f60b2-2a06-4609-a599-bd3c0bb81d38;Benício Novaes;monteiroana-julia@example.net;60;Nordeste;17/03/2025;2;439.96
+4f11d8dc-5cd3-4369-84aa-c1b75ca0c428;Isadora Vargas;camposemanuel@example.com;39;Sudeste;03/01/2025;5;2440.84
+9f708368-cb3c-48ca-a392-57316b79afcc;Mariana da Costa;laviniaalves@example.net;43;Sul;21/01/2025;3;2771.98
+54b58635-3dab-4614-9215-0ed87ddca413;Aylla Aragão;andre45@example.net;57;Sul;12/02/2025;3;2432.42
+3c0a584e-a7cd-43cb-abda-06b220d2b528;Bella Pinto;rrezende@example.org;74;Nordeste;07/01/2025;2;1072.45
+c53f1db3-d275-4d43-8451-7303e94d4fbe;Luiz Miguel Pimenta;xfonseca@example.net;60;Nordeste;15/01/2025;1;1908.98
+ca9f1d59-83e8-4700-8e63-813ed22e3226;João Rocha;elisa94@example.org;69;Centro-Oeste;30/01/2025;2;2409.92
+d5f0fb6a-4596-4a75-b4df-b83ff659f188;Antony Silva;luan08@example.com;63;Centro-Oeste;05/01/2025;4;5028.38
+c7f4f4f9-8222-4ad3-aca3-91d47ba16dd7;Théo Cirino;rduarte@example.net;40;Centro-Oeste;16/01/2025;2;1189.92
+06a241af-1d0a-47f7-b5e4-a4713fe68c9c;Ravi Lucca Novaes;ucavalcanti@example.com;45;Sudeste;07/01/2025;2;1049.96
+2b1ac76c-89ec-4c51-98cb-aa5247f53019;Marcelo das Neves;fariasisaque@example.net;22;Sul;20/03/2025;2;1571.95
+177d6e7e-07d9-44ce-b8c8-8faea2178f84;Gustavo Marques;manuela70@example.com;59;Centro-Oeste;06/02/2025;3;1289.91
+bc2e2b59-2c7d-4667-b664-c7202fddb26a;Maria Helena Ribeiro;rodriguesisadora@example.org;27;Sudeste;04/01/2025;4;899.95
+cbc72f1a-cf08-4a54-b429-9924c0986750;Mariana Pastor;henry-gabriel35@example.org;61;Sul;12/04/2025;1;349.99
+f5159494-3818-4fd3-b889-936a9d5817e8;Vitor Hugo da Luz;gabriellypeixoto@example.com;75;Norte;01/01/2025;2;1841.48
+6ee35607-92ea-4324-ac93-e5962b015723;Dr. Vitor Gabriel Castro;vmartins@example.org;62;Norte;25/03/2025;2;1260.96
+b8e19f56-8787-4a21-8448-2a220308aa5e;Sra. Caroline Carvalho;qpeixoto@example.org;56;Centro-Oeste;06/01/2025;2;1414.96
+5bd93609-b297-4782-bcf4-74aace63cb1a;Dr. José Peixoto;lopesasafe@example.net;65;Centro-Oeste;27/02/2025;3;827.45
+e4aa786d-9d17-4218-bc3b-0de5981262ac;Emanuelly Monteiro;bcampos@example.org;25;Sul;04/03/2025;2;359.98
+94340a03-3f07-4814-91d6-3f78e3e9de99;Henry Gabriel Fogaça;ribeirojoao-guilherme@example.org;26;Sudeste;16/03/2025;0;0.0
+271e3ee2-b1a6-41f1-a20e-99d33b33f3d8;Joana Fonseca;hpacheco@example.com;73;Sul;04/01/2025;3;528.48
+32f8dbab-b462-43e8-9c41-8a83eb04159c;Gabrielly Santos;vicente38@example.com;56;Sudeste;22/01/2025;3;504.43
+8d536c75-65b9-4e94-8e6d-e263635a775d;Mariana Costa;maria-lizfogaca@example.net;58;Sul;29/04/2025;1;1497.0
+1a2a73ed-562b-4f79-8374-59eef50bea63;Juliana Pastor;da-cruzvalentina@example.net;44;Nordeste;15/02/2025;1;999.99
+502cf0ee-224a-46a6-ac0f-680115b24e1d;Vitória Monteiro;camargopietra@example.org;55;Nordeste;07/01/2025;3;1354.96
+ef8c485b-c07a-40f2-add4-253b50f0fd0a;Aurora Campos;ravi-luccavieira@example.com;43;Centro-Oeste;20/03/2025;1;211.0
+60a399d4-e821-4716-aac8-0da1de9f6f5b;Lunna Rios;olivercosta@example.org;36;Nordeste;17/01/2025;3;1344.46
+fc737d92-11ab-4d11-a4eb-8000ef40d162;Isaac Cavalcante;enrico70@example.net;45;Centro-Oeste;01/01/2025;2;205.0
+42c18a62-ef48-48d5-90fd-9d3f85d51695;Beatriz Casa Grande;fmontenegro@example.net;73;Sudeste;14/02/2025;3;446.45
+cb35097a-e5dd-48f1-88a7-38ab0df83e12;Isabella da Cruz;nteixeira@example.net;71;Norte;26/01/2025;3;1460.47
+329fc417-1081-4d45-bf45-f8a20594b24f;Théo Silveira;correialuiz-felipe@example.org;49;Centro-Oeste;08/02/2025;3;3938.45
+ad05b912-5ab2-4d4a-8bd8-8fcd57a2be4e;Srta. Sofia Casa Grande;cauedas-neves@example.com;47;Nordeste;14/02/2025;2;2407.49
+76f2dbfe-cd29-436f-a222-82e174daaebf;Laís Ribeiro;anna-lizcamargo@example.net;45;Sul;28/02/2025;2;1464.94
+efb56207-ddec-440b-afe3-af13891778e8;Sophie Vasconcelos;leaothomas@example.net;54;Centro-Oeste;02/01/2025;5;6312.98
+f168c605-ce1a-4669-9bbc-6cbc409ca8f2;Dr. Daniel Teixeira;da-rochajoao-miguel@example.net;74;Norte;13/02/2025;0;0.0
+cbfd4a31-c8c8-4ad6-82cb-cdc73cd30e99;Sr. Anthony Gabriel Santos;ninada-rocha@example.org;23;Norte;06/02/2025;3;972.49
+11b461e9-b15d-472d-94ce-e27c4a94ae9f;João Guilherme Teixeira;monteirocaio@example.net;26;Sul;15/01/2025;5;6312.32
+822c4d32-6c64-4c15-aba3-01cba561e1e9;Vitor Hugo Vasconcelos;gabrielda-costa@example.com;70;Norte;10/02/2025;3;1589.94
+f6e39356-a814-4562-9a00-3f16b9469bcf;Kamilly Costela;bernardo30@example.com;56;Norte;01/04/2025;3;2994.91
+8bea75c1-b866-47aa-a3d4-526b2b54ff7a;Dra. Olívia Oliveira;brendasantos@example.net;61;Centro-Oeste;28/01/2025;5;3015.35
+9c678393-2ced-4c0d-b173-04b5c1dd484a;Theo Câmara;samuelferreira@example.net;38;Nordeste;05/03/2025;2;1139.93
+3e42df5b-90a3-4bbf-b580-e05067f1698c;Igor Jesus;luanaragao@example.org;71;Norte;22/01/2025;3;2832.9
+9384ec2b-44fe-4cae-9248-a9a7ac1aa554;Lívia Cassiano;apimenta@example.net;30;Centro-Oeste;03/01/2025;6;6608.97
+b86d066b-1ba8-47c6-897a-24ad41b455b8;Dr. Nathan Cavalcanti;borgeshelena@example.com;60;Sul;08/04/2025;2;602.93
+1b0c62eb-27c8-4c6c-9be5-a4c395af6d0c;Benjamim Leão;caiomoraes@example.org;28;Norte;02/01/2025;5;2405.96
+3e19fc1d-9f6a-4a65-bd54-da044dcd0009;Davi Lucca da Mata;marquesgabriela@example.com;26;Norte;13/01/2025;1;270.0
+3810ae66-5a31-44cc-8d4b-69a99b689c88;Lucca Rios;heloisacassiano@example.net;67;Sudeste;08/01/2025;3;2446.42
+dca02eec-acda-4acc-9165-e21098543881;Danilo Sá;brendaaparecida@example.net;58;Norte;25/01/2025;4;2521.44
+9dec2b83-3885-4f7e-af1a-25a829344e15;Cauã da Costa;theo96@example.net;54;Norte;17/02/2025;2;604.98
+2477f047-8336-4758-99f9-3502a55bc44f;Dra. Lunna Alves;enzomoura@example.com;58;Sudeste;21/02/2025;5;6024.41
+b5a5f8e6-b639-4f04-a852-4385d9f2dd0d;Jade Fogaça;agatha97@example.org;75;Sudeste;20/01/2025;5;4812.33
+0a0537f0-2c2c-422b-a568-95c6812a1f9b;Dr. Ravi Lucca Casa Grande;da-pazmariana@example.com;64;Sul;15/01/2025;3;1000.45
+d6312a80-1c61-4ec2-9014-2131750565f5;Davi Lucas Rocha;machadoeloah@example.com;28;Sudeste;27/01/2025;0;0.0
+b0b862ef-6c9f-42b9-b647-8986a3917c99;José Miguel Pastor;da-luzhadassa@example.com;70;Sudeste;12/02/2025;5;3594.78
+d5f25073-f414-42b1-a442-9ebbda7b9095;João Miguel da Rosa;ana-laura65@example.com;44;Nordeste;05/01/2025;6;2950.83
+d8dff535-c62d-4aea-9e70-bd3000a21367;Valentim Azevedo;anna-liz25@example.org;27;Norte;26/04/2025;2;584.99
+b24beb96-c092-4b74-a6b0-7ff60fc79913;Dra. Sophia Nascimento;yda-rosa@example.com;24;Sul;11/01/2025;1;59.98
+9918ee46-1497-4658-b010-f7197e695d0d;Ian Alves;renan17@example.net;39;Sul;13/01/2025;2;2949.94
+43a534d2-8e7d-4f5a-8773-e66a6db2b020;Eduardo Barbosa;gael-henriquecamara@example.com;44;Nordeste;14/01/2025;4;4246.34
+6dec6bbd-f697-47a1-99fe-3d53624fea4b;Dra. Sara Fernandes;sara39@example.org;58;Nordeste;23/01/2025;4;629.92
+7eccdaf4-c413-4dc2-85c5-ae8abe15ad12;Raquel Mendes;lunnasousa@example.org;56;Nordeste;16/02/2025;2;954.98
+92cf6021-1f33-442d-89ac-908746015028;Dr. Dom Castro;igor25@example.org;61;Sudeste;16/03/2025;2;117.48
+bc69c155-1a37-46bd-acd6-f011fd61f13b;Srta. Valentina Rocha;yansa@example.org;20;Centro-Oeste;13/01/2025;6;6274.76
+7b90942f-973b-4977-a946-28206a80cac2;João Pedro Melo;luiz-miguelda-conceicao@example.com;27;Sudeste;16/01/2025;2;2172.48
+c2492e5e-005f-40e6-95c3-b2dbf374190d;Augusto Macedo;davi-miguel97@example.com;30;Nordeste;28/01/2025;2;414.98
+c8d0f9e5-9919-45ea-98d0-0c2c17d30f32;Rhavi Aragão;limaravy@example.org;42;Nordeste;05/01/2025;3;1642.85
+d218c9d6-c093-4fb0-a4e9-bcfd9647ff9f;Samuel Marques;raelfreitas@example.org;38;Nordeste;23/02/2025;1;750.0
+51facefa-d6f8-4f7a-82fa-1da878308631;Alexandre Moura;sofia37@example.com;61;Centro-Oeste;28/03/2025;4;2705.42
+7e570ddf-8270-40a8-a369-b584ff5e9ff0;Sr. Oliver Câmara;erickmoura@example.net;23;Sudeste;05/03/2025;2;2925.96
+950df1a0-7aaf-4001-9912-316afd9e8e20;Léo Brito;novaisrebeca@example.com;18;Nordeste;13/03/2025;4;4351.9
+f31046dc-6202-4ee6-9cb5-e69c5dc7b3e6;Stella Santos;mourajoaquim@example.org;21;Sul;13/01/2025;1;1349.97
+518b2f21-9cf2-4859-ae6e-2e7253f591dc;Júlia Cirino;monteiroravy@example.com;38;Sudeste;24/02/2025;1;22.5
+ffa361be-0f92-40e1-87f9-7d05f6ca6b8b;Alexandre Jesus;mateus39@example.net;72;Centro-Oeste;27/02/2025;2;1074.93
+23e2fcb4-72d8-467d-894a-05e430b187ef;Luiza Fernandes;ana-luizacosta@example.org;66;Centro-Oeste;20/01/2025;4;2334.85
+7580e4e9-5945-4186-9a01-8d296060b1eb;Rafael Silva;vargaslivia@example.org;71;Sudeste;30/01/2025;1;676.5
+21813d25-6552-48a6-83ff-50113d1a85dd;Alice da Mata;nunespedro@example.org;22;Sudeste;23/03/2025;2;609.98
+65daced0-460a-4125-bf8c-93d4c32afc4a;Diogo da Mota;benicioalves@example.net;75;Nordeste;13/02/2025;2;1422.92
+e2ba9fce-aebb-4f9c-8a35-653cf57a431e;Anna Liz Rodrigues;hcamara@example.com;21;Nordeste;22/04/2025;1;279.98
+5cb85aed-f5f6-4c97-aefb-63b11b049863;Henry Carvalho;rafael08@example.net;74;Sudeste;06/01/2025;4;3641.44
+b390b059-207b-4e21-a7e8-d18eddf6d4ac;Sara Teixeira;ana-laurada-cunha@example.com;51;Sudeste;04/03/2025;1;349.95
+f0ede303-aa53-419c-9fa4-bb9f5a856750;Isabella Oliveira;mendoncaisaac@example.org;30;Sudeste;08/01/2025;4;5055.87
+7cd0129d-2e8d-4e87-9334-20e6d9d80b8d;Enzo Fonseca;zpinto@example.net;21;Sul;30/01/2025;2;1064.44
+cc351e4f-703e-457f-b5ab-8466b5578b00;Marina Peixoto;aragaojuan@example.com;35;Sudeste;01/01/2025;3;1305.94
+d89462e8-9580-4c3a-a932-a211214c0a4d;Theodoro Ribeiro;maria-juliateixeira@example.org;18;Centro-Oeste;12/02/2025;3;1347.91
+3a3e46b0-96f8-4ff7-81a7-2883f8802878;João Vitor Rezende;luiz-gustavo07@example.com;31;Nordeste;02/01/2025;2;2386.0
+4926ce5f-7878-4140-ac2a-4f71a77d95f1;Ana Vitória Fogaça;valentinacostela@example.org;29;Centro-Oeste;14/02/2025;2;259.0
+0a670143-6090-403c-9e8d-f8ad838b77ad;Ravi Monteiro;heitor66@example.com;21;Centro-Oeste;05/01/2025;3;1318.42
+e2acf72f-9e57-4f7a-a0ee-89aed453dd32;Cauê Nascimento;aragaoesther@example.com;58;Centro-Oeste;25/03/2025;2;999.96
+23d26b8d-ae46-424d-91d0-5ef3a91883fc;Antônio Sá;maria-flormacedo@example.com;56;Sul;16/01/2025;3;972.48
+083f64c3-1ce3-42f8-83f7-25feb99b2b5a;Danilo Rios;pedro-miguelbrito@example.com;19;Nordeste;17/01/2025;4;2288.9
+f6eab3a0-0153-4221-a331-0a28c550eca8;Lucca Melo;francisco00@example.org;34;Sudeste;14/02/2025;5;2212.83
+4c6a70f4-8ede-444d-876c-f68c3f1be0d0;Matheus Jesus;maria-julia43@example.net;18;Sudeste;11/03/2025;2;2199.94
+5168bbf2-97af-4bde-bc8e-9d782d14e9f4;Isabela Novaes;manuella18@example.com;68;Nordeste;19/02/2025;3;1759.93
+2c78644f-d860-45a2-bdd5-b0f8d6d744fd;Sr. Mathias da Conceição;cavalcantiheitor@example.org;23;Norte;28/01/2025;2;2598.94
+ac93281a-92eb-4ab0-a4ee-c67c1a57f9e4;Ana Vitória Nascimento;matheusjesus@example.org;57;Norte;16/03/2025;5;7242.38
+9280c5aa-8dd4-495b-9c63-b6f306ba8cd3;Catarina Farias;borgesjoao-lucas@example.net;47;Sul;04/03/2025;1;372.48
+436e3c49-770e-49db-b092-d40143675d58;Stephany Andrade;erickaragao@example.org;24;Centro-Oeste;27/01/2025;2;2817.48
+c1d48a10-1b96-4925-9682-d038b77f69b9;Daniela da Conceição;xalves@example.org;29;Nordeste;01/04/2025;1;394.98
+75b27455-04cc-4ede-afac-16730ad45230;Mirella Rocha;luiz-fernando52@example.org;61;Sudeste;12/02/2025;4;2399.9
+cec56969-5d4f-4107-911d-dc7990c80420;Eduarda Duarte;isabel54@example.com;62;Nordeste;25/04/2025;1;491.94
+7a0ecfea-958c-49ba-8cd6-20c20ea2622b;Hellena Barbosa;fpereira@example.com;26;Sul;03/03/2025;4;3239.87
+47503f1d-c33a-4f6c-9d69-1fba5e187b24;Dr. Benjamim Costela;ofernandes@example.com;48;Nordeste;13/02/2025;4;2701.31
+6b0ae0e3-9d89-4047-9d39-d7936257a4a2;Sra. Eduarda Costela;qcastro@example.com;49;Sul;05/01/2025;7;4664.32
+49e64c22-89a0-47eb-b98f-569b465cc2cb;Milena Gomes;lucas-gabrieljesus@example.net;40;Sudeste;15/01/2025;3;910.4
+e8b3d763-f4ff-4f3a-8d9d-baeb553d2625;Maria Julia Barbosa;pda-rosa@example.com;34;Sul;23/01/2025;2;1496.93
+fb95d0fc-ad72-4d05-924c-de09ccea5031;Alice da Mota;bruna22@example.com;43;Norte;07/01/2025;2;2176.48
+4458b006-332c-4e0a-8e7d-a698ab95c72f;Srta. Ana Clara Fonseca;jda-luz@example.com;46;Nordeste;07/02/2025;2;776.46
+47c1c017-6045-4909-936d-47d73e0f84ce;Rael Nascimento;garciayago@example.org;46;Sudeste;15/02/2025;1;305.97
+1a8cf13c-28ce-431e-9827-4fc3f1458426;Antonella Pinto;saparecida@example.net;48;Nordeste;03/02/2025;2;5780.41
+b0b63bcf-0860-4833-879d-0cdaf396ea37;João Vitor Sá;ecamara@example.org;39;Sudeste;07/02/2025;4;5024.95
+3be79df4-72ec-416e-88a7-23e9bfa016c2;Ana Clara Campos;gabrielly53@example.net;37;Centro-Oeste;07/04/2025;1;179.98
+e1035e1c-e3bb-42ae-a552-ac5309eda6f5;Maria Eduarda Cirino;britoanna-liz@example.com;24;Sudeste;20/01/2025;1;1139.97
+647ac591-5da6-4a3a-a60c-cfb4c6735380;José Miguel Abreu;ferreiraaugusto@example.net;47;Norte;06/02/2025;3;2459.93
+504867ba-bf7b-439b-8f9a-ea4b8acd4e10;Sra. Hadassa Porto;ypimenta@example.org;29;Sul;01/01/2025;2;1519.99
+bfbf397b-ac3e-4b0d-9e5b-a13d746cdb77;Dra. Maria Vitória Novaes;mouraolivia@example.org;44;Sul;07/01/2025;4;1797.42
+13aec376-c359-410a-b1a6-014c5f3c44dc;Dr. Luiz Gustavo Montenegro;leticiada-luz@example.com;24;Sudeste;11/01/2025;3;4611.43
+d25864f2-25d4-40fc-a154-2765d756ba9c;Pietro Freitas;koliveira@example.net;75;Nordeste;18/02/2025;5;3734.9
+f7e9101d-3f8b-4433-b60e-695c1759ba96;Joana Carvalho;ana29@example.net;55;Nordeste;21/02/2025;1;1839.97
+f065c817-687a-4850-9d9b-62317d45d8ef;Kevin Cunha;kmoura@example.com;69;Centro-Oeste;11/02/2025;6;4218.28
+2e0fb5b3-8bae-491e-bf4c-c10f979c30cf;Dr. Théo da Cunha;hrocha@example.com;65;Nordeste;12/03/2025;1;1619.93
+4f6b58c8-598d-4aec-aaaf-e5432434a678;Rael Moreira;lmendes@example.com;56;Sudeste;10/03/2025;2;1381.46
+a6129a1c-889d-4b76-b75c-30b561730c48;Benjamin Teixeira;fariassofia@example.org;29;Sul;01/02/2025;3;2064.89
+f510ab53-c7fe-439f-9190-f938a66fd7f7;Maria Luiza Macedo;evelyn11@example.net;63;Norte;02/01/2025;8;2756.88
+56666f9f-53ac-4ab9-b467-2cd9362f5e5c;Emanuel da Paz;emendes@example.net;71;Nordeste;19/03/2025;1;59.97
+741b77f5-4c24-4053-a7f5-ae02af5b8f47;Dra. Daniela Martins;luigi37@example.org;22;Sudeste;03/04/2025;1;959.98
+24f43c62-b523-40de-9b87-d29c4cfd0fc1;Anthony Silveira;emillypimenta@example.net;21;Norte;04/02/2025;3;2251.91
+19d9d0b5-a962-4996-abbe-3b5a4d15f7d8;Esther Dias;vargasmaria-vitoria@example.com;31;Sudeste;10/03/2025;2;1344.95
+73069588-45d5-468d-a90a-3abbc35b9fea;Ana Laura Fonseca;luiz-miguelaparecida@example.net;71;Nordeste;19/02/2025;2;431.49
+21ec4754-1cf1-4654-aab2-02c2cc0243c6;Srta. Maria Flor Barbosa;asafeazevedo@example.com;58;Nordeste;24/01/2025;3;2139.98
+96721e98-5d84-46e0-a0e6-96ffa75743f9;Nicolas da Mota;pintomaria-luisa@example.org;54;Norte;07/01/2025;1;599.99
+4b0dbb41-8d52-48f1-942c-3fe860e7a113;Dra. Laura Barbosa;cunhaleticia@example.com;45;Nordeste;09/03/2025;2;2309.94
+c01f36bf-3e6d-458b-b367-c28de1b294de;Sr. Mathias Nunes;leandrosantos@example.net;48;Centro-Oeste;18/01/2025;4;2973.89
+81f76d1c-2dbc-4134-830f-f46e8026695f;Dra. Juliana Aparecida;borgesmaria-alice@example.org;72;Centro-Oeste;27/01/2025;3;811.47
+709b7d97-464c-44af-bd3f-3799a07295e9;Arthur Gabriel Sá;maria-vitoriaalves@example.net;57;Sudeste;28/01/2025;3;1555.92
+3967e60a-823d-4107-9c8a-c066cb2fafa3;Beatriz Moura;juliana79@example.org;50;Nordeste;11/04/2025;1;67.5
+54fc286f-7457-4d47-9825-301039112943;Nina Melo;maria-lauracunha@example.net;75;Sudeste;10/01/2025;3;1849.44
+8a2db2e6-3bfd-48a6-b05f-ddf566fadca0;Oliver Oliveira;manuelaferreira@example.net;69;Sul;20/01/2025;4;2377.9
+e10b1a47-7fae-4748-b781-321e83c501cb;Samuel das Neves;faragao@example.org;48;Nordeste;01/01/2025;1;446.0
+bcaff931-ead1-4464-8a8e-858cd0f81063;Murilo Porto;smelo@example.org;31;Centro-Oeste;23/01/2025;2;459.98
+b8db0672-f42d-47cc-80d4-af5974273ca3;Ravi Araújo;moraespedro@example.org;22;Nordeste;22/01/2025;4;1914.88
+22ab7752-c4db-4a62-ae13-418d68ab80ea;Dr. Mateus Souza;nogueiraantony@example.com;56;Centro-Oeste;15/01/2025;5;2699.88
+5be6128e-18c2-4797-a142-ea7d17be3111;Alexandre Moura;ryan70@example.org;73;Norte;16/03/2025;2;1449.93
+a5d04d53-1e12-42e3-b272-92b6762172ed;Ana Liz Almeida;abreukaique@example.org;32;Sul;12/03/2025;1;729.94
+c36b9a0a-41e0-4a89-966a-9ce7af521b94;Danilo Cavalcante;nnovais@example.net;25;Centro-Oeste;12/01/2025;2;950.96
+48769153-c688-43fe-9255-5c758d55119e;Liam Brito;camposeduardo@example.net;25;Nordeste;03/02/2025;6;2199.86
+35afbb2d-336d-4786-b7a3-c30aa1f0fa7a;Marcos Vinicius Nunes;vitor-gabrielsilveira@example.net;46;Sudeste;01/04/2025;2;660.0
+a2379e6f-d473-4534-9aea-635257632e1e;André Viana;bmartins@example.net;56;Nordeste;23/01/2025;1;436.48
+3f5fbf4f-d417-4230-9274-ee11b61df906;Pietra Azevedo;camargoalexia@example.net;54;Sudeste;05/03/2025;3;4197.86
+ccf3a171-56dc-4907-ba6c-34ab6712303a;Bruno Barros;lda-conceicao@example.net;38;Sul;08/02/2025;3;1246.9
+c79ddb62-c379-44c1-8903-94ea7d54ec82;Dom Fonseca;nunesgiovanna@example.com;60;Norte;10/03/2025;2;908.97
+af2537f5-9d31-462a-bb5a-bb36ce7968b7;Lucas Montenegro;bcampos@example.com;36;Nordeste;26/01/2025;1;239.95
+3922a7e4-2de9-42f8-8d7b-ec04e6e59b32;Cauê Azevedo;yalmeida@example.org;23;Norte;14/01/2025;4;1782.9
+71d79665-7181-4dcf-b79e-fc6e5edb0d3c;Dr. Kevin Viana;udias@example.org;44;Nordeste;05/01/2025;2;269.94
+4e7ed827-455a-4762-b428-a656b3ee4d3b;João Guilherme Sousa;enzomoreira@example.net;29;Norte;22/01/2025;3;3043.49
+c074718e-425a-409f-b337-c59979844388;Luan da Luz;fariasmaria-flor@example.com;71;Sul;07/02/2025;2;3807.44
+692ac139-1f4a-4ca1-ab85-fd595463adc7;Luísa Abreu;ana-beatrizcasa-grande@example.com;72;Sudeste;05/01/2025;2;1044.97
+e6cfcbd8-79d2-4001-ad6b-8a4e18a70609;Cecilia Leão;samuelfreitas@example.org;56;Norte;21/03/2025;2;1199.95
+a9e8f0d8-5883-49de-bb5f-be413fa2bde0;Danilo Ribeiro;upires@example.com;20;Norte;12/01/2025;5;5262.34
+19985f15-ff00-4d4d-9020-59e4ff9ab5c2;Melina Monteiro;rodriguesmathias@example.org;63;Sudeste;22/02/2025;0;0.0
+a6aa59e5-dc08-4f29-92d3-3488d0c30018;Eduardo Almeida;sborges@example.org;71;Sudeste;11/01/2025;4;1927.34
+17e8392a-55ce-45db-9e87-e04ca2086977;Caroline Albuquerque;heitorvasconcelos@example.net;30;Sul;13/02/2025;4;2509.9
+279c658a-3676-4ce5-81e5-c9f693f277cc;Milena Lima;tda-mota@example.net;34;Nordeste;24/02/2025;2;729.94
+cfa701cd-2631-400b-a6d7-94d30db95301;Felipe Moraes;anovaes@example.com;43;Sudeste;24/01/2025;3;2417.48
+4988e418-f6c3-4218-8183-6315330f8be1;Bento Aparecida;luana30@example.net;36;Sudeste;14/01/2025;2;1599.97
+284bf962-5744-4596-b422-21676b7a2460;Maria Isis Leão;wmachado@example.com;31;Nordeste;05/02/2025;4;1732.94
+f387e1bd-2d59-42c6-934a-5a2fa7cf705c;Marcos Vinicius Andrade;luararezende@example.com;65;Centro-Oeste;02/01/2025;4;1801.92
+73253aa3-ec17-4298-943d-f5b3a58e83dd;Ana Lívia Porto;da-cunhamarina@example.org;69;Sul;20/02/2025;4;1189.9
+f4188f3f-8a14-4e62-a95b-4715c333e861;Letícia Peixoto;theo58@example.com;55;Norte;01/01/2025;2;975.95
+d7c4fe9c-e1e0-4ffc-98f6-fd7f7eb162f1;Sra. Maria Luísa Ferreira;tmartins@example.org;34;Nordeste;28/02/2025;1;394.97
+f6b751f7-9b74-4245-9b1b-c8952af43ab7;Rael Camargo;miguel42@example.com;28;Norte;23/01/2025;4;3491.37
+beb79919-3f22-4af8-a3be-d01d43cf2fde;Hadassa Porto;raquelmartins@example.org;58;Norte;03/02/2025;5;8129.81
+a65be22b-d5a3-46d9-8362-a810a2611b8d;Erick Martins;ulima@example.com;47;Nordeste;04/01/2025;3;3819.95
+9a4ffc0c-9165-42ed-8c63-6e95025f5543;Dra. Lavínia Cardoso;xdas-neves@example.net;28;Sul;30/01/2025;1;580.0
+3ae0acdb-2a65-44af-b09d-338b23936d45;Paulo Sales;caroline40@example.org;43;Centro-Oeste;29/01/2025;6;6501.85
+34323ec6-b0c4-401c-a9b7-c0fa26c432f6;Srta. Ana Cassiano;da-rosaravi-lucca@example.com;33;Sudeste;09/01/2025;4;2000.47
+9c07a751-1437-4509-acd1-586a2b840c67;Lunna Sá;elisa38@example.net;28;Sul;29/01/2025;2;500.95
+f3025d16-1eca-4ae9-a5bf-213d9eca381b;Henrique Carvalho;ana-lauravieira@example.com;50;Norte;20/01/2025;2;1886.94
+42378962-e4fd-4c34-9670-7a2129dc073e;Srta. Helena Ferreira;gleao@example.org;72;Centro-Oeste;10/01/2025;6;2273.38
+ccac2fb5-1a0c-4c04-93cd-129110042d82;Vinicius Peixoto;xfonseca@example.com;75;Sul;15/02/2025;4;1466.95
+88addab1-d765-4a18-a4d4-66ebbf74531c;Maria Eduarda da Rosa;anthonyviana@example.org;52;Sudeste;10/04/2025;2;454.96
+183fea70-3ff6-479e-8cd4-b90abf8211bc;Dra. Agatha Camargo;ravi-luccaporto@example.com;60;Sul;13/01/2025;4;3897.34
+cfd7f3b9-c68f-4ba5-9e0d-02b5fe7402cd;Maria Laura Barbosa;fonsecamaria-alice@example.com;24;Norte;18/01/2025;3;2788.93
+9c1c3517-85d2-40a6-8629-5b5d707df251;Carlos Eduardo das Neves;camargoemanuel@example.com;56;Nordeste;25/01/2025;2;3376.44
+541cdfcd-da0d-4a5f-948f-8b74a65bb1f2;Dra. Bianca Porto;ncassiano@example.org;30;Centro-Oeste;28/01/2025;2;515.99
+600b4b35-6a0a-47d5-a0b8-575544caa5a2;Sr. João Gabriel Castro;camargoelisa@example.net;66;Sudeste;17/01/2025;4;2910.92
+2cd58759-e95d-4761-bc36-dc59e134edfc;Maria Luiza Fernandes;oliveiradavi-lucas@example.com;31;Norte;23/01/2025;3;1499.94
+7e7838c9-ca55-438b-bc9a-be10238d6f44;Pietro Porto;augusto57@example.net;18;Norte;05/04/2025;2;615.48
+bc594585-9445-48c0-8ef8-c2d6f7fd5646;Cecilia Campos;davi-lucas09@example.net;55;Norte;10/03/2025;2;209.98
+964db03f-9340-4fad-9c4a-d56bd6016237;Bento Alves;ana-beatriz30@example.org;75;Norte;17/01/2025;2;642.94
+87f7e1fb-da4b-49ca-ab5c-f46780bacd64;Raul Mendonça;joao-guilhermesa@example.org;60;Sul;11/02/2025;2;1108.99
+e0527739-4d40-4f1b-bca5-be2952171bf3;Maria Flor Farias;snunes@example.org;31;Nordeste;29/01/2025;3;2617.39
+f7315749-4f39-49a8-bd3a-258288b4f474;Maria Sophia Pires;antonyporto@example.net;39;Centro-Oeste;11/01/2025;4;4069.93
+e79f9f3d-19ee-4c3b-b93c-4b0bb93b770c;Mateus Costa;isabelmacedo@example.com;64;Sul;13/02/2025;2;319.99
+1b41a61e-85d1-41ef-8344-edb3ceed0ffc;Srta. Beatriz Borges;thales10@example.com;59;Sul;14/02/2025;1;989.98
+02b622e9-808e-48d2-9d26-4b1b6593b659;Sr. Theodoro Melo;da-motahenrique@example.com;46;Sudeste;17/02/2025;4;1296.9
+243113fd-8e19-4d07-9ff0-b9bf8db3c2c1;Pedro Silveira;joao-felipe93@example.org;36;Sul;07/01/2025;4;7113.39
+54ce26be-c8cc-42c2-a518-a4186f14b3f6;Jade Siqueira;scamargo@example.org;41;Centro-Oeste;28/02/2025;3;1231.42
+680bac63-b856-4035-bdc9-829015eabb27;Gabriela Siqueira;jesusmaysa@example.com;44;Norte;23/01/2025;4;4049.91
+79c9c839-c8ef-4377-a368-84f588ddd880;Dra. Catarina Sales;ana-livia05@example.net;48;Nordeste;10/03/2025;2;1139.93
+891f6912-17ab-4863-9efe-ef4fd8ddbbc0;Renan da Luz;anamendonca@example.com;53;Sudeste;16/02/2025;2;704.93
+e8dd5e5a-1712-4b16-a1a4-344fbb7bee03;Thomas Pastor;pcastro@example.com;47;Norte;04/05/2025;1;2159.98
+503be788-2d44-4af8-bc94-76b1a18b5d15;Dr. Yago Cavalcanti;aliciafernandes@example.com;33;Sudeste;03/01/2025;5;3277.46
+6e3c4532-1434-4f62-acac-028cba220065;Sra. Amanda Siqueira;kevin10@example.org;35;Sul;05/01/2025;3;3189.96
+4baf0f5e-a932-4094-93f2-8f11147f6570;Kaique Porto;hcampos@example.com;58;Nordeste;25/01/2025;2;572.48
+6fb78271-504d-481f-8953-5b63ba81edd9;Valentina Duarte;esther39@example.net;32;Nordeste;01/03/2025;1;659.94
+3f87dfc2-1591-42f2-a505-da9c46e75a2c;Ana Beatriz Silveira;lunna98@example.com;63;Sudeste;12/01/2025;3;1987.39
+b076a7dc-fd0c-4433-8a5e-151b23d3cd4c;Carolina Souza;lpeixoto@example.org;70;Sul;21/01/2025;4;6061.93
+1b84edc3-d8e0-49de-8217-ea0e896490ab;Lucca da Costa;andradejose-miguel@example.net;40;Sul;14/01/2025;2;387.49
+e2aa7a5d-278e-400d-ba02-66efbe055787;Dr. Gael Henrique Peixoto;luiz-otavio56@example.net;72;Centro-Oeste;23/01/2025;5;2483.39
+d9750f00-d5ab-48ae-9112-fbc03d8f95f4;Rafael Mendonça;heitorcavalcanti@example.com;36;Norte;26/02/2025;3;3323.44
+a6fd0cb1-16e6-45c0-84cb-294fe86e8e63;Leonardo Fonseca;handrade@example.org;39;Sudeste;15/01/2025;4;549.96
+b7f60cdf-41dc-4c60-a5f6-0735757b6b29;Danilo Azevedo;hferreira@example.com;65;Sul;11/01/2025;5;2202.88
+f8f58a26-1924-4644-af52-7666b23909f4;Gustavo Fonseca;julianacasa-grande@example.com;65;Nordeste;08/02/2025;3;2990.92
+4aea1b8f-b43c-4e0a-ba9f-c10e52daf681;Emanuelly Campos;erick56@example.net;39;Norte;27/03/2025;1;3497.0
+41afeb2a-62c8-43f4-9d06-149ef1eab64a;Leonardo Câmara;enovaes@example.org;47;Sudeste;02/02/2025;1;65.99
+6511e61a-1436-45f5-8c81-926079ec533c;Ana Lívia da Conceição;pedro58@example.net;49;Nordeste;13/01/2025;7;2773.35
+a52964ff-c74c-4890-bc6a-3174113634a5;Antonella Araújo;agatha82@example.com;38;Norte;16/04/2025;2;2632.9
+695e5ea9-c923-4c64-8006-2b5bf67839b2;Eduarda Silveira;ncunha@example.com;70;Centro-Oeste;08/01/2025;2;1409.91
+bf8e8bfa-a0c9-4a72-b68a-cd40b8f14e3c;Gael Henrique Rocha;josuelopes@example.org;41;Norte;05/05/2025;1;240.0
+9d1c0838-edc8-4ca8-a3bc-d6f3b18d2c8c;Alexandre Ramos;isisleao@example.net;68;Sul;17/01/2025;3;3310.45
+47c68688-ecf3-4053-af36-b8cc13087974;Olívia Novais;leandro77@example.com;43;Centro-Oeste;10/02/2025;2;426.97
+a748dbcf-ac61-4e63-8dde-29a6baa4b71a;Levi Câmara;cribeiro@example.org;61;Sul;03/05/2025;1;89.97
+2976aab2-2a26-4770-8ddb-1b36272c0588;Pedro Lucas Souza;brayan66@example.net;40;Centro-Oeste;10/01/2025;3;3954.93
+092c4801-698f-44f8-a747-d24a1a46d536;Bella Rodrigues;zoedias@example.net;41;Centro-Oeste;01/03/2025;1;945.48
+8db78572-ef7d-4821-bca0-258eb63d65d5;Stella Farias;ana16@example.com;44;Sudeste;20/02/2025;1;499.99
+ec50ace4-80a5-4e65-afa2-855967c96204;Isabela Costela;vargasenzo@example.org;68;Sul;08/04/2025;1;500.97
+a42d0cd7-fd35-4f6a-b450-388748d90846;Dr. Vitor Hugo Dias;benjamin26@example.net;18;Norte;31/03/2025;1;914.95
+ad409244-cd35-46ef-9c37-07394a629c5e;Carlos Eduardo Moreira;goncalvesantonio@example.net;68;Nordeste;09/02/2025;4;2999.94
+5715bd6f-a416-4293-84c2-e2e3444ea7c8;Nicolas da Cruz;ravirodrigues@example.com;63;Nordeste;11/03/2025;2;1629.46
+069f14f1-4018-4c6e-9a8c-fa3c5283aac7;Srta. Lunna Cavalcante;felipelima@example.com;46;Sudeste;20/01/2025;2;709.97
+0e165b12-9bdc-40d1-9cbf-7b8c74102d5d;Ayla Costa;macedorodrigo@example.net;27;Nordeste;21/04/2025;2;944.98
+257035db-3fea-490a-a1f8-072dddb7570e;Maysa Barros;nina45@example.com;54;Sul;27/01/2025;3;582.49
+b0c07fcc-96ad-44df-adf7-5924c5b8386b;Gael Henrique Alves;martinsana@example.com;65;Sudeste;27/02/2025;5;2532.86
+30a900ad-939b-462d-a645-f129629c2ae3;Milena Sousa;smelo@example.org;51;Sudeste;04/01/2025;3;1432.43
+0e3141ec-5c31-4464-82c2-99f07487d772;Laís Leão;guilherme83@example.org;58;Nordeste;18/01/2025;2;4919.94
+6b52f93c-2321-464e-a20d-4a1f479f6628;Isabelly Costa;emanuellycamara@example.org;23;Norte;22/01/2025;5;2625.93
+fb8fe8c4-d8b4-4ead-9360-8edf382b5b86;Sra. Fernanda Aparecida;maria-alice57@example.net;54;Nordeste;13/02/2025;3;2144.9
+74eda60e-3b2d-420b-a4f3-418541822509;Maria Helena Guerra;marquesdanilo@example.org;29;Nordeste;25/04/2025;2;1099.97
+0f1259e0-a18f-46b6-b535-106e122c9a56;Sr. Rafael Silveira;blima@example.org;38;Norte;17/01/2025;6;2110.93
+d0a44432-9cd6-4852-b14c-7df4e4347d51;Maria Alice Almeida;juan61@example.org;64;Sudeste;14/03/2025;1;149.97
+44c1f1b5-ebbb-4763-b9a7-e63bbee975da;Sophie Pimenta;wfreitas@example.net;39;Sudeste;17/02/2025;1;91.98
+fc377a4c-4a15-444d-85e7-ce8a3a578a8e;Davi Luiz Gomes;maysa41@example.net;48;Centro-Oeste;12/02/2025;6;2882.85
+7135f221-a6c9-437f-84da-d06a7872bdeb;Sra. Ana Luiza Cirino;arthur43@example.net;58;Sudeste;04/05/2025;1;699.95
+8a2e6a93-c558-4bb2-81f7-f3fb19e45c6a;Stephany da Paz;anna-lizpacheco@example.com;71;Nordeste;22/01/2025;3;3331.37
+6e8f75a1-17dd-4d81-95da-705cd4ef00aa;André Abreu;novaesleonardo@example.org;47;Nordeste;18/04/2025;1;469.98
+e0827f76-11a5-49b4-a6a3-02d6f43e8c48;Raquel Caldeira;npires@example.net;32;Sul;09/04/2025;1;19.99
+8fbba749-5fcd-459e-96e1-8109d7e174e6;Camila Pastor;joao-vitormendes@example.org;43;Sul;20/01/2025;4;1270.41
+a48e40f1-d042-4dfa-96ab-087a8bc78e81;Aylla Montenegro;heitorpimenta@example.net;20;Sudeste;20/02/2025;2;1839.95
+ba236c22-e92a-4b97-91db-1a374204d733;Carolina Brito;afarias@example.org;22;Sudeste;10/03/2025;4;3573.86
+ec4e8cbb-a2aa-478c-a59e-0258814ff657;Ana Sophia Martins;maria-alice60@example.org;27;Sul;17/01/2025;1;2159.98
+0ab54bde-20a0-4502-ae06-809725e97977;Ana Beatriz Moreira;csilva@example.net;37;Nordeste;31/01/2025;2;2731.42
+989bc4da-9b37-422b-aa8a-616fc3b290d0;Sr. Davi Lucas Jesus;ana-laurapeixoto@example.org;21;Nordeste;17/01/2025;3;1502.44
+9b02c535-2649-4478-9396-6f0a6b77af9e;Sr. Valentim Pimenta;luccamoraes@example.org;57;Sul;07/01/2025;4;2645.94
+965befdf-6b4b-4411-8a4a-0e2df22b5b98;Maya Fernandes;mendoncamariana@example.org;20;Centro-Oeste;15/03/2025;1;121.97
+5fbbf0b1-8083-49c8-a57e-01c90da23e5c;Gustavo Barros;kda-rocha@example.org;22;Nordeste;14/03/2025;3;820.95
+42d943ee-5197-4e75-8523-d4fd4b7f2183;Isaque Duarte;marianarocha@example.com;68;Sul;26/01/2025;2;3011.44
+afc5c20e-4a63-4af5-b6e1-e7ac9fc97264;Luiz Felipe Fernandes;marianelima@example.net;27;Nordeste;05/01/2025;2;2439.89
+46707cd6-4ced-4164-a9df-14e9389641dd;Sr. Caleb Moreira;auroralopes@example.com;55;Centro-Oeste;08/01/2025;7;2983.88
+885f6e66-c2b6-42c5-ba5d-310011b7e948;Maitê Camargo;mcunha@example.org;27;Norte;28/01/2025;3;960.44
+5fb8d16c-2720-497d-b2eb-d6899be578c7;Eloá Melo;vargasbella@example.com;19;Centro-Oeste;05/02/2025;4;1553.98
+fe7c80e9-a179-4e93-bfc8-25ac869bc00f;Evelyn Jesus;sophieborges@example.net;67;Nordeste;28/02/2025;4;2654.85
+9793b9b4-1374-4146-b2c5-bd89b70b3420;João Pedro Campos;brendaalves@example.org;41;Nordeste;10/01/2025;4;4746.41
+73b9c2ac-0134-476b-8ed9-fa95a26e865b;João Miguel Guerra;silvamaria-julia@example.com;37;Nordeste;07/02/2025;3;3226.92
+f166cdcf-762c-4fbc-ba2a-a7baf3f81c31;Maria Vitória Porto;cduarte@example.com;56;Nordeste;17/01/2025;4;1139.94
+67213a70-17d5-4f59-84d5-98f7e14fe093;Laís Lima;ana-julia48@example.org;28;Centro-Oeste;20/01/2025;5;2466.42
+38e59b27-16dc-4a6e-a789-077055ec024a;Théo Mendonça;luiz-gustavocaldeira@example.org;58;Sudeste;08/03/2025;2;1032.47
+8d7248e2-951f-48d0-9e84-f058d5a804eb;Dr. Thomas Nogueira;rmelo@example.org;20;Norte;14/01/2025;5;5002.38
+a43e558c-2215-4f00-9fdf-0e05c0cef31b;Sr. Henrique Vargas;fernandesdavi-lucca@example.org;63;Sudeste;02/01/2025;3;1037.94
+295d6fbf-430f-401d-bad4-09e2a319dcb4;Mateus Freitas;nogueirakamilly@example.com;54;Sul;21/01/2025;2;525.97
+1eb74b56-53ff-43a2-8a19-35014169b9fc;Sra. Mariane Sales;zoemendonca@example.com;75;Nordeste;05/01/2025;2;1459.97
+d9b59f84-edc3-41c3-adea-2d2d086c405f;Rhavi Mendonça;da-conceicaoana-liz@example.org;53;Sudeste;18/03/2025;3;2404.95
+74eff545-3e65-4603-b8e3-654bfaf14ff0;Lucca Souza;rafaelasampaio@example.net;19;Sul;29/03/2025;2;1679.95
+c21c3fb3-a6a5-40ff-93fb-71d0dd326d9c;João Borges;limaemilly@example.com;69;Sul;13/02/2025;2;1459.95
+66fba71d-b3a9-4caa-ac6f-6d2e6a59c043;Pietro Leão;afonseca@example.org;61;Centro-Oeste;22/04/2025;2;1895.94
+6307d4d1-21c9-415d-9104-5a16ef15ab72;Srta. Mariah Monteiro;da-costaravi-lucca@example.org;69;Sudeste;07/01/2025;5;2357.86
+14a34f7f-d90d-419b-93fb-e043af1d5a1a;Maysa Rodrigues;qmarques@example.com;30;Centro-Oeste;04/01/2025;0;0.0
+a879d8f8-9042-4eb7-8b04-0f53e63949d4;Arthur Gabriel Sousa;nathan97@example.org;21;Centro-Oeste;18/01/2025;1;1939.94
+76d70561-d2d1-4ef5-9e4c-4fd1462363a9;Srta. Stephany Cirino;albuquerquepedro-henrique@example.net;47;Centro-Oeste;06/01/2025;7;3848.3
+6772fe9f-999b-4859-8f5e-0f0bcd67b5df;Arthur Miguel Pinto;brunasousa@example.net;31;Sudeste;10/02/2025;2;534.99
+823c7ef9-cd85-45ce-83a9-c2355ffd4015;Rhavi Sousa;mendoncamiguel@example.net;66;Sul;03/01/2025;4;805.47
+67e54646-8430-40fa-b90f-ecf5e8410a39;Srta. Ana Júlia Cunha;riosantonio@example.com;43;Sul;04/01/2025;3;332.96
+57b936b0-3346-4332-be0a-824e232a5e82;Maria Laura da Paz;xsampaio@example.org;61;Centro-Oeste;11/01/2025;2;1987.98
+94ad6252-15bc-4a3e-bf76-55d7f97c6c3c;Juliana Melo;psilva@example.net;19;Norte;09/01/2025;5;3576.39
+aa38d0a1-6ba2-4efe-b11c-6eb62095eef6;Valentina Novaes;clara87@example.net;46;Centro-Oeste;06/01/2025;6;5697.33
+95ca788d-d6bc-4712-aecc-a931ef705d01;Sra. Nina Sampaio;gbarros@example.com;27;Sudeste;24/04/2025;1;199.98
+d664d264-4c6e-47ff-b9de-7a3a486822b9;Aurora Marques;lara19@example.org;37;Sul;01/02/2025;3;7578.43
+269cd696-236c-4b87-94a0-bccb8a476a87;Emanuelly Câmara;gael08@example.net;45;Sul;02/03/2025;3;2179.39
+cb881c32-cbb0-4a8b-9908-a121d1a7ba20;Dra. Gabrielly Carvalho;hrios@example.com;42;Centro-Oeste;26/01/2025;4;1776.88
+5c62b3a2-3a3c-463e-8bd6-cee631b1b099;Stephany Lima;joao-vitor00@example.org;37;Centro-Oeste;11/01/2025;3;3223.49
+c342bd2b-f295-456e-9967-5f06bd767e35;Matheus Farias;ramosrafael@example.org;32;Sul;11/02/2025;4;1607.97
+cf2e3296-7184-4713-a55f-65b7e709fba6;Sr. José Pedro Brito;da-matalucca@example.org;61;Norte;02/01/2025;2;2349.97
+c958e75e-21d5-4971-b367-49b52cf6bf75;Sra. Maria Luísa Freitas;camarapedro@example.com;61;Centro-Oeste;15/01/2025;4;1481.47
+9e47a339-c0ae-4b1a-b347-673637ec07a6;João Miguel Peixoto;maria-laura60@example.org;58;Sudeste;04/03/2025;1;179.97
+9d264599-c4dd-4df5-9aec-56a857311609;Dra. Maria Vitória Sales;alvesvalentina@example.com;31;Centro-Oeste;09/01/2025;3;1496.9
+e27a984d-6548-41d0-bfcd-9eb1a7cad415;Eloah Sá;taragao@example.com;44;Centro-Oeste;03/02/2025;3;899.91
+af70de70-2b69-495e-8567-1b58926bffa5;Vicente Lima;egoncalves@example.org;28;Sudeste;09/02/2025;2;1309.95
+503b4078-a39c-4ec6-b746-4c02871854c1;Dra. Melissa Jesus;jgarcia@example.org;75;Norte;07/02/2025;3;3454.41
+848af440-7fc1-4858-afa0-d842bc55300b;Fernanda Farias;aurora61@example.com;51;Sudeste;28/02/2025;2;770.98
+5f987c71-a65e-488e-abf3-ad39fec21bbe;Srta. Bárbara Ferreira;oliviapires@example.org;39;Centro-Oeste;01/01/2025;5;9320.43
+adf4e62d-6651-429e-8268-690ba43825b5;Liz Novais;samuel12@example.org;29;Sudeste;12/01/2025;2;2625.43
+dd59ba71-36b8-4481-bb3a-4e3e7c52fa17;Vicente Vargas;bryan40@example.org;68;Sul;12/01/2025;3;1959.94
+b4323070-a23d-4c2f-82a7-96891933918c;João Lucas Caldeira;nandrade@example.com;28;Centro-Oeste;11/01/2025;4;2424.85
+f413db19-bade-4d5d-afff-15ccb2dc6c34;Sra. Emilly da Cruz;psilveira@example.org;48;Nordeste;09/01/2025;2;1859.95
+43d88870-f81d-4aa1-8812-0a8e78308930;Gustavo da Rosa;ana-liviaazevedo@example.com;42;Sul;21/01/2025;4;6527.88
+ba05dd0f-a966-4a5a-aecf-1ed21861c9f3;Maysa Campos;kgoncalves@example.org;54;Nordeste;08/04/2025;3;2585.9
+2598f383-9280-4da2-a40b-50e40a086989;Olivia Pereira;joao-miguel92@example.org;31;Nordeste;02/01/2025;1;1089.95
+ec6a37ad-81b1-4db9-88cc-4d49669b29b8;Cauã Monteiro;mayada-mata@example.net;38;Sul;02/01/2025;2;399.96
+310c0c00-3fa7-4104-9bf9-0e27dc96925e;Bruno Santos;erick75@example.org;65;Nordeste;08/01/2025;4;3092.41
+8fe069b6-eeda-4802-8568-f42689e03e22;Sra. Mariah da Costa;camarajoao-pedro@example.com;49;Nordeste;03/02/2025;3;2499.98
+20f0156a-1e6a-4628-9c6d-52d5ae2e9af9;Ana Liz Ribeiro;heloisa19@example.com;58;Sudeste;11/01/2025;1;2177.91
+4ba17233-1ac3-4f31-bb96-e2d10649bcf6;Dra. Luiza Borges;kgoncalves@example.com;63;Sul;01/01/2025;2;1085.49
+f004e897-a15b-4e18-afb0-64065f4b1a97;João Guilherme Ferreira;baragao@example.com;52;Centro-Oeste;26/02/2025;1;69.98
+6f04af36-567c-4d44-862c-92fd98abb2e7;Dra. Marina Vasconcelos;xcastro@example.org;63;Nordeste;05/02/2025;2;2611.91
+1d03c3d5-b862-4cc3-9489-9c37cfa9026b;Sophia Freitas;gmartins@example.net;48;Norte;19/01/2025;3;1954.95
+afb28b3d-38ec-4b4d-b69f-5eabb9ff2c29;Camila Cavalcanti;oliveiramathias@example.net;64;Sudeste;30/01/2025;5;4484.87
+c6435300-68a5-4c68-a32d-bb5e486bb6bf;Aurora Monteiro;vsilveira@example.com;47;Nordeste;14/02/2025;3;4659.42
+095ffa81-40d9-4bce-b930-ba208b040f49;Samuel Porto;abreujose-miguel@example.org;30;Nordeste;06/02/2025;2;2723.47
+c926a021-19da-4262-8790-3dc5900c0af7;Maysa Oliveira;kvasconcelos@example.net;34;Sudeste;05/01/2025;3;3127.86
+c88a618e-fed4-457d-bb02-6576f512c4c3;Leandro Fernandes;luisamontenegro@example.com;74;Sul;26/01/2025;1;677.92
+31f3f0c0-22f3-4068-bc0f-549d02740f73;Alexandre Sampaio;camarazoe@example.com;44;Sul;18/02/2025;1;999.0
+89b5aab0-c121-49db-af12-b150605fb1eb;Ana Cecília Leão;lavinia59@example.com;24;Norte;01/01/2025;3;1589.98
+548e1f6b-69ce-4e4e-99a6-92c90d700ea4;Dra. Aurora Ribeiro;pnogueira@example.net;40;Norte;17/03/2025;3;1809.94
+c9a7d91f-ef2a-4713-9702-10496a39aaa6;Thomas Mendonça;mathias20@example.org;37;Centro-Oeste;19/01/2025;2;1439.92
+cb80f288-446f-44dd-9abc-a6e5d0b1e3eb;Dra. Cecília Cavalcante;znovaes@example.net;64;Sul;03/02/2025;1;244.99
+9b49bd26-df57-459a-8715-a10343dac043;Amanda Ramos;maria-isisfonseca@example.com;23;Centro-Oeste;04/02/2025;1;160.0
+fba6abf7-cdbc-4653-b7a7-e8b75e70f65f;Sra. Yasmin Freitas;beatriz76@example.com;21;Sul;19/02/2025;3;1218.91
+774c0afa-7f4d-408c-a1ff-f6c08347f1da;André Pacheco;vicentesouza@example.com;73;Centro-Oeste;01/02/2025;1;1309.97
+65edcfe3-4f2d-4d3f-90d4-de39161237c9;Gustavo Almeida;camarajose-pedro@example.org;43;Nordeste;09/03/2025;5;2459.91
+1139fa12-34c1-43ea-bd9c-4e6404015ced;Luiz Felipe Marques;arthur-miguel41@example.org;50;Centro-Oeste;01/01/2025;2;672.96
+9f8cc29f-fd35-4c5f-9347-9a3b479bc637;Otto Gonçalves;rhavi50@example.net;42;Centro-Oeste;16/02/2025;4;5744.91
+5f90bed6-fb25-464d-a30a-a767a2bb522b;Levi Freitas;gda-conceicao@example.com;62;Centro-Oeste;08/01/2025;6;2165.91
+4806f804-0cf0-474c-8c74-dc0f5a575539;Clarice Ribeiro;llima@example.org;48;Centro-Oeste;10/01/2025;4;3702.85
+47419b48-34ae-4abd-b6fc-e0acb4698db3;Isis Mendonça;alima@example.org;28;Sudeste;14/01/2025;1;1949.94
+0bc57207-3e9a-4c86-8325-4fbddce8e1c5;Clarice Rodrigues;mendesdavi-miguel@example.org;34;Centro-Oeste;01/01/2025;2;3089.92
+eb053fc4-1b65-4dab-ade4-6e91e8e6e840;Diego da Cunha;sara86@example.com;75;Sudeste;10/01/2025;0;0.0
+7c441fe7-ab42-40a7-874a-493b3ceddf2d;Raul Rezende;heloisapimenta@example.com;74;Norte;18/02/2025;2;2184.45
+35adde88-43e4-4668-82ea-d2df725656e3;Isabelly Ribeiro;nathanda-cruz@example.net;66;Nordeste;15/02/2025;5;3683.94
+d867888b-7ff6-4824-952a-eaec2bdfcb41;Gael Henrique Moura;jlima@example.net;61;Centro-Oeste;01/05/2025;1;1169.98
+0c880714-8372-47e0-a570-46ea5b11f51f;Yuri Silveira;lmoreira@example.net;41;Norte;15/01/2025;2;2429.94
+d61169a1-ff46-46bf-894d-916deb6d2fed;Luiz Felipe Moraes;machadootto@example.net;51;Sul;19/01/2025;4;3090.89
+2c3aacdc-aed5-4a46-8bde-005b5d8babd7;Sra. Zoe Caldeira;lferreira@example.net;57;Sudeste;17/01/2025;3;1712.39
+e82c7d7b-06e7-45f9-88bc-539c9f4c3b79;Josué Farias;mendoncaravy@example.com;44;Norte;14/01/2025;5;4764.33
+5cec4eb5-edd9-4831-9ca3-5cfb04fc6d82;Rebeca da Conceição;joao-felipe19@example.net;32;Sudeste;21/01/2025;4;991.95
+5e6fea07-c453-4f1d-8199-2fdfb31022f0;Amanda Garcia;isis03@example.org;35;Norte;10/03/2025;2;1239.93
+7118e364-7709-4749-927e-ecfaa79ac9aa;Felipe Peixoto;danilo86@example.com;72;Centro-Oeste;16/01/2025;4;1751.87
+e45a87e8-039a-4ed5-b337-b2615f8392d5;Eduardo Jesus;icirino@example.org;52;Nordeste;21/01/2025;3;2247.95
+3e245fbf-fa69-4cd2-be23-90f3e7bbaefc;Rael Guerra;vmarques@example.com;62;Nordeste;23/01/2025;5;4805.89
+43bfd931-3605-4f54-a021-c0ca3531968d;Maria Sophia Macedo;maria-luisabarbosa@example.net;73;Norte;02/01/2025;4;1279.93
+bc10fa52-bf5d-4fdf-89c8-d2ab6b44fa8d;Augusto Fogaça;bda-luz@example.net;52;Nordeste;10/04/2025;0;0.0
+26a9e100-b509-409b-9166-58ce3b3f3800;Heloísa Cunha;fonsecapedro@example.net;52;Norte;02/01/2025;4;3439.92
+7a89cbeb-b807-478a-b788-f5d1ffe575f6;Lara Aparecida;qcastro@example.org;25;Sul;10/01/2025;2;3970.45
+fd235def-3e5a-47e3-9560-db22c96b5edb;Bárbara Araújo;rodrigocassiano@example.com;55;Nordeste;08/01/2025;8;6469.8
+cbd431cc-ea7a-4c21-a1a1-a29c5228ed8d;Olivia Monteiro;heloisaferreira@example.org;35;Sul;27/01/2025;4;2267.86
+9d6b9b62-6b53-4a19-a902-b73fcf39f648;Zoe da Mota;pimentastella@example.com;44;Centro-Oeste;19/01/2025;2;1059.97
+ff37d19c-2e76-428b-8735-44f9ea83bf00;Anna Liz Cunha;ana-juliaalmeida@example.com;22;Nordeste;03/03/2025;1;339.96
+a6f2f7b8-0cf3-4b58-9910-8be58ce21ea3;Luiz Otávio Melo;viniciusmartins@example.com;59;Nordeste;16/02/2025;3;3832.91
+dbb54645-7dda-41b6-97c4-caed47c4cc51;Yan Ferreira;jteixeira@example.com;49;Sul;28/02/2025;3;1069.96
+635a11f2-5c7a-483d-8a9d-2704e860bcb1;Stephany Duarte;albuquerquemaria-flor@example.org;56;Nordeste;21/01/2025;2;359.98
+6c93a791-8b60-4511-b816-8aebac6a7c85;Letícia da Conceição;sabrina00@example.net;58;Centro-Oeste;21/01/2025;1;240.0
+f6ff3521-c225-4530-952a-53459682d9ff;Sophia Lima;srodrigues@example.net;53;Norte;07/01/2025;3;3930.43
+8e52fc42-73c3-44a6-9ac7-26b667863fb3;João Felipe Ramos;arthur-gabriel51@example.com;23;Nordeste;02/02/2025;3;1910.46
+f9012b9c-6057-453a-8067-f79084440504;Ana das Neves;osouza@example.com;28;Norte;07/02/2025;2;1725.46
+2c2ac34b-9e0b-4b01-b536-59efd873dad9;Dra. Raquel Freitas;rael45@example.org;22;Sul;27/01/2025;2;1708.94
+b1d81887-4739-4c7b-bff3-0c8d83ff3e96;Laís Pinto;tbrito@example.org;31;Norte;04/01/2025;2;1351.5
+97fb613a-21f8-4d06-93f3-cade7a10013f;Sara Silveira;jmarques@example.org;50;Sudeste;30/03/2025;1;2149.97
+8dcdcd03-969b-4662-8562-8059568cc69b;Diego Sampaio;ydas-neves@example.net;29;Norte;10/03/2025;2;1706.97
+7202fae5-767d-4b27-bade-4367e0bd202c;Antonella Sá;rodrigo30@example.org;18;Nordeste;04/03/2025;2;1097.92
+b46788bd-d38e-43e4-8de1-087bafa14a55;Theo Albuquerque;maria-claravasconcelos@example.com;33;Centro-Oeste;25/01/2025;3;1928.97
+189099c9-f2be-429f-9514-9755838e9a61;Srta. Olívia Leão;steixeira@example.com;24;Sudeste;02/02/2025;3;572.85
+c1101266-2408-46dc-9346-d1a9f6802cdb;Dra. Isabelly Nascimento;diashenrique@example.com;27;Nordeste;19/01/2025;3;797.46
+788fd0cd-65c0-4b93-88ed-abdd4ef03f80;Sr. Yuri Garcia;camargoluara@example.net;22;Nordeste;04/01/2025;4;3356.42
+0cb5ee5c-62f5-47c2-8706-fec248fa4e98;Eduardo Teixeira;monteirocaroline@example.org;33;Sul;11/01/2025;1;280.0
+b3eda8f1-026b-4383-a301-ec030e5d8c6a;Apollo Guerra;ferreiraemanuelly@example.net;58;Nordeste;21/01/2025;3;3155.43
+f2dcb12b-0f7a-4302-ac2e-28150a3217d2;Sr. Emanuel Casa Grande;theo55@example.com;61;Norte;27/04/2025;2;528.46
+3e9639ba-0ed2-4c9d-bd17-5712d8b22277;Sr. Heitor Cirino;gaelda-rosa@example.net;36;Norte;31/01/2025;0;0.0
+ebc1bb52-82e4-4d4a-943a-c1c54f560ed5;Luana da Mota;correiaevelyn@example.net;55;Centro-Oeste;09/01/2025;4;1809.91
+088dbd82-d883-43f8-8c98-03de12de9e5a;Pietro Guerra;oliveraragao@example.org;29;Norte;09/01/2025;3;2824.9
+be6127a8-0351-409d-8dc5-fb068d5809b7;Anna Liz Dias;upacheco@example.net;28;Sul;05/02/2025;2;535.0
+582b91ee-f8e8-435b-8c00-988a7ee1011a;Rodrigo Albuquerque;luara95@example.net;20;Nordeste;16/01/2025;3;341.93
+1df05d18-4e2d-4255-bd13-1a3d1e2c2e7d;Anthony Gabriel Lopes;julianacamargo@example.net;33;Norte;06/02/2025;4;1922.95
+0f844fef-1931-49ee-a56c-0941fbf24050;Davi Miguel Moreira;cda-rocha@example.net;53;Centro-Oeste;23/01/2025;0;0.0
+7746d0ba-8ae8-405b-94b4-a48268586eba;Brenda Azevedo;bcorreia@example.net;45;Sul;17/01/2025;4;2642.42
+9ca3fbb3-ff11-48ba-b6ee-1640723ef466;Heloísa Moura;davi-miguelda-mota@example.com;29;Norte;22/01/2025;3;637.46
+7a4a902f-21d6-4b0f-b1ac-040d6c1cc405;Yago Macedo;gcarvalho@example.net;71;Norte;28/01/2025;2;1084.93
+1825bc54-30be-445f-a835-14f2ceb81f9d;André Vasconcelos;allanaaraujo@example.com;29;Centro-Oeste;17/01/2025;3;1602.92
+6147adeb-277b-4667-8499-d0a615007170;Breno Montenegro;calebe56@example.org;40;Centro-Oeste;23/01/2025;5;5434.86
+50ffde64-6eda-4a8c-a789-e7d0a155eb2c;Esther Souza;oliveiragael@example.org;19;Nordeste;16/02/2025;4;665.42
+cf89569d-e550-4736-8780-6e713811b519;Maria Luísa Aragão;zoe58@example.net;24;Sul;25/03/2025;2;899.96
+02fb2869-0df8-4b89-9ce7-eed1fcdfe961;Lunna da Luz;novaesyago@example.com;49;Sudeste;11/01/2025;3;1590.93
+3ae28023-5472-4d2d-b239-9ffb27046f25;Isaque Nogueira;tfogaca@example.com;43;Centro-Oeste;13/01/2025;3;1223.42
+a9e27ba9-952e-4abb-94dd-5061555736f8;Francisco Monteiro;rodriguesesther@example.com;62;Norte;28/03/2025;1;704.94
+26996aab-daaf-4529-9eef-f82a0dd70158;Natália das Neves;vandrade@example.com;18;Norte;18/02/2025;3;2780.42
+e0b4659a-09fe-4cdd-998d-65ba9d6022c5;Daniela Câmara;vianacalebe@example.com;62;Norte;08/04/2025;1;419.96
+3b9b2d45-a350-45e4-b9c5-9df987f255d6;Alana Pacheco;yago61@example.com;59;Centro-Oeste;03/03/2025;2;1839.97
+bf85bf0e-ad64-456c-a10f-aa3ff0bbac67;Calebe Carvalho;brunaaragao@example.com;58;Norte;04/01/2025;2;1453.98
+c5f8e2f8-414f-4994-a845-77805e20c957;Maria Fernanda Garcia;xaraujo@example.org;47;Sul;27/02/2025;2;1495.42
+044251db-d0d4-4a67-b992-8faa4cbf131d;Sr. Thomas Fonseca;maria-cecilia65@example.com;73;Sudeste;27/03/2025;3;3103.99
+f91e5fcd-85ec-4729-94dd-1b56435391b2;Hadassa Melo;gaelpereira@example.com;71;Nordeste;04/01/2025;6;6195.79
+795e6f2b-0247-4360-aea4-a441c47fa57e;Juliana Câmara;kcassiano@example.net;70;Nordeste;17/01/2025;1;89.97
+1d57e734-31bf-4cf6-80b3-af7cd5b211a9;Gabriel Duarte;enzosales@example.net;36;Sudeste;01/04/2025;2;782.49
+65c17795-b155-46bc-9f8d-ed9756abf2f1;Sra. Allana Pastor;alvesjoao-guilherme@example.com;51;Nordeste;03/03/2025;2;559.96
+2c154804-0997-49a3-b919-955c9be4f19f;Júlia Monteiro;teixeiraana-liz@example.org;34;Nordeste;16/01/2025;3;1989.94
+4cc57e0d-2633-4018-a883-ac6e6a944054;Ian Cavalcante;britodom@example.net;68;Centro-Oeste;12/03/2025;0;0.0
+901bcdef-b56f-48ce-bd66-971e88476c56;Ana Julia Cardoso;aramos@example.net;67;Sul;14/01/2025;3;3544.9
+67fd64c4-a334-458a-abd2-b5121335e5db;Isaac Mendonça;ocorreia@example.net;25;Sudeste;25/02/2025;3;1245.43
+97fe56c5-4c9a-4f24-97b4-c294bd44089d;Henry Viana;anthony-gabrielpimenta@example.net;22;Sudeste;20/01/2025;2;3473.44
+2e2bdc6c-b736-4c4f-9cc5-d97550fe8199;Carlos Eduardo da Luz;luan37@example.net;36;Sul;05/01/2025;2;1951.96
+567e642e-052d-4b9a-9f58-4603e5a3d8e9;Gustavo Henrique das Neves;zcunha@example.org;37;Sul;15/01/2025;4;1888.9
+143029a9-d88f-4c94-88b7-63d5e519dd7e;Srta. Sophie Macedo;leandro56@example.com;57;Norte;04/01/2025;2;686.94
+3139d32c-93cd-49bf-9c94-1cf0dc98d2c1;Maria Júlia Jesus;souzabrenda@example.net;25;Sul;18/02/2025;1;129.99
+0c5921f8-050d-4bfe-960b-f603a750350e;Arthur Gabriel Aragão;clara38@example.org;58;Norte;14/01/2025;2;727.89
+07e3c39a-a925-4745-9276-9c9665262474;Dr. Marcelo Aragão;diasvitor-hugo@example.org;75;Centro-Oeste;05/03/2025;2;973.96
+402d105b-113e-4f84-abf3-90964a68369c;Ísis Sales;maria81@example.net;46;Norte;22/01/2025;2;1279.93
+15fa9483-f633-4c2d-aba9-00e16a7d5d96;Ana Julia Mendes;tpinto@example.com;26;Sul;17/01/2025;4;3147.41
+5fdcabbf-6b9c-471c-b6ba-745ba55871e3;Bianca da Paz;ferreiraian@example.com;27;Centro-Oeste;14/02/2025;1;750.0
+7f0386fa-13ba-4c91-a0a5-fde6939f71a2;Paulo Jesus;peixotocarolina@example.com;29;Norte;12/02/2025;5;4703.8
+a3595d1f-7fe4-442e-bdb7-88a61cdcc4c2;Rafael Borges;abreujoana@example.com;72;Sudeste;23/03/2025;3;751.93
+b11af726-2d5d-4395-a901-a768ebd14b0c;Cecília Gonçalves;ilima@example.net;21;Norte;11/02/2025;2;529.98
+98c7472a-864e-4a13-829c-fc0cfa02eaec;Dr. Levi Rios;ravy63@example.com;57;Nordeste;13/01/2025;4;2647.89
+ce9e1a11-fcbb-4e59-bbdd-cf7c9c96e9ec;Mariana Lopes;clarice99@example.org;60;Centro-Oeste;30/03/2025;1;339.98
+453b45fe-636c-4499-9254-aad3809cd839;Ian da Mota;joao38@example.org;18;Centro-Oeste;19/03/2025;1;1319.97
+18fdd2b9-79e5-49aa-992a-35497ba109d0;Emilly Cirino;rlima@example.net;64;Nordeste;22/02/2025;4;4409.87
+8567c805-34f5-41c0-88c5-eb2a7490adeb;Cauê Moura;tbrito@example.com;36;Centro-Oeste;05/01/2025;6;2337.82
+82f73861-1adb-48cf-a60c-1638d4a5a81e;Yan Moreira;isiscunha@example.net;59;Norte;19/02/2025;1;762.49
+aaf407f7-0fe7-4149-bc7e-5368b1594847;Sr. Marcelo Sá;muriloborges@example.net;29;Nordeste;11/03/2025;3;3602.47
+ce88cb2d-d4e8-4839-bc3e-058be0f3eab0;Sr. Guilherme Barbosa;catarinalopes@example.org;28;Norte;13/01/2025;4;4209.87
+cd4f8b2b-899a-4252-81e1-b94a78883058;Pedro Miguel Abreu;maria-vitoriamontenegro@example.com;42;Norte;13/02/2025;4;2175.43
+48ca7651-92f5-4f7b-8323-d342df6a8f93;Esther da Rosa;maria-alice93@example.com;19;Sudeste;12/03/2025;2;515.96
+2e9ce8ff-084a-4c4b-9146-8cdcf7164b73;Erick da Conceição;mendesgabrielly@example.org;73;Centro-Oeste;09/01/2025;11;7566.82
+e87d1c78-e7c4-41c7-8049-7b717d106c60;Maria Luísa Novais;luigiferreira@example.net;73;Nordeste;26/01/2025;2;1175.41
+f8f9a45d-0f55-4896-b610-396b7df59abf;Manuela Rios;matteo13@example.net;29;Sudeste;07/01/2025;4;1976.94
+e8334da5-de95-4695-b579-c1437ab99428;Sra. Sabrina da Rosa;mouramanuela@example.com;62;Norte;11/01/2025;2;956.47
+8c357321-4abf-4f5c-8cc7-147ff6e5203c;Kamilly Alves;ncorreia@example.com;52;Nordeste;25/02/2025;3;3459.94
+7c16128d-b2c0-4394-a17f-29e170286046;Otto Caldeira;aferreira@example.com;26;Sudeste;01/01/2025;2;238.49
+52645a59-e1f8-4b33-9b2d-5a2a99bd6240;Raquel Pastor;gomesjosue@example.net;29;Sul;15/01/2025;2;1597.91
+86879aa9-14f5-43d0-8991-2032df85c777;João Vitor da Luz;bellacampos@example.org;42;Nordeste;14/01/2025;1;80.0
+21d8b96a-62ad-4157-a0d2-759a3ad51382;Ana Carolina Peixoto;vicente55@example.org;41;Nordeste;05/02/2025;0;0.0
+6e3cdd4f-55b1-45e4-b0b2-7304545cd88d;Carolina da Rocha;freitasjose-pedro@example.net;59;Norte;08/03/2025;1;610.98
+aefcfad8-efc8-4849-b3aa-7efe4458a885;Isabela das Neves;anthony-gabriel16@example.org;74;Nordeste;27/01/2025;3;1885.42
+bb64a525-bc65-4d94-a56d-4d11f7bd8499;Milena Aragão;mda-cunha@example.org;23;Nordeste;01/02/2025;5;6265.84
+2a25a888-0f02-4ad0-a706-7ef466aa9385;Leandro Duarte;samuelmonteiro@example.net;25;Norte;28/02/2025;4;1692.97
+3c53090e-e1b4-4171-929d-674d798e175f;Sr. Antônio Brito;giovanna91@example.com;45;Sul;13/01/2025;3;1266.46
+f2d3f761-0ba3-4279-94cb-056407437c3b;Bianca Garcia;eduardo57@example.org;54;Sudeste;01/02/2025;2;394.99
+b2414482-5198-44d8-8643-3603c92a7d7c;Renan Lima;anthony-gabriel91@example.org;64;Sudeste;22/03/2025;3;684.99
+29310971-601e-4211-a34f-76b42b8c03bf;Brayan Pires;emontenegro@example.org;28;Centro-Oeste;24/01/2025;3;3109.96
+3be8a5df-5e93-4de0-83ac-e8751017ab44;Alana Mendonça;oliveiraevelyn@example.com;75;Nordeste;22/01/2025;2;1200.46
+5a5226e6-9d64-4932-8066-853d6de299a1;Bella Ribeiro;catarina14@example.net;28;Sul;06/02/2025;2;1879.95
+339b77a8-4b1f-4d7b-8977-c513752a7d25;Sr. João Lucas Pacheco;beatriz83@example.net;49;Norte;17/02/2025;3;2239.88
+4d560a3d-f4e7-469a-a454-09374a27ebf2;Hadassa Gomes;martinsluiz-fernando@example.net;24;Norte;26/01/2025;3;2294.93
+7701f7bb-7bc6-4e1f-864e-e6e389c5b31a;Mariane Silveira;moreiracarlos-eduardo@example.net;43;Sul;09/02/2025;1;718.45
+1986b4b2-70b7-4868-9854-80f0dfcaf0b7;Isaque Moreira;garciavalentina@example.com;50;Norte;18/03/2025;3;647.94
+f3c2944a-b60a-4dcc-a7f7-745142da8609;Cecilia Martins;matteorezende@example.org;25;Sul;17/01/2025;2;709.97
+551ac8ea-585a-4afa-bbfd-cc1289e06ab3;Ana Beatriz Marques;vianaana-livia@example.net;47;Centro-Oeste;13/02/2025;2;4485.46
+b63b4dc3-a559-4463-b9e1-3ceab0cbc61f;Kamilly da Cunha;andre30@example.net;44;Nordeste;07/01/2025;2;3587.5
+ba2c98ce-0b19-488e-9d77-a45ef206c269;Marcos Vinicius Rios;da-luzelisa@example.net;56;Norte;20/03/2025;1;1719.94
+aca58d95-915a-4c30-8b86-b5a1ca6fbff8;Srta. Ana Julia Moraes;moraesmaria-luiza@example.org;29;Sudeste;01/01/2025;3;882.95
+ebe9e207-4f19-4ec0-832d-4526b3e4110a;Benjamim Alves;marinaporto@example.com;24;Sudeste;09/01/2025;4;2583.37
+8f7c1d59-594b-4a3a-bad4-65a15129950d;Davi Miguel Marques;lucas-gabrielcostela@example.com;30;Centro-Oeste;29/01/2025;1;25.5
+27cb6f2a-8da0-4097-be0f-051b1b66b5a9;Paulo Pimenta;dante43@example.org;43;Sudeste;07/01/2025;4;2565.87
+a7dc2bc0-bd9c-4693-b6ca-1127e9f87970;Maria Isis Aparecida;calebe47@example.org;66;Nordeste;23/01/2025;1;269.97
+3f5e3b8c-c058-4da5-a757-075bd47f83b1;Sr. Luan Casa Grande;larissasa@example.net;45;Sul;12/02/2025;2;1894.96
+a542deb9-2cff-45f8-9bdc-74a98d3a5d76;Dr. Gustavo Aragão;otto97@example.org;32;Norte;05/01/2025;5;2494.88
+bdd640fb-0667-4ad1-9c80-317fa3b1799d;Léo Brito;ceciliapimenta@example.net;28;Nordeste;11/02/2025;3;674.96
+34ec5264-ad7d-4f81-b9a0-f145a5bab050;Laís Casa Grande;oaraujo@example.com;20;Centro-Oeste;12/02/2025;3;1140.98
+8f3dc97f-e6b0-4a0a-b98f-5dbe15aede0f;Apollo Pimenta;dcastro@example.com;54;Sudeste;03/01/2025;4;1504.45
+0ec0713d-ea2c-4a51-b688-d11fce4758be;Levi Borges;ryan16@example.com;23;Sul;03/04/2025;1;241.0
+11df12d7-dd30-4e89-a2f2-35f2e11b868d;Bernardo Pereira;sampaiomurilo@example.com;61;Sudeste;01/01/2025;7;4258.36
+a33b3dfd-9048-45c6-b820-5aa7996f7e88;Dr. Leonardo Silva;ramoslevi@example.net;31;Norte;09/02/2025;2;389.96
+94a1875d-2db6-4edb-82de-ffccf86c2ca2;Dr. Erick Lima;aparecidajulia@example.org;36;Norte;26/01/2025;2;2850.97
+30cbd755-6232-417a-a507-41818d1fb540;Emilly Cavalcante;raquelda-luz@example.org;41;Nordeste;08/03/2025;2;941.94
+ccc56569-f9e8-4369-a999-b735dd56cc94;Dr. Gabriel Nascimento;ana-clara58@example.net;22;Centro-Oeste;06/01/2025;3;2394.45
+5d42b9e9-692e-47b6-8b2f-6d5c700b5d5f;Eduardo Duarte;ramosmaria-sophia@example.com;51;Sudeste;02/03/2025;3;1459.95
+65bcc272-fadd-4ea3-aca5-e2fdb966442a;Luna Cavalcanti;livia75@example.com;67;Norte;16/01/2025;2;951.49
+e45e2ad0-8eef-45dd-9391-6dcfd6cade2c;Dr. Cauã Castro;luiza38@example.org;21;Sudeste;05/03/2025;4;978.94
+1d0bc9bd-e9b5-45cf-9766-5cdafe049059;Rebeca Jesus;xferreira@example.com;19;Sul;01/01/2025;3;1054.97
+6db99102-a48b-4dbe-957d-94a106f028ff;Gustavo Henrique Barros;barroslucas-gabriel@example.org;38;Sudeste;16/02/2025;2;545.45
+1375ee90-d6b3-41e4-bb6d-ca0d6fe5040b;Ana Sophia da Cruz;pietramonteiro@example.com;18;Centro-Oeste;03/03/2025;1;99.98
+c0e9ab30-ed26-42e9-97e0-11b7f8102383;João Cavalcanti;da-rosaalicia@example.net;34;Centro-Oeste;07/01/2025;1;4672.47
+f8cbab4c-9779-4e84-9e47-2e2276c3e642;Hadassa Vieira;alicia57@example.com;38;Nordeste;04/01/2025;2;829.94
+8a4b8f7c-2147-4a15-bcce-96f6250a4578;Sofia Moura;laismoreira@example.org;53;Sudeste;09/01/2025;1;455.0
+c80c2195-8b65-44ce-bacc-99705beec570;Carolina Fonseca;estherda-paz@example.org;44;Sul;05/04/2025;1;110.0
+8ed6ad5e-1831-4aa3-9466-9d1910df9974;Gael Fernandes;camilacavalcanti@example.org;46;Norte;27/01/2025;3;5853.45
+a3bfe403-388c-4751-9c83-79aef7b02805;Sr. Samuel Costa;gabrielly60@example.com;32;Sul;22/01/2025;4;2870.41
+6090d697-8b1e-4b9d-834b-9fbb8d4a75b8;Clarice Souza;maria-isis15@example.com;50;Sudeste;01/01/2025;6;3209.86
+a175a9c3-d7b1-42a9-a332-a50e6992896e;Dr. Cauã Almeida;rioseduardo@example.org;45;Sul;04/01/2025;8;5335.82
+6b15c11b-b113-450b-9ea0-50c6eb9ed274;Antônio Castro;gustavosilva@example.org;57;Sul;30/01/2025;0;0.0
+9f64eeed-5c9d-427d-84b8-71bb300568d2;Lucca Fonseca;cavalcantigael@example.com;21;Norte;27/01/2025;1;749.97
+01bb819c-4dfe-4117-a2af-711f1b628a9d;Sophie Câmara;mateuscassiano@example.net;53;Nordeste;07/01/2025;3;3344.0
+d926fe41-b36d-4121-8ba6-fe0995ea6825;Dr. Carlos Eduardo da Luz;lucasjesus@example.org;19;Sul;29/01/2025;4;3638.92
+9118c400-e336-4243-b139-c476de3ce88b;Catarina Jesus;ianda-rocha@example.com;43;Sudeste;07/02/2025;3;1637.97
+2620f9a9-74fd-43d1-84f2-fd0f79474bfa;Sr. Renan Caldeira;brayan45@example.org;60;Sudeste;08/04/2025;2;631.47
+277eb0aa-a247-441d-88ad-0899b630794d;Maria Júlia Mendonça;jmonteiro@example.net;71;Norte;10/01/2025;3;1006.45
+66d71d97-b193-48b8-ae49-c0799bd0d4c7;Bruno Rocha;portoclarice@example.net;39;Centro-Oeste;06/04/2025;1;241.0
+55f3ad50-e2fb-4984-bab2-7bcea39c3bd5;Gustavo Henrique Cavalcanti;tnascimento@example.org;32;Sudeste;21/01/2025;3;1629.47
+735741e5-fe1a-4ba9-8896-9c5b45f8c28d;Erick Santos;vcorreia@example.com;38;Norte;04/02/2025;5;2479.42
+6aa0426d-f7c0-45f7-a9a5-3b4f8ff8869d;Oliver Pimenta;costelamatheus@example.net;23;Sul;07/01/2025;3;669.96
+12767d13-f093-4776-9116-d014a5850828;Esther Borges;fernandeslivia@example.org;75;Nordeste;11/01/2025;4;2217.89
+96f01335-c5ab-48da-a435-4021392a9fc4;Mirella da Cruz;murilosantos@example.net;46;Nordeste;01/02/2025;4;2282.92
+2b2bf58c-6da5-4dad-b56a-abc050fb35b0;Luiz Gustavo da Rocha;camila27@example.net;47;Centro-Oeste;15/01/2025;5;2890.38
+8e969227-72e7-4b51-ae54-ac6d2ff8e87e;Sra. Maya Porto;giovannaabreu@example.org;46;Nordeste;31/01/2025;3;1415.43
+6928043e-d492-451a-b828-3a052baa43c9;Lucas Lima;augusto93@example.org;64;Nordeste;29/01/2025;3;3155.96
+a40dfea5-bd64-487e-b652-ae9938b5e89a;Yasmin Lopes;peixotoevelyn@example.org;53;Nordeste;08/02/2025;2;805.44
+ef69a980-5ad4-49ef-a36f-a890cc21cbdb;Maya Monteiro;knunes@example.net;54;Norte;17/01/2025;3;3514.46
+c8ebe27a-23a4-470e-9dbc-15c02a7dc57c;Helena Rios;nunesjosue@example.net;25;Centro-Oeste;21/02/2025;2;252.5
+91b0e1d9-9d92-42af-ac8d-0e44e71e43a6;Lavínia Novais;yda-mata@example.org;33;Nordeste;01/01/2025;4;3077.41
+5efa9c5b-7421-4f46-a37e-4b0122bae10e;Isaac Ribeiro;peixotoantony@example.org;18;Sudeste;13/03/2025;1;1429.95
+8c52d271-0a16-4e18-a90e-3e894b9c22f4;João Vitor Borges;barbara17@example.com;24;Norte;29/03/2025;2;2008.92
+844e250b-e684-490c-923b-78208089b8c5;Maria Laura Cunha;vcostela@example.org;66;Nordeste;16/01/2025;3;1800.96
+16591c89-21eb-4aa9-9a2b-d69c450f69ee;Enzo Melo;cardosomirella@example.net;22;Nordeste;04/01/2025;2;945.95
+7cea2045-c268-483e-a32f-2e63b7fddd71;Maria Liz Jesus;bmontenegro@example.net;34;Norte;04/01/2025;3;2947.44
+57423882-f34a-4949-b4ca-0ad7abe5be96;Dr. Heitor Azevedo;gomeslorenzo@example.org;45;Nordeste;07/01/2025;4;615.45
+4767d76c-162f-4a24-af43-613cd4aac9a3;Nathan Fogaça;das-nevesthiago@example.com;72;Sul;16/01/2025;3;2933.44
+b495db4e-8245-4fb4-8ab7-706eb77350ca;Nathan Siqueira;amanda31@example.org;52;Norte;03/01/2025;3;939.87
+51e744e4-b864-4a08-aa75-752d6a8fcacb;Dr. Pedro Lucas Monteiro;ribeirocaleb@example.org;22;Centro-Oeste;22/04/2025;1;1297.98
+1b1f2eb1-6e32-45a8-8bd5-cc86f73936e9;Ana Laura Ribeiro;maria-eduardafarias@example.net;56;Norte;03/01/2025;3;1050.92
+e8b77f7b-7321-4f6b-8a80-76ece5582e16;Ana Cecília Novais;agatha69@example.com;41;Norte;20/02/2025;4;6064.37
+cc1b4157-ec9f-4c54-9e0a-72ab7f5db163;Esther Farias;nicolas42@example.org;29;Sudeste;28/02/2025;1;1159.97
+39669fa7-5997-4043-b3b1-025bfff9f585;João Nunes;brenda21@example.org;20;Sul;31/01/2025;5;1745.83
+0d95aaf5-2534-41bc-a180-b78a06783c34;Dr. Augusto Lima;anthonysa@example.net;38;Norte;18/01/2025;1;1989.97
+7a5d7c82-86c5-447c-851a-00393803dcee;Bianca Novaes;rodriguesyago@example.org;22;Sul;12/01/2025;6;5655.44
+7394988f-847f-49b4-a64d-1bcb702753a1;Bruna Dias;da-rosagustavo-henrique@example.com;58;Sudeste;18/01/2025;2;1120.48
+161d5c87-53c9-4e59-8f89-e3b2d847dc53;Luiz Henrique Viana;novaiscecilia@example.org;72;Sul;09/01/2025;2;209.95
+3a3c8a71-ff57-4e2b-8991-ab9bebc2026f;Anna Liz Santos;vitormendes@example.net;69;Norte;09/01/2025;3;4526.44
+bd5ff093-c16f-4bcc-a243-bed754ec3f33;Enrico Peixoto;ycamara@example.com;64;Norte;15/01/2025;4;1429.9
+4140752c-aa44-4259-9001-8b7b6d4067f4;Brayan Cirino;julianada-rosa@example.com;47;Norte;23/02/2025;3;981.43
+7f53d344-a7c8-44e4-8684-3c86b8a60402;Liam Sales;pedro-lucas92@example.com;60;Sul;27/02/2025;2;2883.46
+5bc677ca-abff-4286-b0cf-9d73e8121ef0;Sr. Miguel Albuquerque;jose40@example.net;35;Centro-Oeste;17/01/2025;3;1305.93
+c9525185-81e0-4a5e-8b48-f49686abd4e7;Rafael da Paz;joao-guilherme53@example.net;40;Sul;23/01/2025;6;6997.33
+89628f6e-929c-43b3-b3c0-8bf18167999f;Dra. Maria Liz Moura;marcelo76@example.net;54;Sul;25/02/2025;2;2469.96
+e9ff1cae-41c8-4a8c-aa1f-955ad499da99;Antony Nunes;novaesisis@example.org;50;Centro-Oeste;13/01/2025;4;1335.99
+3db02235-261e-4555-863e-1f2a18a806ef;Eduardo das Neves;hgomes@example.com;43;Nordeste;14/01/2025;2;1252.93
+82010c62-f5f5-4b22-8e8f-a8e0284d82e5;Vitor Gabriel Aparecida;kabreu@example.org;58;Norte;17/01/2025;4;1753.94
+18f1a1e4-1d30-4290-b3d9-2aceb7461b72;Nina Pastor;pereiraluara@example.net;28;Sudeste;03/01/2025;4;2063.91
+3730dfba-6494-4d5c-9a29-6905ee22a70b;Luiz Henrique Brito;eduardo17@example.com;71;Norte;28/01/2025;3;2438.92
+4fe54745-5827-4e80-a082-1918b18ad67d;Hadassa da Costa;macedodaniel@example.org;46;Centro-Oeste;14/01/2025;1;197.94
+7af6cd41-99a7-499b-a005-f5e1a97a2846;Marcela Costela;melinapeixoto@example.com;19;Sudeste;28/04/2025;1;1499.97
+fee5ce69-33cb-402e-ad84-414df54191ea;Vitor Gomes;das-nevesravy@example.com;58;Sudeste;03/01/2025;0;0.0
+8861fe18-58e2-4888-8a83-81bec85aca46;Manuella Novaes;xcirino@example.com;52;Norte;09/01/2025;6;3385.91
+d0243d72-3748-467f-961d-33ba350843f0;Ravi Lucca Borges;ccarvalho@example.net;33;Centro-Oeste;04/03/2025;2;391.46
+6f07b60f-9d4e-4b5d-a120-bfba1689e0b8;Lorenzo da Conceição;rafaelalves@example.org;60;Centro-Oeste;06/01/2025;2;92.96
+7ed70ed7-b194-490b-a961-929e546e035a;Francisco Fernandes;zoliveira@example.com;25;Centro-Oeste;22/01/2025;3;869.96
+a28defe3-9bf0-4273-9247-6f57a5e5a5ab;Pedro Miguel Teixeira;davi-luiz33@example.org;21;Norte;02/01/2025;2;3162.43
+86341718-2ba6-4db3-bafe-b1149561c813;Luiz Henrique Borges;omontenegro@example.net;24;Sudeste;18/02/2025;2;1019.92
+5b6a8102-0428-4378-bf50-23f440ef3935;Vitor Hugo Sá;levi26@example.net;70;Sudeste;19/02/2025;2;365.47
+13eb22c9-bece-421a-94c7-743b2401342a;Fernanda Borges;ana-julia30@example.net;62;Sul;12/01/2025;2;1495.99
+c04446bf-d9f4-4bbd-8dec-644cda2d2156;Ana Costela;isaac31@example.com;49;Sul;10/01/2025;1;539.98
+fdb1429e-7010-4d13-b526-b22d3f6c21f7;Manuela Costa;flopes@example.org;47;Sul;25/03/2025;2;572.95
+3acb43a3-d2c7-4ffb-a118-433b882ccd1e;Murilo das Neves;msantos@example.com;44;Norte;18/01/2025;4;4989.39
+5780be17-12fe-4c2b-9acf-42c5f3a02120;Kevin Duarte;leomoraes@example.net;55;Sudeste;09/02/2025;2;2459.97
+c605e58a-4845-4343-9db4-49dc77106966;Heitor Carvalho;pedro48@example.net;26;Sudeste;16/02/2025;1;3538.45
+6c4c450b-623a-40fc-9326-7d25234b4562;Sr. Pietro Teixeira;thomaspeixoto@example.com;54;Sul;25/01/2025;2;3527.91
+9293f705-0815-4147-be00-980eae441e21;Dr. Rafael Dias;pedro-miguelferreira@example.org;65;Norte;04/04/2025;2;1905.94
+54bbbcf8-28fe-4761-8d49-fe3f2ca8f783;Theo Abreu;ada-rocha@example.com;24;Sul;11/01/2025;6;4419.84
+27b608dc-589d-4cb0-b5eb-89c23f5cf2f3;Caio Casa Grande;eduardoduarte@example.com;20;Centro-Oeste;09/04/2025;4;1956.42
+b12b6680-7f07-4cb9-afd3-40c0f945f2fd;Eduardo das Neves;maria-clara83@example.org;27;Norte;21/01/2025;5;4782.83
+f2f5b176-2c41-4bd3-b2f4-44abc1d71f4a;Lívia Albuquerque;guerramatteo@example.org;46;Sul;06/02/2025;2;3507.47
+0cf173f9-74d9-41f5-8877-58043fde9814;Alícia Correia;ian41@example.org;37;Sudeste;14/04/2025;1;849.96
+061efb95-68f8-4063-aeb1-9ad201a1fb0f;Manuella Cardoso;opereira@example.com;22;Sul;14/01/2025;2;180.96
+e726be23-e776-4886-9534-ee1d7f2984f5;Noah da Rosa;maria-fernandacassiano@example.net;73;Sul;21/03/2025;3;2846.42
+f6d22a7b-aec7-4a82-948b-4376602a4e57;Francisco Guerra;ana-sophia43@example.com;66;Norte;26/01/2025;4;6290.86
+12b2102d-940c-4503-b7c8-6152beed0af9;Mariah Moraes;bpimenta@example.com;26;Nordeste;17/02/2025;2;430.0
+b5cbe3f5-6a66-4184-bde1-bf5daf4847f0;Lorena Gomes;lpires@example.com;60;Nordeste;11/02/2025;2;4089.94
+a8761e85-bddf-403a-aa84-30f84f2da233;Sophie Jesus;anthonyviana@example.org;53;Norte;04/01/2025;5;3691.87
+a267d32f-ddcb-44bc-8dbd-c5da787515b9;Srta. Gabrielly Câmara;mariahpimenta@example.net;34;Sudeste;04/01/2025;3;1288.99
+edcb8cb6-0692-4c63-9424-aed51bac5c15;Dra. Catarina Brito;kabreu@example.net;32;Sudeste;02/01/2025;7;3339.82
+fb756923-f910-4bb3-b105-32523990e2c9;Rafaela Campos;sbarbosa@example.net;46;Centro-Oeste;03/01/2025;2;739.99
+172e8c68-82aa-4c46-8049-9bbf76f6a778;Calebe Nogueira;isaque47@example.com;73;Nordeste;12/02/2025;3;3195.91
+624c69b6-b244-45a7-b7e5-848131c681ec;Camila Leão;vieiraoliver@example.net;46;Sul;20/01/2025;3;649.96
+2747b93c-9ae7-4eab-884a-67809136f1f8;Luan Sales;isabellaalves@example.com;60;Nordeste;23/03/2025;1;75.0
+a9ba5a27-907b-4e36-9786-48f864de82e6;Ester Castro;ununes@example.net;38;Nordeste;31/01/2025;4;5316.93
+c2e79a98-5c23-4d8d-b1da-35b94eea9db8;Ana Sophia das Neves;saantonio@example.net;64;Nordeste;06/03/2025;1;1257.95
+f2c84743-9027-4770-a460-d0d2904883c1;Maria Helena Azevedo;lucca93@example.org;21;Centro-Oeste;04/01/2025;3;1740.88
+c6ac1b04-dd1d-4cd1-811f-6bf5379ef467;Sra. Milena Moura;novaesmirella@example.com;40;Centro-Oeste;04/01/2025;7;7119.37
+69be173a-850e-40ad-9872-f72ee5b4a1ae;Otávio Nunes;correiadaniel@example.net;59;Nordeste;16/01/2025;4;3297.34
+71a3fad2-b094-4d2a-aaa9-3b436d15f16f;João Pedro Sousa;usousa@example.net;52;Sudeste;22/01/2025;1;1659.98
+2fb21e66-7ed1-4aab-89b7-c9bc65a16fa9;Bruno Cirino;carvalhomaria-isis@example.org;51;Centro-Oeste;08/01/2025;5;3493.97
+f76b9723-a990-4071-bfda-9a9382f29004;Davi Miguel da Conceição;bianca12@example.net;53;Sul;18/01/2025;3;899.89
+4ec3f970-956d-40e4-aaa2-6216fada98f5;Daniela Andrade;jcassiano@example.org;68;Nordeste;30/01/2025;3;5551.43
+76c5a0dc-7e7e-4419-a0c1-4035c5d95f51;Gustavo da Cruz;kaique33@example.net;41;Centro-Oeste;02/03/2025;1;75.0
+f18cccdc-131e-4723-bbcd-f203459ee674;Maria Alice Azevedo;sampaioisaque@example.org;49;Nordeste;01/02/2025;4;3709.87
+ee4205ee-a52f-43ec-ab4e-2281b184d1fc;Sara Teixeira;pvieira@example.net;47;Nordeste;21/02/2025;3;780.91
+ce315937-34fa-42b6-9043-7e4c34e50699;Natália Pereira;lunanovaes@example.com;57;Centro-Oeste;19/01/2025;4;2901.46
+e1bbb8cd-7e3a-4f07-a9fd-28e6e271fff9;Maysa Nascimento;samuelgoncalves@example.org;74;Nordeste;25/01/2025;5;6292.38
+b9493906-939f-44eb-be5e-215ec47cc30b;Laís Cirino;hadassateixeira@example.com;31;Sudeste;15/02/2025;1;1039.98
+3eabedcb-baa8-4dd4-88bd-64072bcfbe01;Sr. Kevin da Cunha;nicole65@example.com;62;Sul;05/01/2025;4;616.98
+349b5089-2733-4670-b3ad-a2ba797209c0;Gael Henrique Alves;bcassiano@example.com;75;Norte;19/01/2025;4;2332.96
+2c913a7c-a340-4f08-b341-91b8ed6522b4;Ana Luiza das Neves;josue98@example.net;28;Sudeste;08/04/2025;2;2848.99
+f5141058-3138-4975-bbf3-3a349c2dfa97;Cecília Aragão;oliviabarros@example.org;19;Centro-Oeste;12/01/2025;3;1861.97
+e1cde87f-ec95-4f87-ae5e-c36572eb7474;Anthony Teixeira;moreirayago@example.org;33;Centro-Oeste;30/01/2025;3;4319.93
+e1509425-891f-4683-9e12-dbf1493d6196;Helena Pacheco;da-rochaenzo-gabriel@example.net;50;Sul;24/01/2025;6;2231.43
+6e6b34b9-07ef-4ba8-b45a-6ab37b94a34d;Dra. Bruna Sá;sampaioluna@example.net;60;Sul;07/01/2025;4;1135.36
+a847bce7-90fa-4b57-a4ac-2130deaf528d;Isadora Correia;piresbarbara@example.org;30;Centro-Oeste;21/01/2025;3;2006.44
+eb1fa9f2-d10b-41d0-b317-347038f16a81;Lara Oliveira;caue44@example.org;69;Centro-Oeste;14/03/2025;1;999.98
+ee0f65a8-2a13-4c1f-8cd0-15c1ad5900dd;Pedro Lucas Brito;anthony-gabrielcasa-grande@example.net;37;Sul;19/01/2025;3;2148.45
+a0180791-eeb0-43fe-860e-a4d50d04dcb6;Lara Rezende;henry-gabriel61@example.net;36;Centro-Oeste;06/02/2025;4;4010.89
+f68c62e6-e2a4-4909-a2dd-22d52afaab7b;Hadassa Rodrigues;rcavalcanti@example.org;36;Sudeste;01/01/2025;4;2307.85
+dd34aa18-9001-4ed4-8bb4-01e769f753f1;Valentina Vargas;ian63@example.org;26;Sul;14/01/2025;2;1676.45
+2c33350c-73b9-41d8-92f5-131ada52d2ee;Thiago Caldeira;marianaalbuquerque@example.net;33;Centro-Oeste;05/01/2025;5;7094.85
+81f631d4-a392-41a7-9777-a4774c66e0a8;Dr. Juan Barbosa;da-cruzmaria-laura@example.com;53;Nordeste;02/04/2025;0;0.0
+2ab7b2ef-8e0e-4033-ac59-1da8fff96acf;Erick Leão;vitor-gabriel15@example.org;38;Sul;08/01/2025;2;1639.93
+c241330b-01a9-471f-9e8a-774bcf36d58b;Sr. Vinicius Ferreira;lopesravi-lucca@example.com;68;Sudeste;17/02/2025;3;896.95
+ac5f12ef-8085-4147-9e91-0f365f705b25;Stella Barbosa;jesusalexia@example.com;26;Nordeste;12/02/2025;3;3954.43
+df162ec3-be84-4aa2-b92c-04da5af3da5a;Sra. Maria Sophia Montenegro;maria-luiza13@example.org;56;Norte;11/01/2025;3;3529.93
+1777e8cb-7468-4b98-92fe-2fded918b3e5;Ana Liz Vieira;vasconcelosdante@example.org;53;Centro-Oeste;10/02/2025;2;1724.95
+01e187d8-1a31-4044-95a0-f35665abc9ff;Beatriz Fernandes;isaque18@example.com;44;Sul;11/03/2025;2;1199.97
+17eaec83-8892-442f-9d4b-2bf94d85e9c7;Anna Liz Campos;britoallana@example.com;43;Nordeste;02/01/2025;3;3407.87
+58c1aad6-f3f8-4ea4-bf14-eafa29f0ef7c;Davi Lucca Correia;theo59@example.com;68;Nordeste;16/02/2025;2;2488.97
+23d7e6a1-19b8-44fc-a587-1d8916312fc6;Elisa Moraes;britovitor-hugo@example.org;48;Nordeste;15/01/2025;1;389.94
+ef0a573d-53d2-456d-9040-158728e213bc;Bruna Carvalho;barbaralima@example.org;39;Nordeste;02/01/2025;5;1948.37
+d97e8d3c-04c4-446a-a461-0160134d695a;Murilo Monteiro;dgoncalves@example.org;71;Nordeste;12/03/2025;3;1145.95
+5c11ab6d-42f5-43f5-8ef4-c34d5bf86f3c;Aylla Gonçalves;maria-fernandamoura@example.net;72;Sudeste;24/03/2025;4;2294.41
+23c8afdb-83f8-4f16-a4a4-474c9b33e3a4;Kamilly Martins;iborges@example.org;75;Norte;09/02/2025;2;684.95
+720b274b-82a7-4586-a61d-9cde1747f387;Fernanda Nascimento;ana-lizmonteiro@example.net;42;Nordeste;24/02/2025;4;2679.97
+73e7f042-516c-4b0a-9385-3918bc4015fa;Ana Clara Ferreira;albuquerquethomas@example.com;21;Norte;17/01/2025;4;2560.91
+d0b3d752-bb01-42a5-ac74-5800941c23fa;Alexandre Pires;cirinopietra@example.org;44;Sul;18/02/2025;3;2567.46
+13365c0c-82ff-4f2e-878f-07cf170fa87b;Henrique Camargo;sampaioana-cecilia@example.net;30;Nordeste;06/01/2025;3;1852.47
+eb93f78c-620a-4158-9d2d-904f78c59073;Leonardo Pires;sousaana-julia@example.net;35;Norte;17/01/2025;4;2039.42
+4b91b8cb-6ae6-4582-b852-b3cd9442b5e6;Antônio da Mota;ana-luiza69@example.com;25;Sudeste;22/01/2025;1;272.5
+9c89d374-c664-45a7-8077-3e33690e7e62;Laís Casa Grande;julia34@example.net;62;Nordeste;10/03/2025;2;1847.48
+c1b5b5ca-bc35-46df-94f7-9dbac5811d2d;Antônio Borges;hleao@example.net;23;Sudeste;18/02/2025;2;279.96
+d28fcf68-c871-47b3-8468-b74d85e3ade5;Dra. Heloisa da Cruz;eloah00@example.com;43;Nordeste;18/01/2025;2;1198.0
+c4ea4ece-67b6-4467-9432-d79794f6c67a;Luiz Otávio Borges;costacaio@example.org;34;Sudeste;16/01/2025;2;3104.96
+4c955f6a-966b-4964-bcd6-bdca5876fd09;Pedro Miguel Vasconcelos;egomes@example.com;29;Sul;04/01/2025;4;3056.41
+134c6c92-ec5b-427c-9fde-4fbf3ff350bf;Mathias Sampaio;gomesisadora@example.net;31;Sul;20/01/2025;3;1909.93
+f8cda88b-436d-46e2-b83c-fe0be037e5ed;Sra. Maria Sophia das Neves;bentopeixoto@example.net;28;Centro-Oeste;16/01/2025;3;1417.95
+495743a2-81b1-4b80-a5e1-b0f5ca0ee8c4;Carolina Moura;rebeca18@example.org;53;Sul;24/01/2025;3;2642.93
+1e494952-ac5d-4e57-a3b6-64f40452f779;Maria Julia Oliveira;ipereira@example.org;29;Nordeste;05/01/2025;3;3137.85
+61ee411a-1bac-47a7-b386-f7a4c991603f;José Miguel da Cunha;duarteester@example.com;30;Sudeste;08/01/2025;5;2865.86
+6afa828c-2cd1-4b9f-abe5-841fe9c96c52;Leonardo Monteiro;fcavalcante@example.org;47;Norte;15/02/2025;2;1469.98
+dd20c3bf-d342-4f08-8a8b-b5b490494583;Maria Luísa Costa;bcassiano@example.net;36;Sudeste;02/01/2025;3;3463.46
+7aa1219a-7a93-48bb-acdb-d5f27b44acd0;Ana Vitória Jesus;ribeiroyago@example.net;35;Sudeste;24/03/2025;1;119.97
+3948fe22-022a-4dda-8d05-79e299e4704c;Laís Camargo;ssousa@example.org;41;Norte;04/01/2025;3;773.46
+2bd3cdcd-2779-4685-94a5-3fdef10d27c8;Bernardo Pinto;azevedoluna@example.org;65;Sudeste;08/01/2025;5;5247.29
+8ee9581a-e061-465f-a859-6f8cd73418fe;Sra. Mariana Moura;cda-cruz@example.org;31;Sudeste;29/03/2025;2;2015.49
+28489240-2fd9-4ce1-a676-27ca3625fc20;Yago Vieira;pedro58@example.com;73;Sudeste;07/01/2025;3;1159.92
+a0a11839-e745-4704-98df-bc3ca0d4de3d;Dra. Ana Júlia das Neves;xaparecida@example.com;27;Norte;14/01/2025;1;3148.97
+92b26acd-cd1f-45a3-b1b6-5ca175873920;Sra. Aurora Castro;ydias@example.com;22;Norte;15/03/2025;2;1757.46
+03c72ba8-d605-4770-8a63-f881ffd0f9d5;Lara Brito;zdias@example.com;47;Sudeste;08/03/2025;2;1389.94
+ee87905e-4ca4-45ea-8dfa-6a56d12dbc9a;Natália Brito;maria-cecilia11@example.org;34;Centro-Oeste;18/02/2025;5;5827.41
+60ee64ba-a4b0-418e-8ced-470739034b65;Arthur Miguel Monteiro;caldeirarebeca@example.net;34;Sudeste;11/01/2025;2;779.98
+7b07fd31-a424-4f23-8d5b-a7cd400035f0;Allana Sales;sara93@example.com;54;Sudeste;09/03/2025;3;3379.93
+1b0ae22e-ecc8-47a6-99a6-f80ef08ce6c2;Mariana Mendonça;juliacirino@example.com;48;Sudeste;12/01/2025;5;3313.43
+3d225c30-b28f-41de-bb14-0bc3304b8590;Sra. Cecilia Ferreira;fleao@example.com;28;Norte;04/01/2025;3;2395.94
+4f612217-eef1-4694-90ca-e32d0aba590e;Isaac Correia;olivia48@example.org;58;Centro-Oeste;06/01/2025;1;299.94
+45f18619-54f9-4429-a7de-02ccdda4f4a7;Maria Vitória Azevedo;wrocha@example.net;52;Sudeste;01/03/2025;2;1022.47
+5380b904-688c-4015-aab9-7e494f2d4796;Dra. Stella Sousa;antonioda-cunha@example.org;29;Sudeste;07/01/2025;1;119.98
+988c24c9-61b1-4d22-a280-1c4510435a10;Diogo Castro;xnogueira@example.org;42;Nordeste;12/03/2025;2;1460.99
+96053035-6545-4030-a981-fa54f121e129;Davi Sales;azevedorodrigo@example.org;50;Norte;09/02/2025;2;1324.96
+e4855aa1-016b-4287-b008-05cca7f36ae9;Ísis Nunes;antonynunes@example.org;75;Sudeste;27/02/2025;1;199.98
+722dce13-47a4-4c42-8665-34972fe922aa;André Aragão;marianaleao@example.com;22;Nordeste;29/01/2025;5;5270.85
+00c59f30-d103-4424-8124-1bb4655ce508;Luana Sousa;caldeiraana-julia@example.org;57;Norte;09/03/2025;1;479.98
+b8beff3d-cb9f-4f6d-af3a-6f27ef06fccb;Dr. Lucas Gabriel Sousa;casa-grandeclarice@example.com;25;Sul;22/03/2025;0;0.0
+d7d3b9d9-4c85-4233-8325-bd9ebf98e734;Rebeca Andrade;pimentaaylla@example.net;35;Sul;22/02/2025;1;135.0
+402913ec-9ef2-493e-b0ac-7d7ba2f963a3;Diego Rodrigues;msousa@example.net;59;Centro-Oeste;19/03/2025;1;659.96
+2aefcf3b-43b7-40ef-82c4-1c54a8debd88;João Gabriel Gonçalves;isabelapereira@example.org;29;Sudeste;23/01/2025;3;1039.91
+010e4265-ad3f-4dd4-8496-26ba30c9a2be;Brenda Moreira;rebecaleao@example.com;60;Sul;22/01/2025;5;2906.4
+1e2595b8-8fc9-486b-a9dd-ebf563119aca;Ágatha Correia;acarvalho@example.net;36;Nordeste;14/01/2025;7;6353.4
+ae62990c-19bd-4f93-b8ef-7666b7a4c719;Anna Liz Jesus;heloisamacedo@example.net;55;Centro-Oeste;10/01/2025;3;3548.44
+4b657bcc-b041-4f19-bbe7-18354e8bf78a;Ana Lívia Marques;ldias@example.net;74;Centro-Oeste;27/03/2025;2;304.95
+1f115b76-d92c-4227-aadf-50853fcb7546;Letícia Rocha;hadassapinto@example.org;46;Nordeste;14/04/2025;1;195.0
+05c8234b-1d76-4a66-b5f5-9cb0cf685878;Dr. Vitor Hugo Pires;inogueira@example.net;34;Sul;15/01/2025;3;1090.99
+4ac9778d-8da8-4ee4-8df5-6ac6f96b648a;João Brito;valentimduarte@example.org;64;Nordeste;08/01/2025;2;1458.96
+21c71aa3-7414-43b5-8e3e-25f2cf0671c7;Olivia Andrade;breno87@example.com;38;Nordeste;24/02/2025;3;1811.93
+78660765-14f7-4e8d-95bc-b8d04094dded;Sr. Lorenzo Lopes;viniciusda-rocha@example.net;59;Centro-Oeste;13/01/2025;3;1661.98
+92779574-c457-4cc3-b5f7-89bca6b07458;Yago Souza;hmacedo@example.net;57;Centro-Oeste;12/04/2025;4;4359.34
+1327f1bc-2784-478f-b84f-16b3a79fbfaf;Sra. Amanda Brito;henry-gabrieloliveira@example.org;74;Sul;01/01/2025;6;8226.83
+a1a27485-7134-4c2a-b80b-3657117b355b;Nicole Araújo;tda-mota@example.org;41;Centro-Oeste;12/02/2025;5;2343.42
+e1721c83-ef5e-4376-a723-fb72682b163a;Enzo Gabriel Almeida;da-costayuri@example.net;69;Norte;07/02/2025;3;794.93
+c7cfeca8-22b9-424c-a744-3fb881bd55d5;Zoe das Neves;luiz-fernandonogueira@example.net;41;Nordeste;09/01/2025;4;1861.96
+7e8adee7-0758-4201-961e-16d16105716b;Leonardo Almeida;heloisa24@example.com;72;Norte;12/01/2025;4;1679.95
+702f31e5-62cc-4604-8c53-644b0053f649;Maya Rodrigues;elisamacedo@example.org;21;Sul;02/04/2025;1;819.96
+3d85de89-c217-4429-8e20-07247d137018;Noah Ribeiro;maria-luisada-conceicao@example.org;38;Norte;01/01/2025;7;2453.86
+71efe72a-ae13-491e-84fa-4c7239e7a4f1;Theodoro Ribeiro;da-costaana-laura@example.com;34;Sudeste;09/03/2025;4;3874.86
+8e4c3ab5-6d5d-4477-adc2-9178a0411612;Leonardo Gonçalves;theo21@example.net;59;Norte;08/01/2025;6;2117.87
+b3ecb951-ab8c-4f97-a0b7-1785d02ce0c1;Lorenzo da Rocha;anovais@example.org;69;Centro-Oeste;30/01/2025;1;1749.95
+df4e713e-f64e-4dfc-bfbe-ac7aefc59738;Natália Silva;daniloviana@example.com;32;Sudeste;05/01/2025;4;1897.43
+f1738856-e25d-46eb-9e9a-9f83066803ee;Agatha Oliveira;salesmelissa@example.com;48;Centro-Oeste;07/02/2025;3;1741.45
+5024bdc6-dcb3-4df3-93ee-cdc6ebd14d2c;Melissa Leão;martinsarthur-miguel@example.net;29;Nordeste;04/01/2025;4;1384.43
+e27718c5-737d-4fb6-9113-76e038d77b9a;Maria Fernanda Campos;sabruno@example.org;21;Sudeste;08/01/2025;3;2269.89
+fa745761-6f18-4108-9723-199dbf2c14a0;Sra. Maria Luiza Siqueira;antonellamendes@example.net;47;Centro-Oeste;17/04/2025;2;449.97
+5a8aaeca-1a50-4ec3-aabc-25fa3fe12e47;Catarina Azevedo;silveirabernardo@example.org;28;Sudeste;25/02/2025;2;504.97
+3c9ad14c-ee0c-4eb5-acfe-db992790cebd;Amanda Ferreira;lteixeira@example.net;38;Nordeste;23/02/2025;2;2629.92
+edcd465e-3638-4821-b6e0-7cc06c52c49f;Dr. Antônio Alves;teixeiratheo@example.com;22;Norte;07/01/2025;2;2149.94
+34a0dcd4-1a9a-429e-95ee-25876c98fd9b;Brayan Ferreira;yvargas@example.net;64;Centro-Oeste;27/04/2025;1;829.97
+ce177b4e-0837-48a3-9261-a7ab3aa2e4f9;Asafe Freitas;fcastro@example.com;23;Nordeste;28/01/2025;3;1626.96
+9a069295-3b8d-4447-8e61-065f171b1b80;Daniela Cirino;castroian@example.com;34;Sul;13/01/2025;3;3876.42
+2a45c2ab-8cbf-4db0-b264-accc79ac1b1e;Sr. Heitor Nunes;duartemathias@example.com;37;Nordeste;12/03/2025;2;2514.97
+df7d0dd7-236e-4608-9acb-394acd1f5318;Dante Souza;maria-lizsantos@example.com;65;Sul;10/02/2025;1;409.98
+3d44cb2c-ea45-4a41-a589-ada1345af934;Dra. Ana Rios;acirino@example.net;52;Sul;01/02/2025;0;0.0
+965d744f-0445-41a8-92af-97e4c536c66e;Eduardo Siqueira;rafaela93@example.org;28;Sudeste;26/01/2025;6;2690.89
+2ab8bd33-911f-430b-9bff-00b07fe670f3;Ravi Lucca Mendes;laura77@example.net;31;Norte;30/01/2025;3;1717.95
+260e37cc-6287-4624-a433-1510ad21b4cc;Marcos Vinicius Gomes;nicolas24@example.org;70;Norte;24/01/2025;2;3163.95
+5e244824-a5cb-4c6e-b5a4-c55bb4629214;Thiago da Paz;larissarezende@example.net;35;Sul;19/02/2025;3;1611.91
+c7774fae-6137-48c3-9c7f-aca62e671784;Sophia Novaes;mendoncalunna@example.com;18;Sul;04/01/2025;3;8288.94
+bec39a37-9b3d-44bd-a91e-314e0c8e29e3;Laura Lopes;sofia57@example.net;44;Centro-Oeste;05/02/2025;4;3734.44
+3ae909fe-cc82-48da-8696-f5e64944051b;Dr. Kaique Fonseca;vasconcelosluiz-henrique@example.com;42;Norte;10/04/2025;1;267.5
+4bbe4aff-9326-4ffd-9be4-bf5192698698;Pietro Nunes;viniciusgomes@example.net;64;Norte;19/01/2025;3;4472.87
+51b30182-f7fe-404f-a5f3-0779f6ee5cdb;Carolina Rezende;fernando65@example.org;42;Centro-Oeste;17/03/2025;3;849.91
+f93e08d5-bea2-4dfe-873f-6e1baf908e3c;Vicente Mendonça;beatrizcaldeira@example.org;58;Sul;09/03/2025;2;1839.97
+331f63fb-d11f-48c0-a97c-a4fff75d599f;Nina Mendes;qda-costa@example.net;33;Sul;02/02/2025;3;2309.93
+ddd1dfb2-3b98-4ef8-9af6-1a26146d3f31;João Guilherme da Paz;frios@example.com;37;Centro-Oeste;05/01/2025;5;5739.85
+b02b61c4-a3d7-4628-ace6-6fa2fd5166e6;Pedro Miguel Jesus;maiteribeiro@example.net;24;Nordeste;04/01/2025;3;432.5
+8ac35ac4-5dea-4737-bdab-3441d2c2a960;Antony Correia;mourastella@example.com;69;Norte;29/03/2025;1;185.5
+966be275-c2fe-4954-8dfd-9531302b7831;Theo Mendonça;aaraujo@example.net;51;Sul;03/01/2025;3;1471.93
+cc530e36-addc-4e13-ab3b-4d37560c95ee;Sofia Vieira;qmacedo@example.net;56;Norte;21/01/2025;5;2999.39
+f836f571-3cce-476c-b836-c448ad261ec5;Erick Albuquerque;bento57@example.net;42;Sudeste;31/01/2025;3;1439.88
+1ee93260-3002-4831-b227-e8d89c60c81b;Nathan Cavalcanti;davi-miguelguerra@example.org;18;Sul;18/01/2025;3;962.89
+90b2b633-956b-4c0c-a849-9b926b5252e3;Nicolas Farias;nascimentojade@example.com;22;Sudeste;01/01/2025;4;3624.4
+dd83ad03-7066-4289-9644-84a0d1151fff;Luiz Felipe da Conceição;cardosodavi-lucas@example.com;46;Norte;08/01/2025;2;109.99
+a8535961-632d-4302-9a82-833c20dda0ff;Igor Silva;melissaramos@example.com;40;Centro-Oeste;01/05/2025;1;3279.97
+8edddfcd-1e52-4770-bf89-7142fe716b14;Ana Julia Nascimento;gribeiro@example.com;18;Norte;14/01/2025;4;3514.42
+09f64405-0b99-4034-8a4e-255280051b10;Sr. José Lopes;yaragao@example.org;24;Nordeste;01/01/2025;5;2534.84
+378e6510-8f10-433e-abe4-2e7db96c1163;Alice Vargas;renan96@example.com;38;Norte;24/01/2025;4;2102.4
+50032b35-1857-4baf-bac7-e2b96a7e4c36;Cauê Sales;ester22@example.com;26;Nordeste;10/01/2025;3;1437.41
+03802b70-8d03-491e-8f8d-5238288b78b5;Breno Sousa;viniciusgomes@example.com;23;Sul;28/02/2025;1;1399.97
+1d34d08e-7a4c-45d4-9c99-e04cf0e98b3b;Sr. Luiz Miguel Silva;cnovais@example.org;20;Norte;14/01/2025;2;989.98
+c3093b6e-37e9-42e2-935a-c07aaa0217d0;Sr. Mateus Nogueira;joao-lucasabreu@example.org;34;Norte;29/03/2025;1;309.99
+1422373f-8622-48d1-a683-e10796c044d0;Ravi Silva;barrospaulo@example.net;29;Sul;07/03/2025;1;599.97
+49a214ae-f7e8-48e5-8d2b-91efb8976ec5;Theodoro Aragão;casa-grandeenzo@example.net;28;Centro-Oeste;08/01/2025;9;3936.88
+6e191042-370b-4063-9d90-e79eb888f6ed;Valentim Aragão;silveirasophie@example.com;69;Centro-Oeste;06/01/2025;2;849.96
+b74d0fb1-32e7-4629-8fad-c1a606cb0fb3;Luara Farias;maite73@example.com;52;Sul;15/02/2025;1;330.0
+8ccc9cea-109f-48ee-b5a4-720058f0dd23;Helena Cassiano;raulpereira@example.org;68;Centro-Oeste;11/01/2025;5;4151.85
+0c9e5550-3cd1-4f3f-b0c5-827854dccba5;Davi Lucas Ribeiro;novaesrodrigo@example.com;32;Nordeste;05/03/2025;3;1827.99
+e76adca9-7811-4802-88cc-7cfecf01f944;Julia Pinto;elisapastor@example.net;25;Nordeste;21/01/2025;0;0.0
+255bfc1c-7e3d-4ee4-84b6-4ec14d16f049;Alexia Moura;heloisa98@example.com;21;Centro-Oeste;19/04/2025;0;0.0
+80599b93-79c2-42e4-9ae1-a991524f93ff;Davi Miguel Oliveira;gdias@example.com;43;Norte;25/03/2025;3;1304.95
+a38295d3-1e0e-4546-b0b6-dedf4f9c4027;Dr. Diego Melo;ramosmateus@example.com;34;Centro-Oeste;28/02/2025;3;2541.43
+97867b12-1328-4726-a4f4-34d6d1e91691;Diego da Luz;heloisa98@example.com;53;Sudeste;21/02/2025;2;649.98
+f4124360-1153-4e99-9c50-8720f982f4e0;Sr. Bento Garcia;kalves@example.com;27;Sudeste;07/01/2025;5;4158.82
+e7ba26ac-ab7a-4d1c-8cfe-f6833e11bafe;Valentina Costa;leaojuan@example.com;20;Sul;14/01/2025;2;3290.91
+5683ede0-17d5-4563-ba60-ede1e5eb772d;Nathan Silveira;milena89@example.net;57;Sul;13/01/2025;3;493.48
+861b4f5b-45a0-4539-ade8-370ace9e9ebd;Sara Cavalcanti;vitor-gabriel46@example.org;66;Sul;20/02/2025;1;1976.95

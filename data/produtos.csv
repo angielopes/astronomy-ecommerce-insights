@@ -1,0 +1,51 @@
+﻿id_produto;nome_produto;categoria;preco
+prod_0001;Telescópio Reflector 70mm;Telescópio;199.99
+prod_0002;Telescópio Refrator 120mm;Telescópio;349.99
+prod_0003;Telescópio Cassegrain 150mm;Telescópio;899.99
+prod_0004;Telescópio Maksutov 90mm;Telescópio;499.99
+prod_0005;Telescópio Newtoniano 130mm;Telescópio;379.99
+prod_0006;Telescópio Refrator 80mm;Telescópio;250.0
+prod_0007;Telescópio Solar 150mm;Telescópio;499.0
+prod_0008;Telescópio Catadióptrico 200mm;Telescópio;700.0
+prod_0009;Telescópio ZWO 80mm;Telescópio;899.5
+prod_0010;Telescópio SkyWatcher 120mm;Telescópio;650.0
+prod_0011;Binóculo 10x42;Binóculo;89.99
+prod_0012;Binóculo 12x50;Binóculo;120.5
+prod_0013;Binóculo 8x32;Binóculo;65.99
+prod_0014;Binóculo 8x42;Binóculo;79.99
+prod_0015;Binóculo 10x56;Binóculo;145.0
+prod_0016;Binóculo 20x80;Binóculo;250.0
+prod_0017;Binóculo 15x70;Binóculo;185.5
+prod_0018;Binóculo 10x25;Binóculo;50.0
+prod_0019;Binóculo 7x35;Binóculo;80.0
+prod_0020;Binóculo 10x42 Compacto;Binóculo;99.99
+prod_0021;Mapa Celeste de Observação Noturna;Mapas Celestes;29.99
+prod_0022;Mapa Celeste para Iniciantes;Mapas Celestes;25.99
+prod_0023;Mapa Celeste de Constelações;Mapas Celestes;22.5
+prod_0024;Atlas Astronômico;Mapas Celestes;50.0
+prod_0025;Mapa de Estrelas e Galáxias;Mapas Celestes;39.99
+prod_0026;Mapa Estelar Interativo;Mapas Celestes;45.0
+prod_0027;Mapa de Céu Profundo;Mapas Celestes;60.0
+prod_0028;Mapa do Céu para Astronomia Avançada;Mapas Celestes;55.0
+prod_0029;Mapa Astronômico do Hemisfério Norte;Mapas Celestes;30.0
+prod_0030;Mapa do Universo em 3D;Mapas Celestes;80.0
+prod_0031;O Universo e Seus Mistérios;Livros de Astronomia;39.99
+prod_0032;Astronomia para Iniciantes;Livros de Astronomia;19.99
+prod_0033;Guia Completo de Telescópios;Livros de Astronomia;34.99
+prod_0034;Explorando os Céus;Livros de Astronomia;25.5
+prod_0035;O Cosmos em Detalhes;Livros de Astronomia;29.99
+prod_0036;Guia do Céu Profundo;Livros de Astronomia;45.0
+prod_0037;Astronomia: Uma Nova Perspectiva;Livros de Astronomia;40.0
+prod_0038;Como Observar Estrelas e Galáxias;Livros de Astronomia;37.5
+prod_0039;Astronomia para Todos;Livros de Astronomia;20.99
+prod_0040;O Mistério dos Buracos Negros;Livros de Astronomia;49.99
+prod_0041;Kit Completo de Observação Astronômica;Kits de Observação;249.99
+prod_0042;Kit de Observação Solar;Kits de Observação;99.99
+prod_0043;Kit de Observação Lunar;Kits de Observação;129.99
+prod_0044;Kit para Observação de Estrelas;Kits de Observação;149.99
+prod_0045;Kit de Iniciação à Astronomia;Kits de Observação;89.99
+prod_0046;Kit para Fotografia Astronômica;Kits de Observação;179.99
+prod_0047;Kit de Observação de Planetas;Kits de Observação;199.99
+prod_0048;Kit Completo de Astrofotografia;Kits de Observação;399.99
+prod_0049;Kit de Observação de Meteoros;Kits de Observação;59.99
+prod_0050;Kit de Observação com Binóculos;Kits de Observação;120.0
