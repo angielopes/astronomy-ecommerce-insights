@@ -1,0 +1,266 @@
+﻿id_item_devolucao;id_devolucao;id_item_venda;id_produto;quantidade_devolvida;motivo_especifico_item
+aff4fc8d-23c9-48dc-8bf3-f13047b7e393;87a9013d-ba55-4e4f-a46e-5e0e1504f285;69184fe9-dc1d-4309-9616-d07b1a12bfc9;prod_0045;1;Entrega atrasada e não mais necessário
+f264a4a1-9447-43be-8afa-1dfaedcb14d5;87a9013d-ba55-4e4f-a46e-5e0e1504f285;f36450ac-2cba-498c-904d-27d3ccfae0aa;prod_0008;2;Entrega atrasada e não mais necessário
+95fe2b99-4e43-4a46-b562-59092c39cacc;87a9013d-ba55-4e4f-a46e-5e0e1504f285;d47f5d50-00af-4bad-b9d6-279b240faa2f;prod_0050;3;Danificado na entrega
+af789ac9-1790-4876-8403-23bb96c19458;d3c41461-912e-4ca2-af7b-60893ee40698;9c83e2d2-d0b2-4078-9393-6f3e5a5f838f;prod_0032;2;Danificado na entrega
+09be58bb-236d-4700-a4ab-4cbf1479ae61;d3c41461-912e-4ca2-af7b-60893ee40698;3f22cd74-a367-4563-af89-4e9b4b4e52fd;prod_0042;2;Simplesmente não gostei
+12f0d3cd-c07c-4a86-b522-f2db2e81dccc;d3c41461-912e-4ca2-af7b-60893ee40698;aefb886b-2212-4446-b39e-ab73a24a7b89;prod_0030;2;Qualidade inferior ao esperado
+5a9cd70b-81ff-4de6-af4c-0e52a53ad86f;fcdb5477-18aa-4501-a7e4-2188575b21bf;57b82899-38af-4947-9a81-f5cf45b94df4;prod_0012;1;Qualidade inferior ao esperado
+8276fc9e-621e-444e-b5d0-7b3914093ec2;fcdb5477-18aa-4501-a7e4-2188575b21bf;b6e7dddd-7b4e-4fd4-b3f0-61a27b5aab2e;prod_0033;1;Danificado na entrega
+4a686466-531f-4cdc-8834-57714765356e;fcdb5477-18aa-4501-a7e4-2188575b21bf;5cb896ae-864a-4915-a3a2-579a7ef7b53b;prod_0031;2;Danificado na entrega
+3adca8c7-ff09-470c-aa48-960d54f82f04;6340b89f-b70f-4ebb-9bb1-4dc6d7187a26;03fddd08-4b73-461f-8cbe-b6db108ab4de;prod_0005;2;Danificado na entrega
+c432b87f-0050-403c-8202-81d77d11ef39;6340b89f-b70f-4ebb-9bb1-4dc6d7187a26;4873d252-37a2-4180-8a7b-e6e774300ccc;prod_0047;1;Simplesmente não gostei
+73b7c1bb-e7f2-4c47-9c0f-891c8994b175;6340b89f-b70f-4ebb-9bb1-4dc6d7187a26;0d9e1328-1f99-4c80-97d3-8ab9d3520a91;prod_0021;2;Cor diferente
+34a4f50a-0bd6-4298-803b-30810dcf4a5a;13ca6d3b-5f2d-40fe-b9e2-0ab57f875546;8ad5810c-7147-4088-b0fe-71418d99a727;prod_0030;1;Qualidade inferior ao esperado
+4974d631-3dee-4e09-b9ce-b42506ce34b1;b9b206ec-f6c7-47a0-a88e-68fb2d082293;4c60b543-541b-489c-b5d9-c07c9d9363ea;prod_0027;2;Simplesmente não gostei
+826d1a1b-76db-4bd0-9f53-84c3c2983edf;b9b206ec-f6c7-47a0-a88e-68fb2d082293;59875c7d-0151-4cb0-9b6f-1a9e5a98b715;prod_0044;3;Qualidade inferior ao esperado
+e172a0a5-41af-4e1b-b483-8ce677bb5ff7;2927dc37-3d65-40da-8974-8670bf38d4b7;6a7298c1-f499-4f1e-8b09-6487565c9f6a;prod_0013;1;Simplesmente não gostei
+d1298de6-0fd6-415e-86c5-31f413df62ba;45ac9c1a-6c16-426f-8f40-6e71882d0dde;8b5f93fe-f75d-4ff4-9d12-3e9b4c6f9a45;prod_0049;2;Tamanho/cor inadequado
+ee83739f-8b75-40f7-bb61-260ffc005a3c;23ec8054-3577-44b0-bd3d-30bcce34df76;418495a4-b777-4cb9-a97c-696b356766ec;prod_0016;1;Danificado na entrega
+6f467eca-b71a-4854-b253-c3e93e21fdb7;cf9dce14-5a9e-4522-8edb-a8e8a9fc9c2d;b07a810a-1bef-4085-916b-66defe56f624;prod_0019;2;Cor diferente
+3c7260b0-7b29-4a66-a3b0-4af8f563dbb4;cf9dce14-5a9e-4522-8edb-a8e8a9fc9c2d;cce291fe-efca-40f5-87ef-20f76418861e;prod_0047;1;Qualidade inferior ao esperado
+8c4882f7-5b03-4dd4-bf3a-b0da0e1caea3;cf9dce14-5a9e-4522-8edb-a8e8a9fc9c2d;57441456-3fde-4aa3-8255-65b6bbcee7a3;prod_0039;2;Arrependimento da compra
+471246de-be5e-4b17-a2ac-c80d6c3e676f;13c09e96-2c8c-487b-89be-6c4f57c54c37;87f31566-b499-44e8-88ca-5a7668e633a6;prod_0042;3;Qualidade inferior ao esperado
+237b0972-2605-48e3-8ba7-acf46b68a616;f5b320bf-9a3e-402d-975d-f5dec315e4c9;5487452b-226a-4b48-8428-6ad922e40b50;prod_0024;2;Arrependimento da compra
+e95a273e-17da-449a-b4be-986a457cc93d;f5b320bf-9a3e-402d-975d-f5dec315e4c9;1b993f82-fdd3-4eea-92d8-8eb166b9ce27;prod_0046;3;Qualidade inferior ao esperado
+e1174c66-aa51-4063-ae2b-6eb322dd6b59;f5b320bf-9a3e-402d-975d-f5dec315e4c9;028ccae1-e0b8-4731-b454-4a6a372cba50;prod_0019;1;Danificado na entrega
+9d0ab6d1-8077-480b-805c-50e3f12ab152;f3e0ba3f-5b10-45e5-a635-a5ad14764010;4d93e735-84dc-4f43-a977-7c3aaa63ab55;prod_0007;3;Tamanho/cor inadequado
+7a28db4c-055d-4829-b4bc-9616b0775ea8;9de34dff-bc46-4750-b208-f391850afd61;47c5f0aa-3273-4c91-b537-fe4f0d174a20;prod_0002;2;Cor diferente
+1c6ef0da-4469-4126-9e96-bb6b8b1ff333;9de34dff-bc46-4750-b208-f391850afd61;c216a949-fc5e-460a-aaf2-b5ee2c164dc4;prod_0018;3;Qualidade inferior ao esperado
+699dba9b-a9b9-4791-854f-0c2f77a5703e;c4b3486f-c68a-4cec-ac52-8ec320aad273;0b26054d-ff16-40aa-a42c-643c87f365b8;prod_0039;3;Simplesmente não gostei
+acb62fa8-b416-48d8-9ea9-e08ed4e4aa0c;750f7fb8-0ef9-44a9-a72b-0e037356131b;58ba6e30-65d8-4331-b85c-49cf844a64b4;prod_0046;1;Cor diferente
+a6e5c047-b83a-46f1-b8fb-381cbb0209a4;750f7fb8-0ef9-44a9-a72b-0e037356131b;c7a4f60a-e94b-4ee9-8d78-f8fe2f10ba36;prod_0027;1;Qualidade inferior ao esperado
+d17025fb-b67f-4c36-a5cc-07b740efb7c2;d7764d95-2fbb-4ea0-a5c4-559cd1319a8d;4bfcfba0-a405-46ac-84cd-a3eaa5b3c115;prod_0002;3;Qualidade inferior ao esperado
+f6b96c4a-9a3c-4e81-a772-3458536cdc82;d36289a5-bc72-45fe-8ce9-e8df57f29ec0;2f77bd64-b1ef-4a3f-9ec9-6bd4c0899405;prod_0041;2;Simplesmente não gostei
+b18064ec-c136-414b-8eea-cddd5fb58750;3b05d637-1a64-4e4a-91c4-3c6d7027f98b;019db91e-3c7f-4fd1-93e2-63471ac33967;prod_0010;1;Simplesmente não gostei
+0a9f4085-ac7c-4190-9dfb-558735fce6dd;86c3f36f-cce7-4720-aa4b-95ddfeb6a7b4;75a12a1a-efb2-4d6b-949a-fd34559133ac;prod_0019;2;Arrependimento da compra
+b9a725c9-99f4-4d17-913a-20714bb14b83;631fcff3-2845-426c-8c69-5a0b21699776;0c5873d0-e4a7-4af9-b8c2-282eb1e388e1;prod_0039;2;Cor diferente
+3b17dde3-e2d3-4726-ade3-9002cd68c7a0;631fcff3-2845-426c-8c69-5a0b21699776;f2e943a9-fb1e-4f84-a06c-74d156cf7658;prod_0024;2;Produto diferente do anunciado
+f7660ff9-479e-4dda-b21b-41529267757f;631fcff3-2845-426c-8c69-5a0b21699776;f50acf03-575d-407b-b8aa-cb89b5cfe9f3;prod_0001;3;Cor diferente
+ceb5635b-197b-45a3-b570-59b036b6b9a0;5f05c740-4966-41e5-8740-0f836d6bafcd;f42597f7-b51f-467a-b46f-437358b06e00;prod_0019;3;Entrega atrasada e não mais necessário
+ade66d02-8e06-4a33-98a0-49b2db5d3744;03ba6452-9291-4011-8ce1-84e503372b70;4de26097-cbd0-49d9-80e0-5a649fb83bc9;prod_0041;2;Cor diferente
+2ffc6de2-ae67-45cd-b0be-567460c57afe;79ea5fe1-b646-4ee5-80e0-736e584f5834;c79e0484-aca1-4130-b64b-979ff26692f6;prod_0016;2;Produto com defeito
+5997cfaa-793a-4f2d-8d89-6c41b1ef1e80;79ea5fe1-b646-4ee5-80e0-736e584f5834;dcad357e-0224-46cb-be98-00fbbddedcbf;prod_0009;1;Danificado na entrega
+7daa08b9-2ff3-478b-96a4-278608d2b546;79ea5fe1-b646-4ee5-80e0-736e584f5834;ee0bde13-7f48-466c-aec2-2d019ce53da9;prod_0045;1;Qualidade inferior ao esperado
+bef361b5-1c46-427e-af2b-8a744e4211e1;2794c9a4-9b1e-4afc-9229-77f9a243a73b;4a332325-64a1-4253-8ee8-efcf295c1b59;prod_0039;3;Cor diferente
+8cbf5587-3c3e-401e-ac49-4d7201b6d061;2794c9a4-9b1e-4afc-9229-77f9a243a73b;922febcf-0501-479e-b120-40083f444245;prod_0043;3;Danificado na entrega
+2991424e-d068-498f-b059-5f4bc7ffb69f;2794c9a4-9b1e-4afc-9229-77f9a243a73b;40ff5822-dd8d-4747-82d3-61aa5526db8e;prod_0005;2;Cor diferente
+3fd9d7e7-7d15-4a16-87f0-53808c1f3cfb;f452cd91-842b-4fb3-9aa6-8993ede9b67f;dc014a6b-ee0e-4269-b44d-101f5bed1b48;prod_0011;2;Simplesmente não gostei
+ef0ba61e-6a07-4a60-b9d1-e2ad6f486fa3;f452cd91-842b-4fb3-9aa6-8993ede9b67f;e85f18bc-716c-4cdd-a689-f32cff2f2142;prod_0005;1;Simplesmente não gostei
+b6ccc31d-c6c4-4384-a40e-c45ebcc596f6;f452cd91-842b-4fb3-9aa6-8993ede9b67f;d914b16d-50f2-4983-addc-39316e5b285a;prod_0032;1;Qualidade inferior ao esperado
+9fff5442-a60e-4bf4-a0f6-647a0ab71a1f;f6dd5142-91b1-45d0-8ebc-8ad0a33349b6;39d3f232-5044-4f15-84a1-82cf2590c1ab;prod_0034;2;Cor diferente
+b5dd80c5-942c-4d96-9019-fa23d3071f0e;f6dd5142-91b1-45d0-8ebc-8ad0a33349b6;ad994f15-786b-4196-a7ad-053899c23641;prod_0005;1;Cor diferente
+bbe3775d-ba67-4d5a-80ad-1b729ed8fea2;f6dd5142-91b1-45d0-8ebc-8ad0a33349b6;f3b48009-7a37-493d-b9de-557601cb6f78;prod_0040;1;Qualidade inferior ao esperado
+4460817a-d13d-4184-a16e-6098a9bc4a95;902ddf0d-1df3-46e5-a175-fdb6aeeae4ec;f4e1048a-f417-4dc9-b954-018b6be4d062;prod_0005;3;Danificado na entrega
+24bf6f1f-69ff-44a8-9872-2c5e3d5bd3bb;feba5384-a97e-4c2e-bec0-27f7387b2e0f;e3b93a34-9d77-49b2-9287-e5f485c14181;prod_0042;1;Tamanho/cor inadequado
+13ca6714-e3c3-4dc6-92b9-8a792c12d424;c9c7f74f-5553-4222-94c6-4b99305c2c8c;07f2422d-59fb-446d-91d3-649c7fffa983;prod_0010;1;Qualidade inferior ao esperado
+ef10c013-e1f6-4543-9ee8-0adddcaed202;c9c7f74f-5553-4222-94c6-4b99305c2c8c;dc75f4cc-793d-4f5a-b35c-9601417af0cb;prod_0021;1;Cor diferente
+899efeeb-0a43-4d55-810e-44d2f5e577e0;015fe99c-78ba-4686-823f-1ac1fce234af;3618187c-37e2-4c86-a54f-da3118d3ab67;prod_0002;1;Produto com defeito
+20b95eb6-2dc4-4d4b-a3d7-5414df3c6cff;015fe99c-78ba-4686-823f-1ac1fce234af;4a12c64f-921c-4875-9c52-6dd1fdfc4a9d;prod_0019;1;Produto com defeito
+3c5cb061-5be3-4697-8e18-56dbfcf6f845;015fe99c-78ba-4686-823f-1ac1fce234af;c451e562-28bb-4cfb-9d69-a5962dba333f;prod_0013;1;Qualidade inferior ao esperado
+b7efd7b4-936b-468c-bc2b-5f929620c246;0ae24162-2ab4-4975-bff2-e281219a0e64;1ac953d0-46bb-4af6-9ab8-d0518df1e463;prod_0015;3;Cor diferente
+c42eb83e-fc63-40de-a22b-d1ea5bff04ad;0ae24162-2ab4-4975-bff2-e281219a0e64;87f815f6-930a-406b-9b78-d57335ee5414;prod_0045;1;Danificado na entrega
+87413547-923d-4464-8775-86ed0c9ec773;0ae24162-2ab4-4975-bff2-e281219a0e64;60c23031-9342-43eb-b241-ba4151659f1b;prod_0001;3;Produto com defeito
+d5f6b874-1dd5-4f29-b26d-94e0d96b1a7b;620a79b9-6cb7-43f7-8a9d-80f607c30f91;aa31e22b-4cda-4e1c-b065-7d730e0ec75e;prod_0050;3;Produto diferente do anunciado
+1797c108-dd4f-4bfe-83f8-5d95d963ef91;620a79b9-6cb7-43f7-8a9d-80f607c30f91;b226f24a-230d-47b8-bf97-588ef6cdd0d1;prod_0045;3;Simplesmente não gostei
+d30e9839-773d-4ff2-8f10-af034378ba4a;895ab213-dd03-4841-b85c-a0794937da08;4fcf4a3e-2c4c-4708-9101-929cfb664abf;prod_0001;2;Qualidade inferior ao esperado
+9d25386f-90b4-4432-a59d-0e255a39e142;895ab213-dd03-4841-b85c-a0794937da08;b06b4ec8-1a50-4c62-a830-3f49ea2b9b89;prod_0012;3;Tamanho/cor inadequado
+1f2cac5b-c4db-4e36-9980-de61b89376e5;895ab213-dd03-4841-b85c-a0794937da08;9300f3dd-5eb6-45bf-a055-4c8c9bb754cf;prod_0013;1;Tamanho/cor inadequado
+52fe75f2-6b30-4d55-a465-0b74ca612392;9156a4bb-3103-4fa0-bcb1-e08ae791527e;77e83c58-5fe4-4158-989c-da7070647540;prod_0014;1;Cor diferente
+83d04ee6-6723-49bb-bc78-d32b0eebfa49;9156a4bb-3103-4fa0-bcb1-e08ae791527e;3482c8bf-a77d-48ce-81c2-27fd0a77201e;prod_0042;1;Qualidade inferior ao esperado
+c7622ad3-6dfa-44ba-b78b-649a7648cba5;80ae3d98-ba47-4fd2-a12c-99d487e5fd7d;ee56aea4-c76e-4e04-9b64-ef325aa288e1;prod_0035;2;Cor diferente
+3d167dce-0517-4bd9-acba-45311f01ab60;f2b9efa6-7700-4ce3-aecc-947109ea3afd;100aa7b6-0fad-4b09-b208-ffb28ac53f93;prod_0002;1;Simplesmente não gostei
+0d9eacb7-592f-48b8-bcc2-68bed44354c3;f2b9efa6-7700-4ce3-aecc-947109ea3afd;9cb60a96-0efd-4a2a-9720-f439e9528bce;prod_0013;1;Danificado na entrega
+e653649b-4e2c-4a5e-b04f-ec8d275ad242;f2b9efa6-7700-4ce3-aecc-947109ea3afd;1f042c14-2113-4c3c-a94d-8fdb30d563a3;prod_0011;1;Entrega atrasada e não mais necessário
+206bbc6d-3301-4f0a-b3b8-b4edf79e7158;64d7faa1-03ff-4393-971b-fdbbded38e79;d5bbe3a4-40b8-4dc3-a444-ea5bdd811c65;prod_0013;1;Simplesmente não gostei
+d5d5f672-c8db-4d4e-b688-4a26bdf325f4;64d7faa1-03ff-4393-971b-fdbbded38e79;8e487a8c-e3e4-4946-9fcf-cb8e8750be7b;prod_0046;1;Qualidade inferior ao esperado
+b0d8a147-eee4-46aa-8f90-927ff382f026;64d7faa1-03ff-4393-971b-fdbbded38e79;0145d3df-bd0e-4e4e-877f-867cea4cd607;prod_0029;3;Tamanho/cor inadequado
+16882d81-ea36-439a-867f-9ae1e8597efb;278c33bf-5976-45f9-ac1c-94f9b1eb4980;c483a6c5-fedf-4c3f-a4e5-f22659e4c462;prod_0032;1;Entrega atrasada e não mais necessário
+c43db4e5-c726-4bd3-81d5-723dd04aeed1;6d6e5b88-f198-4a50-b876-4e26a939b28e;eba81faf-9a75-4c81-aed3-48557c861c03;prod_0019;2;Danificado na entrega
+6e67b568-505f-4e10-be40-fb58a2bddff4;6d6e5b88-f198-4a50-b876-4e26a939b28e;ba9b9531-66cc-4f46-ba53-8c4ca404aeeb;prod_0033;2;Tamanho/cor inadequado
+896fa553-61af-4e2a-8cbe-68ffe5b75fb4;6d6e5b88-f198-4a50-b876-4e26a939b28e;14297ac2-d7ca-4eaf-b0aa-15033a1d8916;prod_0005;1;Cor diferente
+bb66a28c-a8fe-4f18-aeaf-cad7a2aeb199;658447c4-7780-4c97-a0ff-60136a6a37cd;0cc8c807-8174-4096-9a2d-f2b151d9170e;prod_0024;2;Simplesmente não gostei
+814979e3-b6db-42bd-aa73-6d4b472e7b06;9d30cd80-6967-47c7-811c-83ebb62ee9c7;67ae73db-4298-41d9-9e53-1e472d9946c8;prod_0026;1;Danificado na entrega
+014ac410-0470-4067-8223-cd3c4e155309;9d30cd80-6967-47c7-811c-83ebb62ee9c7;f465d277-4767-433e-93a7-57b8f96ebcc7;prod_0021;3;Produto com defeito
+03759f96-d5dc-4900-a76c-6fafef3e9628;9d30cd80-6967-47c7-811c-83ebb62ee9c7;d0005a6e-c6b4-4d8d-9510-a9c286782814;prod_0005;3;Produto com defeito
+82b55700-7285-4c02-b0fd-4a4d435a04db;3633c719-1c17-4e0d-b295-11acd63e7a0b;e80bbc7a-5c3d-4e7b-aa63-0401e8f66646;prod_0042;2;Entrega atrasada e não mais necessário
+81f4b985-3d81-49ab-b986-1b75c207713a;18fdaefc-bb4e-4862-bd35-ec33456ebbb1;58503809-9fcf-4f54-b968-d9ea8f248157;prod_0008;2;Tamanho/cor inadequado
+f5760a47-30c3-4e8b-ada4-8b4ccfcd7652;18fdaefc-bb4e-4862-bd35-ec33456ebbb1;501d0201-b08e-4a45-a913-7df6f12ad3f3;prod_0032;1;Danificado na entrega
+d8da46cf-533a-4fa8-a5b3-7c232e31857b;18fdaefc-bb4e-4862-bd35-ec33456ebbb1;a9ad8897-da6d-45ce-bd33-989721880028;prod_0007;1;Qualidade inferior ao esperado
+7b1b013b-3923-4b19-b917-aff4b09706dc;af63920f-a9bb-48d2-b108-92f5b939a4cb;bd4ba9cd-cc19-40ac-818d-f0733ea426b8;prod_0038;1;Simplesmente não gostei
+def4ebf2-242b-4eea-baf6-0178a4671e37;e7502daa-c546-4654-87c7-e0bf6d708abe;78dc340b-4051-491c-9ac1-ad6984f612df;prod_0015;3;Simplesmente não gostei
+3c3d65c2-b87e-4b4a-b586-10a2ff19719d;e7502daa-c546-4654-87c7-e0bf6d708abe;54867db3-efaa-4791-b5eb-0106767f5095;prod_0025;2;Qualidade inferior ao esperado
+1d985d4a-0b5e-444f-945a-475844c1107f;e7502daa-c546-4654-87c7-e0bf6d708abe;ff0614bb-b85a-44cd-bf2b-f0e4ed55169f;prod_0044;1;Danificado na entrega
+89fc023d-7639-40d3-9e7b-e4cd67a57f8c;7880c4ef-1e5d-4f2c-86a4-34cc57a1bf27;fbd1c5ff-cd6f-4c98-b8c8-1b7c6396a633;prod_0015;1;Qualidade inferior ao esperado
+a6c81eb6-b2c4-4f8f-8ad4-2b7714190b4f;d08d20a1-ffaa-447d-abea-0229ffcc83b0;0e277ff4-e168-4d2b-98a1-e189a350c524;prod_0001;3;Simplesmente não gostei
+fcb55da2-da3a-4d6a-9616-da8d99347137;e31ead4f-04dd-4f0d-8926-3b940ceb27bb;321a3244-cf65-49ec-87eb-754a995ef5bd;prod_0021;1;Arrependimento da compra
+619738ba-e5af-40fd-8798-83f41f617a15;e31ead4f-04dd-4f0d-8926-3b940ceb27bb;61a651c5-faaa-43fc-894a-8492d88d11dd;prod_0012;2;Simplesmente não gostei
+9f86b282-3d1d-4436-808d-5fd29bbf77f8;44a42a5b-bb52-4b93-a4e5-1b9c29a55243;0d41de26-91c9-4644-b2e6-3a676e971b5a;prod_0049;2;Simplesmente não gostei
+34c3de25-f45f-40b6-a020-8323371a66b9;44a42a5b-bb52-4b93-a4e5-1b9c29a55243;e9faa206-7ad7-4ad5-82dc-09c180ade83c;prod_0009;2;Simplesmente não gostei
+20de7852-0e5c-4326-8901-094e15d26a79;aa2aaa66-8219-439b-8d27-4016f5025771;6c51dcad-c246-47a3-b417-8bd992e04229;prod_0019;3;Simplesmente não gostei
+e5370d27-eb3d-4721-b6ba-da63638fb75c;a463adb6-96be-4edd-b874-0339650f036f;72a6fb0e-9891-4f7e-b1a7-788588fd480e;prod_0008;1;Simplesmente não gostei
+51ed97fa-f587-4c68-9610-e3d839acc991;a463adb6-96be-4edd-b874-0339650f036f;4bc4bb44-f04c-46bb-9a04-0d3303fcc1fa;prod_0038;1;Arrependimento da compra
+a223d3b4-58ff-4c41-b306-7523f85b3e81;a463adb6-96be-4edd-b874-0339650f036f;a558edb3-a0de-4e1d-ba28-7d16a9a19284;prod_0004;1;Danificado na entrega
+5edb864e-7b1d-4d16-80dd-322004d44a65;0c3f5564-8694-4c8b-ad13-375359d9ffb2;75373d14-e24c-424b-a453-c4c23037f0b7;prod_0019;2;Tamanho/cor inadequado
+3644faf7-b089-4bfb-b26a-2ccf1938180b;75ff5e23-56a5-4ec9-85b7-03867f8f07bb;cc76864a-b618-41c5-a830-257dcf8b4eb2;prod_0026;2;Cor diferente
+c327abb1-edd1-412b-824b-a0331c11d8ea;75ff5e23-56a5-4ec9-85b7-03867f8f07bb;dc994976-008e-4990-89f2-79a8138cf37a;prod_0023;3;Cor diferente
+8d3353c0-b97e-48a1-bc43-0e68392ef388;75ff5e23-56a5-4ec9-85b7-03867f8f07bb;c71cdac2-260d-46ca-ba61-726aeedf4f78;prod_0032;1;Arrependimento da compra
+47e73296-8999-47b5-bdf3-6000aa50f00f;7dbf8eb3-314c-4337-b00e-5bdc22c49c1d;8a11bab8-fc05-4808-8469-46af1b25a37e;prod_0045;1;Qualidade inferior ao esperado
+8936e1bb-635e-4ea5-8191-20f1464d3892;7dbf8eb3-314c-4337-b00e-5bdc22c49c1d;a9638663-3d09-4c1f-9346-29f5a33722ff;prod_0050;3;Entrega atrasada e não mais necessário
+8aab1eb9-a18a-4717-b2b2-bc6aaae9763a;043b348e-51d6-4a8d-a361-54c0eecd9827;cad6d3ef-cae2-4489-b7d8-e0869110c9fd;prod_0030;2;Qualidade inferior ao esperado
+f0e4e4c5-8c95-4ff3-9bf0-ff18da44ca8d;5deb2356-81ad-4c3b-be9b-058e166f8cbd;583d2337-e5b2-4a6d-80c9-578ed3f8b32d;prod_0001;3;Simplesmente não gostei
+47a28313-bd67-4f28-a727-9b4cf37b3885;39cc15ff-9dbb-4ef0-ad4d-a6e04f0718c2;c47b0bfa-889b-4619-a0b8-f61cd42da288;prod_0004;2;Tamanho/cor inadequado
+0bc25a3b-741d-419d-92bb-e4e1fda57faf;39cc15ff-9dbb-4ef0-ad4d-a6e04f0718c2;3c5ede12-f6f2-4ec0-a320-48812bbb36ad;prod_0005;3;Cor diferente
+cf569729-dc9e-4e7a-b84d-bac410d364a0;39cc15ff-9dbb-4ef0-ad4d-a6e04f0718c2;402e3ece-8b0b-41a7-aedb-1a874a31a020;prod_0028;1;Simplesmente não gostei
+7cb625a5-ded4-412d-9749-c9733a8188ac;72e47ae7-f61d-4738-b62d-f00af591af66;6dbe934e-a2fb-4131-b81c-5f508b6acc43;prod_0036;1;Produto com defeito
+0c16d3e7-1118-42c4-89bb-560aa93e2d44;72e47ae7-f61d-4738-b62d-f00af591af66;fe956f4a-ed56-47c7-ae45-5311671cae75;prod_0001;2;Simplesmente não gostei
+b96a63bb-ca39-471e-8b65-802f58936ba0;66d12d89-314d-4c34-9c81-981a6c179e9c;6a008647-5c74-41da-8098-925109de91c6;prod_0009;1;Simplesmente não gostei
+153a331e-7c84-4363-90a1-fcfbd383682c;66d12d89-314d-4c34-9c81-981a6c179e9c;465f38ff-bead-482a-9290-f96600595cd2;prod_0043;1;Danificado na entrega
+27e21f8a-88b4-4856-89be-a7e9a0848a44;3ba2eae9-93dd-4332-b915-533a2f105655;87935d69-c33b-403e-8923-527f7925dc65;prod_0007;1;Qualidade inferior ao esperado
+a5b47075-2a3f-4d72-a358-6b15e0df54d3;3ba2eae9-93dd-4332-b915-533a2f105655;590c3cdc-7455-467a-9623-d84810b72ccf;prod_0008;3;Danificado na entrega
+ba30655b-ec9c-45eb-864b-6464d96cc044;5044d72f-77c6-4575-bb01-cb5ba5e4e0e9;713db204-9ff5-446e-a5d7-ad5e8498b40a;prod_0049;2;Cor diferente
+05a41b90-b1f7-46f6-af2c-a30a0011513f;9d38eb9c-b420-4426-9b00-6259990dcb3b;aaca86b5-cbba-466d-bf82-1bfbc2142c08;prod_0007;1;Simplesmente não gostei
+9c5879da-02bc-44a8-a361-9e38d21d0ff7;6f0413f1-8164-4c55-9da6-f3db4cf92fe9;f39e7cf3-fefb-4d28-9d7d-1236f821a405;prod_0019;2;Simplesmente não gostei
+dc189e63-bcad-4491-91e2-4f2815bedddf;67264c40-625c-4b64-9c02-ecd8f83a3522;fb04f274-8e78-446b-bd47-af43f4dd5978;prod_0037;1;Danificado na entrega
+0474776b-b4c5-4469-9642-9688dd111b3c;93c3a527-8cf7-416c-afd6-c5838e5e38d2;59c67a52-8f80-41ef-8615-575c4fa87a65;prod_0047;3;Simplesmente não gostei
+8fe5167d-5c6d-4b7b-b828-e52c4de16f53;80ae7ff0-502e-4cf3-bb16-a649fcac48fd;ad2534ed-ddd6-4795-84be-35c1e4f29f67;prod_0011;2;Cor diferente
+32bd28e1-fd17-41d9-b924-7256525fe231;95cd19e8-05b9-44ec-bcc9-ab8ccf1375e4;1b0bd2c9-3a5d-48cc-a67b-ae9009e11bb9;prod_0023;3;Cor diferente
+f1c18283-fb60-4d05-9d67-31cb940868a9;1ce5f9ac-32bf-4117-a09e-b2b0b0e9e147;77afe93a-c96c-477c-a68a-e8fbbf8c8858;prod_0050;2;Simplesmente não gostei
+977c637e-a125-428d-8068-939b22779110;1ce5f9ac-32bf-4117-a09e-b2b0b0e9e147;1ad25fd7-bcb9-4d8d-a93e-ec186435032e;prod_0044;2;Cor diferente
+182d9bb9-9430-4827-bd0d-cd016876c983;1ce5f9ac-32bf-4117-a09e-b2b0b0e9e147;40673e2d-5019-4df2-8c20-8a50aee44208;prod_0039;3;Danificado na entrega
+8ba3fc82-650a-4e8c-a593-da6a51dc17a4;1ebd60eb-677f-49de-afa0-8a3384192360;3a6ff66b-fa8c-478b-8e90-b61e516bbc7b;prod_0024;1;Cor diferente
+976a00f0-cc70-4887-865d-3c4da8da6293;e6c0b0c9-4016-4bc5-b7cb-51216e9602ff;a11020ab-9c39-44eb-912d-894bdfa896db;prod_0012;2;Cor diferente
+479ec9fc-efb0-4518-a1cd-d676f59ab1d1;e6c0b0c9-4016-4bc5-b7cb-51216e9602ff;4ca37955-17b0-42c7-af5a-756eb5b334c4;prod_0007;3;Produto diferente do anunciado
+c48fb0db-d3cc-44d6-8f28-acce6a821f5a;2c2bcc0e-2b69-41e0-af1f-bbd6aae1834d;d7ae0952-510d-429e-a986-345282d0c34f;prod_0005;1;Cor diferente
+92c9673a-c292-4b1b-a40f-9e2c915aa857;2c2bcc0e-2b69-41e0-af1f-bbd6aae1834d;200e183d-a191-4c6c-97cb-38756d6c59b0;prod_0021;2;Entrega atrasada e não mais necessário
+0df1c962-3d98-4e03-8617-a4f98759754e;c614fdcc-569c-41ee-a736-3d94aa13c742;13ccea68-6a7a-4974-8005-a7cbfb9a7406;prod_0049;2;Produto diferente do anunciado
+b3ed6cb9-a9f3-4409-8f1e-a32488e23888;d545c72f-ccbd-4b7d-b2b9-f77802c6a749;843d6a3b-3a57-46fe-a91b-a646f172a0b2;prod_0034;3;Danificado na entrega
+f437f57b-fc5f-4e86-a05b-376867dcfac0;75c387d7-c6ef-42ec-8d41-a5e8b53d591a;66f54f25-a372-4c5c-851c-1e26b8b664a7;prod_0044;1;Produto diferente do anunciado
+4a334b34-be96-4a2b-8103-8b333ee07c0d;75c387d7-c6ef-42ec-8d41-a5e8b53d591a;ab31f518-6284-47eb-a151-3795eec1ad04;prod_0021;1;Danificado na entrega
+db53927e-b812-46a7-98cc-63259dfaa356;75c387d7-c6ef-42ec-8d41-a5e8b53d591a;67981259-719b-40ca-af7d-139137a1d11d;prod_0034;3;Qualidade inferior ao esperado
+fb239c89-4a4e-4666-bb85-b758d7c294e2;848a2c4e-81c7-4339-8a08-39dadcbe07f5;f13fe00d-b0fe-40f9-a5a3-e252fa1002b7;prod_0031;3;Tamanho/cor inadequado
+3d707886-8bdc-4510-aa31-8e128eb9e366;848a2c4e-81c7-4339-8a08-39dadcbe07f5;04d475cb-b204-41c9-a8f2-b84455cb8d54;prod_0022;1;Simplesmente não gostei
+9ba407f9-e4c6-4c6d-95df-9383ebda72ad;848a2c4e-81c7-4339-8a08-39dadcbe07f5;d4b8a420-ea5f-45f4-9391-a1f4acdf286c;prod_0002;1;Danificado na entrega
+ef8f70ac-29e0-4d7a-bd10-9b53b9894373;2fb9771e-e731-4279-8107-7860d5735a37;609629e6-aabe-45a3-a6e7-303ca5226756;prod_0028;1;Cor diferente
+35af685f-c88c-4028-818e-12e27146cffe;cf63df5b-f0d2-4556-987d-647573e8689d;19eead26-4e4b-46aa-9424-9390510861bb;prod_0019;3;Simplesmente não gostei
+233f5b49-301a-49d4-8f5b-a363a055d4db;953bec45-7f27-468f-8c0d-a31749ded257;a49ad87c-833f-431e-b650-2aefea9317e9;prod_0030;3;Qualidade inferior ao esperado
+1439200e-807f-4a1b-b512-a5d5f09318f4;953bec45-7f27-468f-8c0d-a31749ded257;0b93aded-2c61-4881-8f8e-2c426945349d;prod_0023;1;Cor diferente
+62d83cdc-16c4-46a5-8e91-eafbf059876e;953bec45-7f27-468f-8c0d-a31749ded257;bb37eb79-5531-4e27-b195-706bcc1cbebc;prod_0020;2;Arrependimento da compra
+1e844654-1802-4fae-aa5c-384073b0e41e;e60ae5d4-1605-4631-b94c-dfe6a9828cc2;e5cdabca-c0e6-4c34-a538-59fe369d7496;prod_0047;2;Danificado na entrega
+0b202de9-48d4-4aa5-b9d5-12ce01bb76bb;e60ae5d4-1605-4631-b94c-dfe6a9828cc2;9bda998e-c3cf-4636-b3cb-be727d6211c2;prod_0034;3;Simplesmente não gostei
+ea9987d2-f6da-42d3-8da3-17212cac90a7;e60ae5d4-1605-4631-b94c-dfe6a9828cc2;3ac8830d-97d1-4964-aba1-ba1680fbdb3e;prod_0042;2;Simplesmente não gostei
+747b2111-51c0-4a8f-8f97-5c337f83dd3c;6fcf1946-3801-48a8-9f29-3bbf7dcef02b;0a186676-f473-4022-981b-99f9c145419c;prod_0039;1;Danificado na entrega
+8081200c-10fc-4d25-9d04-0be3a06abe0a;1b010888-42ff-4aed-be90-5da9c1c16d96;8082fb54-2b96-4829-a47c-fc6ceb7d1526;prod_0002;3;Simplesmente não gostei
+c06d29ed-073c-4983-8fea-5730cadac90b;0179d958-8749-461c-a38a-c68345a172f7;626f3613-dab4-40f9-b15f-c97dff2868c3;prod_0010;2;Produto diferente do anunciado
+171919de-d37f-4944-a060-b3b603eebfca;0179d958-8749-461c-a38a-c68345a172f7;c210735d-09fa-4a0b-b324-ffc823d91acc;prod_0007;1;Produto diferente do anunciado
+b8b017cf-2b23-4a53-a360-0c27afef99b6;d56142ce-0f19-4dbc-bd21-e3b33a480403;321a9240-3321-4bb0-8e74-b39c92e33940;prod_0028;1;Simplesmente não gostei
+020e0f02-ea6b-477b-8159-151d04b7fc18;8c2c7d5c-d315-4ad4-86ba-b6b11e100f9b;d839b538-a1b4-4ca4-9d29-c7374ca47b6e;prod_0023;1;Qualidade inferior ao esperado
+a47d7534-c553-4759-8987-57b1d5ac585e;d22a4cdd-ba05-460f-97f9-a03e1466821b;88fc3da1-781d-4b6c-8969-40325808d790;prod_0033;2;Arrependimento da compra
+5af00c5b-1be3-4d33-a962-dfbb921a9d37;d22a4cdd-ba05-460f-97f9-a03e1466821b;7def3b8e-ec0d-4c3a-b011-b125022111e5;prod_0032;1;Cor diferente
+26661c54-9489-4233-93f8-ac5ee13d78f0;dd49ab10-8efe-4e88-a2e0-7952a9169a38;18d09c29-679a-41a7-99b5-23c950d4e568;prod_0049;1;Simplesmente não gostei
+f064d78a-7df5-4320-8492-82df77506cb8;dd49ab10-8efe-4e88-a2e0-7952a9169a38;7d7d38cf-7f07-414d-8d44-b7c1034273dd;prod_0033;3;Danificado na entrega
+f358bb6a-6ba6-4b21-b5ef-1af672c312ad;3ff333c8-49e0-4bbe-843d-b9e225b28e1a;fee543b3-6e18-4184-a29f-e85be8d91a20;prod_0049;1;Cor diferente
+1353f75a-609e-45d9-9282-7c0549fb9dbe;3ff333c8-49e0-4bbe-843d-b9e225b28e1a;2528b516-c521-4f2e-b9cc-83ede8b45c6a;prod_0032;2;Produto com defeito
+bddcb055-eb72-4dce-bb3f-1e50848883c7;3ff333c8-49e0-4bbe-843d-b9e225b28e1a;eac7dc2e-9099-4283-aedb-0ce5a7fecdcd;prod_0007;2;Danificado na entrega
+5f90d58f-1941-41f5-a3b5-7d1492cafa28;6d209c27-4f6c-450a-ab7f-94b8e1c25845;cfb57f2e-c825-45fa-860b-846e06bf1fb7;prod_0030;1;Qualidade inferior ao esperado
+8b9b3184-a2a0-4ccd-b033-2b59e761ec3e;6d209c27-4f6c-450a-ab7f-94b8e1c25845;dc3c423a-9bae-4d9e-88c0-678632387a5a;prod_0011;2;Cor diferente
+c29b6c4a-9efc-495b-940b-1e63f1aab49d;34d3ec6e-3231-4d46-941c-8363be8dcab9;8f5fa91e-481f-4370-801a-45ed851022e0;prod_0050;2;Cor diferente
+e24b4c11-7cc5-44da-8f3f-eba37170e005;34d3ec6e-3231-4d46-941c-8363be8dcab9;021903cf-b5c4-46b2-a529-5788fbb60d99;prod_0026;2;Tamanho/cor inadequado
+a129173b-ff6d-4a08-ae33-8c2e0b641b75;34d3ec6e-3231-4d46-941c-8363be8dcab9;756c6b39-2279-4462-995b-79beac98690b;prod_0028;2;Tamanho/cor inadequado
+b008674e-fed7-4738-bdfc-48b5761d628f;4a9fd116-1ab1-441d-972e-5d09f67356f9;f00b9cdc-391a-43e1-bb2b-3c7a6b45f2ee;prod_0010;3;Simplesmente não gostei
+b2852a61-2f64-423a-9a6f-109f1e6320b6;4a9fd116-1ab1-441d-972e-5d09f67356f9;4295fb7a-71e5-4862-86c4-f4164e495463;prod_0008;3;Danificado na entrega
+03d2c22a-c0fe-426c-9be5-9324ac5d6644;4a9fd116-1ab1-441d-972e-5d09f67356f9;cd4f9c54-235b-4973-9af4-d0655569b6bf;prod_0012;3;Qualidade inferior ao esperado
+219d18ce-e354-4f6f-85ad-0985f16fe7c6;39671c01-c9d1-404b-82ca-83dedd9efc39;bf1ad4e5-32d0-4eb5-a7b8-c769e232524a;prod_0031;2;Produto diferente do anunciado
+88e190bd-7858-4b8a-910a-525a1f0cc945;58f8905b-6039-465c-bef1-d1ecd7c2e403;73fd507c-553a-4caf-b41d-401108329b86;prod_0046;3;Danificado na entrega
+22b7bddc-120b-408d-a30c-92fb8b1fabc0;94a57da4-c75f-4bdc-8da3-faa2a293108b;e79b186f-002d-45ff-ad5a-c9ee61bb1395;prod_0009;2;Qualidade inferior ao esperado
+bacab7f7-6291-48b4-9e41-083b948ca655;aefa5a43-6953-46f1-a735-f5a96082d746;f4a6a03c-5d84-4714-9c12-d6f05cd1a960;prod_0016;2;Cor diferente
+752312a4-fa63-4350-b794-75f2ba8c85b3;91080904-d80a-42c1-92f5-f5b7d8878260;7de1936b-d0fe-44f1-ab1c-2d3dfcadb3fd;prod_0022;2;Tamanho/cor inadequado
+a25208eb-cfd3-4a8e-809a-fe97d6afde1e;06dd38f6-ac8e-4e51-b3f8-a754de89f51a;3f8b015e-b6a3-4409-9c20-d86bb5d044fb;prod_0019;1;Cor diferente
+6077ea91-c8e5-403f-b22f-12b36ca0ce39;06dd38f6-ac8e-4e51-b3f8-a754de89f51a;2cd64d84-7477-4879-beec-05dc7660302f;prod_0032;1;Tamanho/cor inadequado
+6c999ac8-bbbb-476a-89fd-b00ced238378;e7b5e004-eb94-48da-b4b9-37475ae7039d;605e3a25-afb1-4754-b588-df01ba6b301e;prod_0048;2;Simplesmente não gostei
+732de589-98de-44da-9701-f79e5f04272b;e7b5e004-eb94-48da-b4b9-37475ae7039d;179d57a0-f7f8-4dd5-8272-0cd1cbd3cf54;prod_0014;3;Simplesmente não gostei
+7d8dad00-76c7-4d88-a8de-9d24e89a991b;51db60b1-f418-40ea-a9e2-3756713b9fea;9e4e31cf-179d-4728-902c-e1fce6e3c5e0;prod_0011;1;Arrependimento da compra
+81c83a6e-a06c-4649-8e43-c271cad3b10a;b11e201b-36c4-45b0-bb7e-82b86f05ffc5;2a873e02-a2ed-40b9-9e4c-f8bc1bf43b9f;prod_0046;2;Entrega atrasada e não mais necessário
+765ddb55-e706-4003-8a0b-71f404033c51;b11e201b-36c4-45b0-bb7e-82b86f05ffc5;60b2d14b-15f0-45ea-8b0a-4742146e6a4f;prod_0037;3;Cor diferente
+d0a16fe9-bb7c-4b2b-88b3-d0a6516f354f;b11e201b-36c4-45b0-bb7e-82b86f05ffc5;579744ba-1073-40cb-86d9-e34d1feb21c7;prod_0013;3;Simplesmente não gostei
+7996f992-c7c4-4e3d-bf89-2e37bb22d927;3130300d-2213-45fa-8644-322e69568285;683e83b7-bfa7-4b26-823c-d8793e972573;prod_0017;2;Danificado na entrega
+39568b4c-e6a0-451d-967e-291a3c291bd0;3130300d-2213-45fa-8644-322e69568285;0d40d7ac-de40-4bbe-8f2d-7a0cdc0501e2;prod_0020;1;Danificado na entrega
+77b65950-476f-432d-bd22-3cb390e0eb5e;3130300d-2213-45fa-8644-322e69568285;52b52069-3224-48fd-a2a7-1fd7abd20197;prod_0035;2;Arrependimento da compra
+7fae9a78-6f1a-4ccf-acfb-7e9eb8099d3d;17e4d80c-b0f3-44f3-8853-b4bac5b74cf2;92eef5bb-16b3-4ada-922f-0f9481d2645b;prod_0008;3;Entrega atrasada e não mais necessário
+3ef245b0-725e-4758-8d5c-cc2872e46339;d0e048c9-6782-48a7-8007-2ad78ff8c036;9b228a51-b2f6-400c-b266-97ffcf7a895f;prod_0013;1;Simplesmente não gostei
+00c5f59c-6713-4975-9711-ca4a42f2d642;e79ad10e-8b6c-4e24-91ae-c169a50ffa88;75990117-5148-4b90-ac22-0b7b57c13a0c;prod_0004;3;Danificado na entrega
+feb7bb5e-75bc-40ca-b919-db8814d3d56b;5c01b91b-c159-4635-be51-56bcbe6ee782;7f14d81c-6f6d-48c6-8334-33e0aa566d79;prod_0027;2;Simplesmente não gostei
+22a2ea1f-35c9-4dcf-b058-a9dce0ba46f3;5c01b91b-c159-4635-be51-56bcbe6ee782;72a4bac6-9288-48f6-8c38-f15a66a247b7;prod_0041;3;Cor diferente
+00c6af57-37c5-440a-bfa0-a14a1113e35f;5c01b91b-c159-4635-be51-56bcbe6ee782;4f3c0388-ec61-43eb-b33c-4dee97d47986;prod_0039;2;Danificado na entrega
+2ade3fb2-9573-4c33-8f7a-32e1ae3143be;cc54432e-8392-47dd-950f-a45ba36054c6;37fa4b20-d522-47c5-bdb8-dbf6053d239c;prod_0014;2;Simplesmente não gostei
+b6d939dd-fbb1-4a13-aa15-5c95fbaed309;86793a67-8206-4356-a0ec-ba20cc85d56c;bc8767f0-e958-4f86-a07f-db556f34f064;prod_0006;3;Danificado na entrega
+dee2235e-c078-4523-86f7-cab9556b4a52;280b8f91-f143-4171-ad1a-83a0c6963141;a7c10adb-743a-4892-b561-10f64fd3ca88;prod_0037;3;Qualidade inferior ao esperado
+9e55d1f3-65fa-4320-bffb-14d0d124da10;280b8f91-f143-4171-ad1a-83a0c6963141;f1c2fa18-c2af-46a6-9038-4c0ddbc3f559;prod_0013;1;Qualidade inferior ao esperado
+d06fc1bf-7f87-4d85-b71d-1ce489984426;8316da16-0e1e-430d-b7ce-55bfc1b07006;8e2e160a-b054-45c8-bce7-845de6ef2a35;prod_0034;2;Tamanho/cor inadequado
+d5210745-1184-4b75-b9c1-de0c9505412d;99344c81-704a-45b9-8829-75aaaf058480;6b5f21fe-97fd-49dd-a135-9f65472f2e77;prod_0030;3;Danificado na entrega
+c8a0b0e5-99e9-4189-ac1c-5523b1e94190;99344c81-704a-45b9-8829-75aaaf058480;f2c7530c-c2d6-43a7-9d8f-af30486946c5;prod_0044;2;Arrependimento da compra
+15467803-a633-4616-a988-3f7daf5b681b;209d1b40-6adc-40b2-8299-7374b9f07a9b;d4bf4ad3-9a68-4294-bb60-d00bf5e3b198;prod_0022;2;Entrega atrasada e não mais necessário
+398fa4f3-4833-45ec-bdaa-9bdd5886067f;209d1b40-6adc-40b2-8299-7374b9f07a9b;6eaea044-1a44-4e3e-8d4d-c52665ea17dd;prod_0004;1;Simplesmente não gostei
+9fe9431c-4b29-422e-8e7a-da83c5deb4be;209d1b40-6adc-40b2-8299-7374b9f07a9b;7ee83000-7a6b-4f8c-b953-c0195ad9e1b1;prod_0009;3;Entrega atrasada e não mais necessário
+00c80d76-7441-47a4-999d-8397e495da43;7df7e7a8-d39e-4934-901e-2eac14280b3b;76730d11-ef7e-401b-947b-3f4a60b9b40c;prod_0034;1;Entrega atrasada e não mais necessário
+e3c2bbeb-f8b9-432c-8bc3-94d1a35ecb87;7df7e7a8-d39e-4934-901e-2eac14280b3b;7b3d214c-403d-4ce6-bc5f-c875f565b856;prod_0041;3;Qualidade inferior ao esperado
+65a1cf97-be18-4c43-8a8e-4dae49075889;7df7e7a8-d39e-4934-901e-2eac14280b3b;2e0b847f-ce30-477f-b92c-bf8a6affdcb0;prod_0009;2;Cor diferente
+4b0b95ee-2889-4cdf-8573-2221c12574b7;b408ec62-1c9f-45fd-9fc1-74fe7cecf071;be00b0cb-c1ef-4aef-aa38-746e528f2346;prod_0033;1;Entrega atrasada e não mais necessário
+50f2459d-a198-470a-8747-42eb9c11e08e;b408ec62-1c9f-45fd-9fc1-74fe7cecf071;14c08edd-95f9-4545-a315-0039ced7430d;prod_0040;3;Entrega atrasada e não mais necessário
+3d56f6ac-608b-4235-95f3-47cdd42767ba;b408ec62-1c9f-45fd-9fc1-74fe7cecf071;7b1463c9-30bf-4f5a-b01d-e9361527690a;prod_0012;3;Entrega atrasada e não mais necessário
+9df2fc73-f84c-4398-8c09-3004dbbc000b;5fa820d7-6c28-4d8f-b3b8-e032418fbab0;7fa64b26-07d6-4841-af82-e413e6199d55;prod_0046;1;Produto diferente do anunciado
+eef8c0de-6ae4-4160-9ab7-f3ba40281391;5fa820d7-6c28-4d8f-b3b8-e032418fbab0;a84629fe-9428-4c61-b977-90b2f63b2c0f;prod_0029;3;Qualidade inferior ao esperado
+c7839efe-b228-4f49-a192-6889242aac5e;5fa820d7-6c28-4d8f-b3b8-e032418fbab0;ba5897ee-4fcb-47ab-8763-57856719f379;prod_0017;2;Danificado na entrega
+816502d6-02c6-4787-8418-5b572db22329;f6c56e9f-644c-488b-85ba-85a4b1b14337;2005dd7e-166f-419a-8d7a-e829cdfcef75;prod_0025;3;Danificado na entrega
+e3f1c6a1-1557-423a-8e8a-ddd97e1356bd;8f44c691-29f8-4f95-a122-c4999b5ae21c;e71d6ba3-486d-4e57-ae1a-1e1bed1ddefa;prod_0010;3;Qualidade inferior ao esperado
+d8e04009-2486-4c1c-bf20-a850b69dcf81;8f44c691-29f8-4f95-a122-c4999b5ae21c;d45ff4db-9ce9-4544-8362-262de07ee721;prod_0002;3;Danificado na entrega
+da60c871-dfe2-4b99-9f47-8acf19ddf1e9;8f44c691-29f8-4f95-a122-c4999b5ae21c;8458526b-4385-43e3-ad3d-5159c2f5da5f;prod_0017;3;Cor diferente
+139d93cf-9ea4-40e1-9da3-58cbad4a6e37;0fd66b4c-72e5-433b-ac81-2f8765ec1da4;2fa34d27-449d-4c8d-ae42-e3f428ff1860;prod_0023;1;Simplesmente não gostei
+76fafb9c-1e67-420b-b710-499e82c4817a;0fd66b4c-72e5-433b-ac81-2f8765ec1da4;bfd5940a-6d81-4dbb-bcdc-bffbdd9e62bb;prod_0002;3;Arrependimento da compra
+c9399e1d-448c-4575-81db-a2de1c779c95;0fd66b4c-72e5-433b-ac81-2f8765ec1da4;ba984aef-4017-4c1a-b101-fcfc3d8548cf;prod_0026;3;Danificado na entrega
+e3f3ae27-b767-4691-a8a0-6717993c9d03;9280346a-9c30-4d8f-b73f-765a5567965c;cccbd214-4fc6-416f-8b84-bfa9ed99b5f0;prod_0009;1;Simplesmente não gostei
+14193aad-cf5a-49ef-b9f0-81410b89d61f;9280346a-9c30-4d8f-b73f-765a5567965c;bfb1e9da-92eb-4f8f-95c5-184213eccf02;prod_0050;1;Danificado na entrega
+05b8d242-fa31-40f1-ab17-cab6ef094662;9bb5b72e-ddcd-49fc-8405-f7dee8f967ab;e9f746e7-1fd3-48d0-b7a4-d097aaa22344;prod_0028;2;Qualidade inferior ao esperado
+a5d955ce-9526-4e4f-8e25-2bfffe0c9747;3e06ff5d-142a-42bb-ac27-40dc265c85c2;ba92a64a-f9b3-4a02-9f0b-63633e6d48ce;prod_0043;1;Danificado na entrega
+08f24810-502c-4021-8848-73e765c87c8c;3e06ff5d-142a-42bb-ac27-40dc265c85c2;b0c52fa8-98d9-4e8f-bf2f-63836e3d5887;prod_0042;1;Entrega atrasada e não mais necessário
+628184b8-4ffc-4a1c-ab39-1e8b30d861fc;3e06ff5d-142a-42bb-ac27-40dc265c85c2;081bc596-891b-4e6a-9dd4-4b035653d1b3;prod_0026;3;Entrega atrasada e não mais necessário
+1703846f-4b9c-4926-bce8-75d97943352a;a24d474c-ec68-482f-9e38-21b81be67de9;ecf1f1ff-0257-443b-aa84-7ec2addbe0d8;prod_0012;1;Arrependimento da compra
+e62d3bb3-7b83-4ae6-b9fe-3c0bf032cc9d;a24d474c-ec68-482f-9e38-21b81be67de9;c18f8d47-c4df-4d2f-858b-c7ea46f8aa1d;prod_0021;2;Arrependimento da compra
+586f75ec-f1a5-4b61-95dd-caff685f5f1e;16869b31-e94a-4e49-81bb-36a7b4ece5dc;71e15b9f-8c6d-468e-85bc-f3baef52d36e;prod_0020;2;Entrega atrasada e não mais necessário
+3f50a04a-f555-4f6d-aeec-1a53fc6fb15b;15fcf4e9-53e1-49fc-8cce-ed505d3d255e;142359e3-13ea-4ae0-abe1-de7dd3109606;prod_0042;2;Danificado na entrega
+6a3f66b8-1332-4338-9646-0caf5d3ab5e8;fc062b22-ef00-4bde-b4d9-51addc003b46;93ae1447-d3a6-4223-9b62-1d253e25b50c;prod_0008;1;Cor diferente
+4d3bd723-c14a-420f-bcd7-9687cb37577b;fc062b22-ef00-4bde-b4d9-51addc003b46;aa7f8799-8005-4fcb-9e27-1f2b697c19e1;prod_0016;3;Danificado na entrega
+b0b4821b-0604-444f-b181-b56b67fafcda;5954369a-164d-42dd-9ea4-9978bef9b1f6;350ea2b2-d07a-4b58-96e7-bff3d2a60853;prod_0037;2;Qualidade inferior ao esperado
+3b91e4f4-3326-4f58-a1c0-b62b324726fc;5954369a-164d-42dd-9ea4-9978bef9b1f6;c344819d-1d80-47cd-a8b8-2fa172d0c649;prod_0033;1;Cor diferente
+0df403ed-04e2-4d04-9530-abe7664d4670;4ec76e38-b709-4ce3-a97d-5a4383353c3d;df27ecff-e6c9-421d-b726-ad6a7ed4e93a;prod_0015;2;Entrega atrasada e não mais necessário
+cdb295b4-e638-4030-adea-762d5358efa9;430c8877-4b68-4801-afef-326e724ae0df;22c9395d-ad2b-4e4f-9390-426a220ae7a5;prod_0009;2;Qualidade inferior ao esperado
+69c8dde4-166f-48cf-9110-8236fb8cd12a;005e5cf3-a6c6-41e5-98e2-a11a512bb625;23167b59-cfbb-44e3-a160-e35b4da7f632;prod_0038;2;Danificado na entrega
+4278583f-65ca-4e3b-bb23-005a5dab1dcb;005e5cf3-a6c6-41e5-98e2-a11a512bb625;dc4f57fe-3e61-4f4b-abb5-11e651ccaa40;prod_0036;3;Qualidade inferior ao esperado
+6490bd17-ce9b-426b-8509-c46776061c0a;005e5cf3-a6c6-41e5-98e2-a11a512bb625;304c7b39-36ab-4ff0-8d1d-19da7afac8ce;prod_0049;2;Tamanho/cor inadequado
+7ad9ad9e-adbc-40f4-879c-c7e0a014eca3;6d50111d-9d03-48d5-af66-b39da6ba8cae;33cc0e85-3ec6-4206-be0c-cfed0c5b672d;prod_0043;1;Cor diferente
+195d9954-a004-48dc-81dc-bfbe7c461e97;6d50111d-9d03-48d5-af66-b39da6ba8cae;cdaa047b-bcec-4729-9409-a2d2fc44347f;prod_0020;3;Tamanho/cor inadequado
+43c62187-353d-48b2-9895-42d4d27f8d4d;6d50111d-9d03-48d5-af66-b39da6ba8cae;812db01f-0fa7-4ff2-bb3d-7f8dad686f63;prod_0024;2;Cor diferente
+4684ccf7-db36-4f79-b2be-b99a462744ce;5798db52-cbf8-4f53-8f16-91a410837e3a;e886818e-a230-4350-9047-1a3de3c443f1;prod_0041;1;Arrependimento da compra
+3750896a-50fc-4490-920d-f7b1af61344b;465322c7-6ee6-4b65-afbe-b0f58c2cb7a5;f17dc180-e17a-4fd9-8b33-894c55c94df7;prod_0024;2;Simplesmente não gostei
+921c0d64-0646-47eb-aad9-2250589a01f4;465322c7-6ee6-4b65-afbe-b0f58c2cb7a5;9fff8f80-2e01-42a2-8189-18c699a28e9a;prod_0034;2;Produto diferente do anunciado
+136df1ec-c1c3-4f69-bc20-8b5459e5b25c;32430099-43f6-45f7-ab2c-d5f6046e74ff;f70dcbac-bdaf-4f6b-9ec0-a45d765aa3f5;prod_0048;1;Produto diferente do anunciado
+0a0e09ed-46fc-4d13-854e-fe70d55e4402;32430099-43f6-45f7-ab2c-d5f6046e74ff;d8cb8d78-b659-422b-8f50-0caff5c95bc7;prod_0002;1;Produto diferente do anunciado
+f02f955c-60ed-41b1-a321-4dc6f290a307;32430099-43f6-45f7-ab2c-d5f6046e74ff;4ceaf1b6-df00-4592-8e33-7a77a5e1a559;prod_0050;1;Cor diferente
+5d2e75e3-676e-4540-bb57-b1a4a3113d38;99de697c-2746-4d3e-993c-1e2b356af924;662b901c-bc50-4b20-9771-1705915490f6;prod_0023;2;Danificado na entrega
+345723f2-e77b-44cf-8797-daf5192bf1fc;99de697c-2746-4d3e-993c-1e2b356af924;1491cdf9-fe5d-472a-9079-c6f8d563680d;prod_0049;3;Qualidade inferior ao esperado
+a7ce113f-9e44-4824-8c9a-333208d783cf;15f6bccd-74ac-43a9-aae5-6f6125106cd4;10d6a6f8-a256-420a-82f3-5565e0f92b39;prod_0049;3;Simplesmente não gostei
+2c47f1c6-dd99-4d3a-9a8c-9d67953590d3;15f6bccd-74ac-43a9-aae5-6f6125106cd4;eb1cad69-2039-4286-8411-b5a6858e59fb;prod_0003;3;Qualidade inferior ao esperado
+fe412efd-f41d-47b2-8413-8a4e6de42548;15f6bccd-74ac-43a9-aae5-6f6125106cd4;37a95691-3907-4b02-8c14-54459c41a132;prod_0018;1;Cor diferente
+c19fcabc-43e9-4737-8435-dc23f749f55d;fab014c1-47bf-424e-870d-cc6ce777dac2;45f3e8a4-c72f-486e-9561-6496e8c44e4c;prod_0047;2;Simplesmente não gostei
+bb9e5067-069f-4846-b619-6e6778d828d7;fab014c1-47bf-424e-870d-cc6ce777dac2;39cbc41a-cc50-4bea-9e6d-4e252575dbd1;prod_0027;3;Cor diferente
+936b86fe-1917-444e-8f98-249c9c29b888;fab014c1-47bf-424e-870d-cc6ce777dac2;608d4b54-1913-4b90-8286-675d460db751;prod_0007;1;Cor diferente
+18562b85-9b0d-463a-ae08-9bb90c779183;0466ab60-a5a9-4abf-a881-dbeecd03cc95;b6b98240-1041-4cbc-9342-34cf1974fb71;prod_0001;3;Qualidade inferior ao esperado
+3615defa-dbdb-4234-a218-dfeffe6afc14;0466ab60-a5a9-4abf-a881-dbeecd03cc95;899a5349-cb93-4ab6-9cb9-d394e8ac64c4;prod_0046;3;Cor diferente
+f347aceb-d177-4283-be6e-9a4aa8a81da3;bc09f636-ad17-453e-9109-5db73d37f8db;5ae501ca-f59f-43b4-971e-8a4deba10c2e;prod_0041;2;Produto diferente do anunciado
+515d5f38-2088-4b1f-a41a-c793ccfbc440;bc09f636-ad17-453e-9109-5db73d37f8db;e842d2ed-6c43-4ffe-8d5e-e78aae181853;prod_0034;3;Qualidade inferior ao esperado
+7d5642dc-5c7e-4a51-adb1-e9168d6aba41;225414f6-3853-4154-bf2a-83379520d64b;260b7370-281e-4235-9578-6324634db084;prod_0028;1;Danificado na entrega
+2b38936f-9b87-47d9-a940-7911dce1a6f6;1c728c9e-1ea6-4f5c-890c-f426bf2d8027;76737d16-19a1-459d-bf2d-10f415556b95;prod_0023;2;Cor diferente
+c4f0e693-82c7-4694-a3d6-e8c91baf2a82;92ea8e36-fa86-4159-8b07-2bd1b5522d7c;1e1a85e7-a761-4e7b-b0fd-0ff3595cfa33;prod_0010;3;Danificado na entrega
+363fd100-c5de-426c-a8fd-3856be75e52b;92ea8e36-fa86-4159-8b07-2bd1b5522d7c;51c583ee-03a6-438e-8617-c4c5ec9865b4;prod_0027;1;Danificado na entrega
+6d77c389-06ce-4465-a240-c79b00aa6144;92ea8e36-fa86-4159-8b07-2bd1b5522d7c;8db59b6f-1267-429c-be5e-23570eaad00d;prod_0035;1;Qualidade inferior ao esperado
+e952fcca-363b-4b4a-8328-70c21cd840bc;c21652fd-3d2e-4c70-9ef7-a68a2c561163;769e2dc4-2599-4284-8ade-d3bbb0e7743e;prod_0008;2;Danificado na entrega
