@@ -88,7 +88,7 @@ produtos_por_categoria = {
 }
 
 
-def gerar_clientes(n=1000):
+def gerar_clientes(vendas, n=1000):
     """
     Gera um DataFrame com dados fictícios de clientes.
 
@@ -99,25 +99,37 @@ def gerar_clientes(n=1000):
         pd.DataFrame: DataFrame contendo os dados dos clientes.
     """
     fake = Faker()
+
+    primeira_compra = vendas.groupby("id_cliente")["data_venda"].min()
+
     clientes = []
-    for _ in range(n):
-        cliente = {
-            "id_cliente": fake.unique.uuid4(),
-            "nome_cliente": fake.name(),
-            "email": fake.email(),
-            "idade": random.randint(18, 75),
-            "regiao": random.choice(["Norte", "Sul", "Leste", "Oeste"]),
-            "data_cadastro": fake.date_this_decade(),
-            "status": random.choice(["ativo", "inativo"]),
-        }
 
-        # Adição de e-mails inválidos ou com falhas aleatórias (ruído)
-        if random.random() < 0.05:  # 5% de chance de erro no e-mail
-            cliente["email"] = cliente["email"].replace(
-                "@", random.choice(["#", "%", "&"])
-            )
+    # Lista de clientes que já fizeram compras
+    for id_cliente, data_compra in primeira_compra.items():
+        clientes.append(
+            {
+                "id_cliente": id_cliente,
+                "nome_cliente": fake.name(),
+                "email": fake.email(),
+                "idade": random.randint(18, 75),
+                "regiao": random.choice(["Norte", "Sul", "Leste", "Oeste"]),
+                "data_cadastro": data_compra,  # Usa a data da primeira compra
+            }
+        )
+        if len(clientes) >= n:
+            break
 
-        clientes.append(cliente)
+    while len(clientes) < n:
+        clientes.append(
+            {
+                "id_cliente": fake.unique.uuid4(),
+                "nome_cliente": fake.name(),
+                "email": fake.email(),
+                "idade": random.randint(18, 75),
+                "regiao": random.choice(["Norte", "Sul", "Leste", "Oeste"]),
+                "data_cadastro": fake.date_this_year(),  # Data aleatória
+            }
+        )
 
     return pd.DataFrame(clientes)
 
@@ -174,10 +186,6 @@ def gerar_vendas(clientes, produtos, n=5000):
         data_venda = fake.date_this_year()
         data_venda_errada = data_venda.strftime("%d/%m/%Y")
 
-        # Introduzir erro de formatação nas datas de venda
-        if random.random() < 0.05:  # 5% de chance de erro na data
-            data_venda_errada = f"{random.randint(1, 31)}-{random.choice(['abc', 'def', 'ghi'])}-{random.randint(2000, 2023)}"
-
         # Probabilidades dos status
         status_venda = random.choices(
             ["concluída", "cancelada", "devolvida"],
@@ -195,12 +203,6 @@ def gerar_vendas(clientes, produtos, n=5000):
             "canal_venda": random.choice(["site", "marketplace"]),
             "status_venda": status_venda,
         }
-
-        # Vendas com status incorreto ou com erro na data (ruído)
-        if random.random() < 0.05:
-            venda["status_venda"] = random.choice(
-                ["em processamento", "erro", "pendente"]
-            )
 
         vendas.append(venda)
 
@@ -265,12 +267,25 @@ def gerar_devolucoes(vendas):
     return pd.DataFrame(devolucoes)
 
 
-clientes = gerar_clientes(1000)
+# 1. Gerar produtos
 produtos = gerar_produtos()
+
+# 2. Gerar vendas iniciais (com clientes temporários)
+clientes_temp = pd.DataFrame(
+    {"id_cliente": [Faker().unique.uuid4() for _ in range(1000)]}
+)
+vendas_iniciais = gerar_vendas(clientes_temp, produtos, 1000)
+
+# 3. Gerar clientes DEFINITIVOS com base nas vendas iniciais
+clientes = gerar_clientes(vendas_iniciais, 1000)
+
+# 4. Gerar vendas definitivas
 vendas = gerar_vendas(clientes, produtos, 5000)
-clientes = atualizar_clientes(clientes, vendas)
+
+# 5. Gerar devoluções
 devolucoes = gerar_devolucoes(vendas)
 
+clientes = atualizar_clientes(clientes, vendas)
 logging.info("Clientes sem compras: %d", len(clientes[clientes["numero_compras"] == 0]))
 logging.info("Vendas por status:\n%s", vendas["status_venda"].value_counts())
 
