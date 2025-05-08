@@ -16,6 +16,12 @@ Principais funcionalidades:
 import pandas as pd
 import random
 from faker import Faker
+import logging  # Add this import
+
+# Configuração do logging
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
 
 # Dicionário com produtos únicos para cada categoria
 produtos_por_categoria = {
