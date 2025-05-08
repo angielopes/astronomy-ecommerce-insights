@@ -13,10 +13,10 @@ Principais funcionalidades:
 - Geração de devoluções com base nas vendas devolvidas, incluindo motivos e status.
 """
 
+import logging
 import pandas as pd
 import random
 from faker import Faker
-import logging  # Add this import
 
 # Configuração do logging
 logging.basicConfig(
