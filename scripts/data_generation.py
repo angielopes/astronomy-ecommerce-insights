@@ -265,8 +265,8 @@ vendas = gerar_vendas(clientes, produtos, 5000)
 clientes = atualizar_clientes(clientes, vendas)
 devolucoes = gerar_devolucoes(vendas)
 
-print("Clientes sem compras:", len(clientes[clientes["numero_compras"] == 0]))
-print("Vendas por status:\n", vendas["status_venda"].value_counts())
+logging.info("Clientes sem compras: %d", len(clientes[clientes["numero_compras"] == 0]))
+logging.info("Vendas por status:\n%s", vendas["status_venda"].value_counts())
 
 clientes.to_csv("data/clientes.csv", sep=";", index=False)
 produtos.to_csv("data/produtos.csv", sep=";", index=False)
