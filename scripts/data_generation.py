@@ -4,6 +4,13 @@ Script para geração de dados simulados para um sistema de e-commerce de astron
 Este script gera dados fictícios para clientes, produtos, vendas e devoluções,
 incluindo a introdução de ruídos e inconsistências para simular cenários reais.
 Os dados gerados são salvos em arquivos CSV para análise posterior.
+
+Principais funcionalidades:
+- Geração de clientes com dados fictícios, incluindo e-mails com ruídos.
+- Geração de produtos organizados por categorias.
+- Geração de vendas com introdução de erros em datas e status.
+- Atualização de clientes com número de compras e total gasto.
+- Geração de devoluções com base nas vendas devolvidas, incluindo motivos e status.
 """
 
 import pandas as pd
@@ -95,22 +102,14 @@ def gerar_clientes(n=1000):
             "idade": random.randint(18, 75),
             "regiao": random.choice(["Norte", "Sul", "Leste", "Oeste"]),
             "data_cadastro": fake.date_this_decade(),
-            "total_gasto": round(random.uniform(100, 10000), 2),
-            "numero_compras": random.randint(1, 50),
             "status": random.choice(["ativo", "inativo"]),
         }
 
-        # Introduzindo ruídos: adição de e-mails inválidos ou com falhas aleatórias
+        # Adição de e-mails inválidos ou com falhas aleatórias (ruído)
         if random.random() < 0.05:  # 5% de chance de erro no e-mail
             cliente["email"] = cliente["email"].replace(
                 "@", random.choice(["#", "%", "&"])
-            )  # Corrompendo o símbolo @
-
-        # Ruído nos gastos totais: alguns valores podem ser errados
-        if random.random() < 0.05:  # 5% de chance de erro no valor total gasto
-            cliente["total_gasto"] = round(
-                random.uniform(1000, 50000), 2
-            )  # Erro de valores muito altos
+            )
 
         clientes.append(cliente)
 
@@ -156,38 +155,43 @@ def gerar_vendas(clientes, produtos, n=5000):
     fake = Faker()
     vendas = []
 
-    for _ in range(n):
-        produto = random.choice(produtos.to_dict(orient="records"))
-        quantidade = random.randint(1, 5)  # Quantidade aleatória de produtos
-        preco_total = round(produto["preco"] * quantidade, 2)
+    # Garantir que todos os clientes tenham pelo menos uma venda
+    clientes_ids = clientes["id_cliente"].tolist()
+    produtos_list = produtos.to_dict(orient="records")
 
-        data_venda = fake.date_this_year()  # Data real gerada corretamente
-        data_venda_errada = data_venda.strftime("%d/%m/%Y")  # Formato correto
+    for _ in range(n):
+        produto = random.choice(produtos_list)
+        quantidade = random.randint(1, 5)
+        preco_total = round(produto["preco"] * quantidade, 2)
+        id_cliente = random.choice(clientes_ids)
+
+        data_venda = fake.date_this_year()
+        data_venda_errada = data_venda.strftime("%d/%m/%Y")
 
         # Introduzir erro de formatação nas datas de venda
         if random.random() < 0.05:  # 5% de chance de erro na data
-            data_venda_errada = f"{random.randint(1, 31)}-{random.choice(['abc', 'def', 'ghi'])}-{random.randint(2000, 2023)}"  # Erro proposital de formatação
+            data_venda_errada = f"{random.randint(1, 31)}-{random.choice(['abc', 'def', 'ghi'])}-{random.randint(2000, 2023)}"
 
-        # Ajustar as probabilidades dos status
+        # Probabilidades dos status
         status_venda = random.choices(
             ["concluída", "cancelada", "devolvida"],
-            weights=[0.8, 0.15, 0.05],  # Probabilidades ajustadas
+            weights=[0.85, 0.10, 0.05],
             k=1,
         )[0]
 
         venda = {
             "id_venda": fake.unique.uuid4(),
-            "id_cliente": random.choice(clientes["id_cliente"]),
+            "id_cliente": id_cliente,
             "id_produto": produto["id_produto"],
             "quantidade": quantidade,
             "preco_total": preco_total,
-            "data_venda": data_venda_errada,  # Data errada
-            "canal_venda": random.choice(["site", "loja física", "marketplace"]),
+            "data_venda": data_venda_errada,
+            "canal_venda": random.choice(["site", "marketplace"]),
             "status_venda": status_venda,
         }
 
-        # Introduzindo ruídos: vendas com status incorreto ou com erro na data
-        if random.random() < 0.05:  # 5% de chance de erro no status
+        # Vendas com status incorreto ou com erro na data (ruído)
+        if random.random() < 0.05:
             venda["status_venda"] = random.choice(
                 ["em processamento", "erro", "pendente"]
             )
@@ -195,6 +199,26 @@ def gerar_vendas(clientes, produtos, n=5000):
         vendas.append(venda)
 
     return pd.DataFrame(vendas)
+
+
+def atualizar_clientes(clientes, vendas):
+    """
+    Atualiza os clientes com número de compras e total gasto baseado nas vendas.
+    """
+    # Calcular totais por cliente
+    vendas_validas = vendas[vendas["status_venda"] == "concluída"]
+    compras_por_cliente = vendas_validas["id_cliente"].value_counts()
+    gasto_por_cliente = vendas_validas.groupby("id_cliente")["preco_total"].sum()
+
+    # Atualizar clientes
+    clientes["numero_compras"] = (
+        clientes["id_cliente"].map(compras_por_cliente).fillna(0).astype(int)
+    )
+    clientes["total_gasto"] = (
+        clientes["id_cliente"].map(gasto_por_cliente).fillna(0).round(2)
+    )
+
+    return clientes
 
 
 def gerar_devolucoes(vendas):
@@ -215,7 +239,7 @@ def gerar_devolucoes(vendas):
         print("Não há vendas com status 'devolvida' para gerar devoluções.")
         return pd.DataFrame()  # Retorna um DataFrame vazio caso não haja devoluções
 
-    # Agora, criar as devoluções a partir das vendas devolvidas
+    # Criação de devoluções a partir das vendas com status == "devolvida"
     fake = Faker()
     devolucoes = []
 
@@ -230,13 +254,6 @@ def gerar_devolucoes(vendas):
             "status_devolucao": random.choice(["em andamento", "finalizada"]),
         }
 
-        # Introduzindo ruídos: status incorreto ou motivo de devolução inválido
-        if random.random() < 0.05:  # 5% de chance de erro no status da devolução
-            devolucao["status_devolucao"] = random.choice(["pendente", "cancelado"])
-
-        if random.random() < 0.05:  # 5% de chance de motivo de devolução inválido
-            devolucao["motivo_devolucao"] = "erro técnico de processamento"
-
         devolucoes.append(devolucao)
 
     return pd.DataFrame(devolucoes)
@@ -245,14 +262,13 @@ def gerar_devolucoes(vendas):
 clientes = gerar_clientes(1000)
 produtos = gerar_produtos()
 vendas = gerar_vendas(clientes, produtos, 5000)
+clientes = atualizar_clientes(clientes, vendas)
 devolucoes = gerar_devolucoes(vendas)
 
-print(clientes.head())
-print(produtos.head())
-print(vendas.head())
-print(devolucoes.head())
+logging.info("Clientes sem compras: %d", len(clientes[clientes["numero_compras"] == 0]))
+logging.info("Vendas por status:\n%s", vendas["status_venda"].value_counts())
 
-clientes.to_csv("../data/clientes.csv", sep=";", index=False)
-produtos.to_csv("../data/produtos.csv", sep=";", index=False)
-vendas.to_csv("../data/vendas.csv", sep=";", index=False)
-devolucoes.to_csv("../data/devolucoes.csv", sep=";", index=False)
+clientes.to_csv("data/clientes.csv", sep=";", index=False)
+produtos.to_csv("data/produtos.csv", sep=";", index=False)
+vendas.to_csv("data/vendas.csv", sep=";", index=False)
+devolucoes.to_csv("data/devolucoes.csv", sep=";", index=False)
