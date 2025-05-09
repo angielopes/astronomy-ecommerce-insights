@@ -1,0 +1,26 @@
+[
+    {
+        "table": "clientes",
+        "path": "../data/clientes.csv"
+    },
+    {
+        "table": "devolucoes",
+        "path": "../data/devolucoes.csv"
+    },
+    {
+        "table": "itens_devolucao",
+        "path": "../data/itens_devolucao.csv"
+    },
+    {
+        "table": "itens_venda",
+        "path": "../data/itens_venda.csv"
+    },
+    {
+        "table": "produtos",
+        "path": "../data/produtos.csv"
+    },
+    {
+        "table": "vendas",
+        "path": "../data/vendas.csv"
+    }
+]
