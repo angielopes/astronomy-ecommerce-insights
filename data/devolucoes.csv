@@ -1,142 +1,364 @@
 ﻿id_devolucao;id_venda;motivo_geral_devolucao;data_devolucao;status_devolucao
-87a9013d-ba55-4e4f-a46e-5e0e1504f285;78831ccc-897b-4e29-ae91-9cf9c40dc418;Entrega atrasada e não mais necessário;23/04/2025;finalizada
-d3c41461-912e-4ca2-af7b-60893ee40698;323415b1-64e1-4340-97f5-d62875ef8169;Produto diferente do anunciado;29/01/2025;em processamento
-fcdb5477-18aa-4501-a7e4-2188575b21bf;dc527466-e7fc-49e1-95eb-5eabc7f34d8e;Entrega atrasada e não mais necessário;10/04/2025;rejeitada
-6340b89f-b70f-4ebb-9bb1-4dc6d7187a26;7ca08cde-4dbb-47cd-a9a0-99deaa10e595;Arrependimento da compra;14/03/2025;em processamento
-13ca6d3b-5f2d-40fe-b9e2-0ab57f875546;5842e17a-6fce-4669-a394-eb4d54ede5c3;Entrega atrasada e não mais necessário;26/01/2025;aprovada
-b9b206ec-f6c7-47a0-a88e-68fb2d082293;5b120b1b-0eb8-4b17-bcff-07e3d92d9519;Tamanho/cor inadequado;03/01/2025;aprovada
-2927dc37-3d65-40da-8974-8670bf38d4b7;cac564c7-f159-47c1-996b-af6ba4273fc2;Entrega atrasada e não mais necessário;10/03/2025;finalizada
-45ac9c1a-6c16-426f-8f40-6e71882d0dde;1fed7603-fadc-4704-95a9-05b408f61b3f;Tamanho/cor inadequado;12/04/2025;rejeitada
-23ec8054-3577-44b0-bd3d-30bcce34df76;04fc9dd0-4632-4360-845d-4c0374f6b97e;Tamanho/cor inadequado;15/02/2025;em processamento
-cf9dce14-5a9e-4522-8edb-a8e8a9fc9c2d;d49176a0-73b1-4452-84c2-76194c3742ce;Arrependimento da compra;17/03/2025;aprovada
-13c09e96-2c8c-487b-89be-6c4f57c54c37;abdde79c-53c2-4592-8666-7ac08fda099a;Entrega atrasada e não mais necessário;22/02/2025;aprovada
-f5b320bf-9a3e-402d-975d-f5dec315e4c9;3bd88e22-cb0f-4b8e-9fa4-ce21273fd952;Arrependimento da compra;17/01/2025;finalizada
-f3e0ba3f-5b10-45e5-a635-a5ad14764010;3b7c1560-3a3a-4365-8781-41fd729f0472;Tamanho/cor inadequado;24/02/2025;rejeitada
-9de34dff-bc46-4750-b208-f391850afd61;d29e8c00-bb99-4a58-aa49-8fca76a6b248;Entrega atrasada e não mais necessário;05/01/2025;rejeitada
-c4b3486f-c68a-4cec-ac52-8ec320aad273;4b51925c-41ea-4ad7-bfbb-69591eab719f;Arrependimento da compra;03/05/2025;aprovada
-750f7fb8-0ef9-44a9-a72b-0e037356131b;2c9f9936-de66-4672-9389-82e00b4ae3a6;Arrependimento da compra;30/03/2025;aprovada
-d7764d95-2fbb-4ea0-a5c4-559cd1319a8d;ed97af62-452c-4634-b9f4-fc02ce5b4e8b;Produto com defeito;18/04/2025;finalizada
-d36289a5-bc72-45fe-8ce9-e8df57f29ec0;c1e6911f-8f6d-4e14-b836-a5064773b37f;Produto com defeito;09/04/2025;aprovada
-3b05d637-1a64-4e4a-91c4-3c6d7027f98b;7de50d45-cb00-4bbf-af05-45d36595fa90;Tamanho/cor inadequado;01/03/2025;aprovada
-86c3f36f-cce7-4720-aa4b-95ddfeb6a7b4;c99d67c8-e76f-44bc-84f7-3813f93d8ee6;Arrependimento da compra;13/04/2025;rejeitada
-631fcff3-2845-426c-8c69-5a0b21699776;bdb7189b-d6be-4c21-8d88-a36b0888671a;Produto diferente do anunciado;27/01/2025;aprovada
-5f05c740-4966-41e5-8740-0f836d6bafcd;751c09a8-9bce-4c31-a97d-4c42315f190d;Entrega atrasada e não mais necessário;04/03/2025;finalizada
-03ba6452-9291-4011-8ce1-84e503372b70;502d58d9-9d46-4f41-95c6-5dc208d87a8b;Produto diferente do anunciado;04/02/2025;rejeitada
-79ea5fe1-b646-4ee5-80e0-736e584f5834;594e5567-fabf-44cd-894d-4ebd1699517f;Produto com defeito;19/04/2025;em processamento
-2794c9a4-9b1e-4afc-9229-77f9a243a73b;7e3beb35-e1eb-4f9c-be60-808dbcb39076;Produto com defeito;17/02/2025;rejeitada
-f452cd91-842b-4fb3-9aa6-8993ede9b67f;4a54c35c-041d-41ec-a86d-ca1c9e60aed2;Arrependimento da compra;07/05/2025;em processamento
-f6dd5142-91b1-45d0-8ebc-8ad0a33349b6;746f3431-fe83-4021-8b96-b9520847feab;Produto diferente do anunciado;24/02/2025;finalizada
-902ddf0d-1df3-46e5-a175-fdb6aeeae4ec;1c15b55f-bf6e-474d-865f-e33cdc399fe1;Tamanho/cor inadequado;18/01/2025;em processamento
-feba5384-a97e-4c2e-bec0-27f7387b2e0f;4b523dc2-fee9-4972-af7b-93e71e19f010;Tamanho/cor inadequado;12/03/2025;rejeitada
-c9c7f74f-5553-4222-94c6-4b99305c2c8c;fa1d8ded-7dc8-47a2-adda-a3b60ab84fe2;Arrependimento da compra;08/01/2025;em processamento
-015fe99c-78ba-4686-823f-1ac1fce234af;f2e5cecf-9b6c-4494-a0e0-b67321b6eb84;Produto com defeito;26/01/2025;aprovada
-0ae24162-2ab4-4975-bff2-e281219a0e64;a2dfcb1e-92e0-45f2-91fd-f3a63b62da24;Produto com defeito;21/01/2025;rejeitada
-620a79b9-6cb7-43f7-8a9d-80f607c30f91;dbd0f097-09f7-4468-8b1f-a0286cf6c879;Produto diferente do anunciado;22/01/2025;finalizada
-895ab213-dd03-4841-b85c-a0794937da08;b41da663-208b-4fee-8255-684630677475;Tamanho/cor inadequado;30/04/2025;aprovada
-9156a4bb-3103-4fa0-bcb1-e08ae791527e;70d230e3-e216-4ec3-b15f-3a2edcbfd53e;Entrega atrasada e não mais necessário;31/03/2025;aprovada
-80ae3d98-ba47-4fd2-a12c-99d487e5fd7d;55539a05-3960-410e-8ee5-62468d9f42bc;Entrega atrasada e não mais necessário;02/04/2025;rejeitada
-f2b9efa6-7700-4ce3-aecc-947109ea3afd;c7923568-b13f-4b72-835e-12cab76d0f78;Entrega atrasada e não mais necessário;25/04/2025;rejeitada
-64d7faa1-03ff-4393-971b-fdbbded38e79;ed9a7dd6-0c07-4053-8d4f-75e6448f3dbc;Tamanho/cor inadequado;27/01/2025;aprovada
-278c33bf-5976-45f9-ac1c-94f9b1eb4980;cf8b3687-a566-40bf-8bc8-1579709cfca2;Entrega atrasada e não mais necessário;18/01/2025;finalizada
-6d6e5b88-f198-4a50-b876-4e26a939b28e;8a91919e-473e-4d62-873f-1d9100c3f267;Tamanho/cor inadequado;27/02/2025;finalizada
-658447c4-7780-4c97-a0ff-60136a6a37cd;4f6f727a-7a31-4b7e-b79d-2349a54e5073;Arrependimento da compra;18/04/2025;em processamento
-9d30cd80-6967-47c7-811c-83ebb62ee9c7;ad28570e-c3d3-408f-b20e-da5a5f7a0611;Produto com defeito;12/01/2025;finalizada
-3633c719-1c17-4e0d-b295-11acd63e7a0b;668e43e1-182a-4ea3-82d3-c0408e6944d3;Entrega atrasada e não mais necessário;17/03/2025;aprovada
-18fdaefc-bb4e-4862-bd35-ec33456ebbb1;e5c72fe4-4946-4a43-96ff-d242f5027fda;Tamanho/cor inadequado;16/01/2025;aprovada
-af63920f-a9bb-48d2-b108-92f5b939a4cb;85dff8e2-9113-4499-b256-87c20e545d51;Tamanho/cor inadequado;20/02/2025;em processamento
-e7502daa-c546-4654-87c7-e0bf6d708abe;b6e7d214-f3b5-47d7-9d2f-1794cd853347;Tamanho/cor inadequado;15/03/2025;rejeitada
-7880c4ef-1e5d-4f2c-86a4-34cc57a1bf27;2bf73025-b213-42ae-aeea-a345cb9bb441;Tamanho/cor inadequado;04/02/2025;finalizada
-d08d20a1-ffaa-447d-abea-0229ffcc83b0;368a3eaa-e315-4e90-88c2-52d69ce82e82;Produto diferente do anunciado;05/03/2025;em processamento
-e31ead4f-04dd-4f0d-8926-3b940ceb27bb;a51f4e7c-95e2-491b-9a88-9b20381958f2;Arrependimento da compra;16/04/2025;aprovada
-44a42a5b-bb52-4b93-a4e5-1b9c29a55243;8a96b857-fa8f-4923-b032-c8e2d351df5f;Entrega atrasada e não mais necessário;01/03/2025;aprovada
-aa2aaa66-8219-439b-8d27-4016f5025771;713dd54e-12ea-4618-a28d-3518ee7bda68;Produto diferente do anunciado;05/02/2025;rejeitada
-a463adb6-96be-4edd-b874-0339650f036f;d1d1fad2-3568-4205-a690-9ced4d60e385;Arrependimento da compra;05/05/2025;em processamento
-0c3f5564-8694-4c8b-ad13-375359d9ffb2;f0dd3de0-fa63-4de0-8f0d-3f06b177116d;Tamanho/cor inadequado;17/01/2025;em processamento
-75ff5e23-56a5-4ec9-85b7-03867f8f07bb;eed15809-5e7e-4813-a967-3fe17fcee629;Arrependimento da compra;23/02/2025;finalizada
-7dbf8eb3-314c-4337-b00e-5bdc22c49c1d;e83c77a1-3155-4a42-9eac-4a1554da025a;Entrega atrasada e não mais necessário;23/04/2025;finalizada
-043b348e-51d6-4a8d-a361-54c0eecd9827;cb9aefff-6ef7-45aa-9f7a-63af9cc41ca3;Produto com defeito;02/04/2025;finalizada
-5deb2356-81ad-4c3b-be9b-058e166f8cbd;d19b1b23-d602-4639-847a-d506c1cb8d69;Produto diferente do anunciado;05/03/2025;aprovada
-39cc15ff-9dbb-4ef0-ad4d-a6e04f0718c2;5bfb5797-1a33-4548-b7bd-0ad8232c40a7;Tamanho/cor inadequado;24/03/2025;aprovada
-72e47ae7-f61d-4738-b62d-f00af591af66;7e29d9a1-05dd-4fbf-bd21-0b7df5b350ab;Produto com defeito;29/04/2025;aprovada
-66d12d89-314d-4c34-9c81-981a6c179e9c;4fd360ea-4f49-494a-8091-e9b1ab23e531;Tamanho/cor inadequado;30/03/2025;aprovada
-3ba2eae9-93dd-4332-b915-533a2f105655;c4e0b1c7-6d18-40e9-ad53-cf3047820b9c;Arrependimento da compra;04/01/2025;em processamento
-5044d72f-77c6-4575-bb01-cb5ba5e4e0e9;a2e13d75-b2e2-43cc-b873-335fca3f48a4;Produto com defeito;29/01/2025;rejeitada
-9d38eb9c-b420-4426-9b00-6259990dcb3b;cfb3abfe-2d25-42cc-8c38-325edf88d12a;Produto com defeito;23/01/2025;em processamento
-6f0413f1-8164-4c55-9da6-f3db4cf92fe9;d88af4e5-7345-44b4-8e11-c8315afdf463;Entrega atrasada e não mais necessário;16/04/2025;em processamento
-67264c40-625c-4b64-9c02-ecd8f83a3522;ef9e3c5c-b340-435d-a3b9-fb3d1e1efa47;Produto diferente do anunciado;13/03/2025;rejeitada
-93c3a527-8cf7-416c-afd6-c5838e5e38d2;f0eb453e-d67d-490d-9795-70bebf3025c3;Tamanho/cor inadequado;05/01/2025;rejeitada
-80ae7ff0-502e-4cf3-bb16-a649fcac48fd;4eb0cbac-d9f5-4ade-b604-5b36c0afdaf5;Produto com defeito;24/02/2025;aprovada
-95cd19e8-05b9-44ec-bcc9-ab8ccf1375e4;169d3903-c448-4511-bdb8-52663b1b7e97;Arrependimento da compra;19/02/2025;finalizada
-1ce5f9ac-32bf-4117-a09e-b2b0b0e9e147;39c2f88e-ee90-412f-abf4-19aa27772053;Arrependimento da compra;30/04/2025;aprovada
-1ebd60eb-677f-49de-afa0-8a3384192360;19030a15-376d-45f7-8faa-e5bfb9004086;Tamanho/cor inadequado;07/04/2025;finalizada
-e6c0b0c9-4016-4bc5-b7cb-51216e9602ff;5036ba69-a66d-4249-a4f4-9e7a1305b643;Produto diferente do anunciado;21/01/2025;rejeitada
-2c2bcc0e-2b69-41e0-af1f-bbd6aae1834d;b2ae3dc5-9d4d-411c-9992-f66f1de98057;Entrega atrasada e não mais necessário;06/04/2025;aprovada
-c614fdcc-569c-41ee-a736-3d94aa13c742;42d5f2d0-e57e-4377-ad61-620fb9d979bf;Produto diferente do anunciado;13/01/2025;finalizada
-d545c72f-ccbd-4b7d-b2b9-f77802c6a749;406cf489-50f2-4dcc-9044-35efac9d18ef;Produto com defeito;16/01/2025;finalizada
-75c387d7-c6ef-42ec-8d41-a5e8b53d591a;f26eb838-5efb-4d99-9f28-c83f066f75bd;Produto diferente do anunciado;07/05/2025;em processamento
-848a2c4e-81c7-4339-8a08-39dadcbe07f5;dfd0bb06-6e86-446f-8090-57faf57cefc8;Tamanho/cor inadequado;16/03/2025;aprovada
-2fb9771e-e731-4279-8107-7860d5735a37;bd549545-48e8-479a-bc67-8db746576fee;Entrega atrasada e não mais necessário;05/05/2025;finalizada
-cf63df5b-f0d2-4556-987d-647573e8689d;f74575cd-d613-4a1e-8e1e-aeb5bd676ba0;Entrega atrasada e não mais necessário;09/03/2025;em processamento
-953bec45-7f27-468f-8c0d-a31749ded257;448d4e76-efc5-48dc-8f54-f88a4c5d5377;Arrependimento da compra;16/02/2025;aprovada
-e60ae5d4-1605-4631-b94c-dfe6a9828cc2;78752d7d-a8e1-4988-92db-f103f9ac576d;Produto diferente do anunciado;07/04/2025;em processamento
-6fcf1946-3801-48a8-9f29-3bbf7dcef02b;f80aea02-65de-44ed-915f-bbf953cfff73;Produto com defeito;31/03/2025;aprovada
-1b010888-42ff-4aed-be90-5da9c1c16d96;ee6d6442-dd84-456c-8b10-0e5927fdd5ff;Entrega atrasada e não mais necessário;06/04/2025;em processamento
-0179d958-8749-461c-a38a-c68345a172f7;f286e414-aa0f-4575-9411-1c2b33528551;Produto diferente do anunciado;15/04/2025;finalizada
-d56142ce-0f19-4dbc-bd21-e3b33a480403;221a7c4e-60ac-4a64-b313-1038b2dfb075;Tamanho/cor inadequado;07/05/2025;aprovada
-8c2c7d5c-d315-4ad4-86ba-b6b11e100f9b;35d075b5-4abf-4122-a28f-71fc9fc2e6f7;Produto com defeito;07/05/2025;em processamento
-d22a4cdd-ba05-460f-97f9-a03e1466821b;c21f84fc-d0bc-4ad5-85f8-0d9b00060d5a;Arrependimento da compra;09/02/2025;finalizada
-dd49ab10-8efe-4e88-a2e0-7952a9169a38;7b6ef5d2-31b5-4390-a81a-1d16129226f9;Tamanho/cor inadequado;06/05/2025;em processamento
-3ff333c8-49e0-4bbe-843d-b9e225b28e1a;e60d7a94-b483-4162-b043-a39a4f1a84cb;Produto com defeito;28/04/2025;rejeitada
-6d209c27-4f6c-450a-ab7f-94b8e1c25845;ee662c46-057d-4e28-ba4e-2920f8b1f902;Produto diferente do anunciado;25/01/2025;aprovada
-34d3ec6e-3231-4d46-941c-8363be8dcab9;3c3c7ad6-a6fb-4be1-91c1-7add81a65d1e;Tamanho/cor inadequado;22/03/2025;finalizada
-4a9fd116-1ab1-441d-972e-5d09f67356f9;0507d9a7-a3b1-480b-8a04-2b3b1ba48d8c;Produto com defeito;05/03/2025;finalizada
-39671c01-c9d1-404b-82ca-83dedd9efc39;e19b1158-3b89-400f-b07d-bb51048c16fd;Produto diferente do anunciado;25/04/2025;aprovada
-58f8905b-6039-465c-bef1-d1ecd7c2e403;f9dafc66-3d60-40c4-915a-2848e3b41fe7;Produto com defeito;17/04/2025;rejeitada
-94a57da4-c75f-4bdc-8da3-faa2a293108b;9f34b145-6b6b-4654-8f72-8817de26ec1a;Arrependimento da compra;01/03/2025;em processamento
-aefa5a43-6953-46f1-a735-f5a96082d746;6fd13b5e-8857-4802-8923-d0c9789e44cc;Arrependimento da compra;15/04/2025;rejeitada
-91080904-d80a-42c1-92f5-f5b7d8878260;4edfaa12-b2f2-40e3-a5e1-605bbf8ff33e;Tamanho/cor inadequado;04/01/2025;rejeitada
-06dd38f6-ac8e-4e51-b3f8-a754de89f51a;c87d01c2-92e8-48b1-9e00-3828d5935e79;Tamanho/cor inadequado;13/03/2025;em processamento
-e7b5e004-eb94-48da-b4b9-37475ae7039d;ce57543d-687e-4ec3-9e86-8d3613c18caa;Arrependimento da compra;04/04/2025;aprovada
-51db60b1-f418-40ea-a9e2-3756713b9fea;b0d71191-37b8-4dbe-a7ba-d5f1dbb6c4a3;Arrependimento da compra;02/05/2025;rejeitada
-b11e201b-36c4-45b0-bb7e-82b86f05ffc5;e9b87e7a-a078-4a1f-b0d3-b5f768a69e71;Entrega atrasada e não mais necessário;07/05/2025;finalizada
-3130300d-2213-45fa-8644-322e69568285;499b0c67-a596-4343-846d-e41e3fd69772;Arrependimento da compra;30/04/2025;aprovada
-17e4d80c-b0f3-44f3-8853-b4bac5b74cf2;e9f276a9-7ced-4d0c-b7c9-83606917e2e2;Entrega atrasada e não mais necessário;28/04/2025;em processamento
-d0e048c9-6782-48a7-8007-2ad78ff8c036;710760f7-039b-4a2c-82c8-74ee894dc226;Produto com defeito;18/01/2025;em processamento
-e79ad10e-8b6c-4e24-91ae-c169a50ffa88;fa1d05ec-4ab4-4a09-b773-fc59a2c39075;Produto diferente do anunciado;15/02/2025;finalizada
-5c01b91b-c159-4635-be51-56bcbe6ee782;4f26de21-4e61-4e34-a548-dfc876da3747;Produto com defeito;20/04/2025;aprovada
-cc54432e-8392-47dd-950f-a45ba36054c6;d7c436fd-4ac7-42a5-8b22-45c02db0be42;Produto com defeito;17/01/2025;aprovada
-86793a67-8206-4356-a0ec-ba20cc85d56c;656849f9-02fd-4dd4-94e5-2aae20b552d5;Entrega atrasada e não mais necessário;27/03/2025;aprovada
-280b8f91-f143-4171-ad1a-83a0c6963141;8713b81f-c2f8-4229-972c-8583d06200e3;Tamanho/cor inadequado;19/04/2025;rejeitada
-8316da16-0e1e-430d-b7ce-55bfc1b07006;7e50337b-f3cd-4681-81f7-e1755f59bdec;Tamanho/cor inadequado;10/02/2025;em processamento
-99344c81-704a-45b9-8829-75aaaf058480;ebae6dc3-4104-4c3f-8288-872569cdb08d;Arrependimento da compra;07/03/2025;rejeitada
-209d1b40-6adc-40b2-8299-7374b9f07a9b;0bd2aaac-5c40-484a-b124-8af33250d678;Entrega atrasada e não mais necessário;16/01/2025;em processamento
-7df7e7a8-d39e-4934-901e-2eac14280b3b;e8c63677-82e1-4537-b022-14a6edff0b3b;Entrega atrasada e não mais necessário;05/05/2025;rejeitada
-b408ec62-1c9f-45fd-9fc1-74fe7cecf071;07c4d918-b91c-4d9d-8f41-c7cadce61522;Entrega atrasada e não mais necessário;28/01/2025;aprovada
-5fa820d7-6c28-4d8f-b3b8-e032418fbab0;89de7964-1d0c-4184-87d2-151e392d3cda;Produto diferente do anunciado;06/05/2025;rejeitada
-f6c56e9f-644c-488b-85ba-85a4b1b14337;f69072cf-ac7e-4cc6-b0cf-3e7f5c58b8ba;Entrega atrasada e não mais necessário;10/04/2025;aprovada
-8f44c691-29f8-4f95-a122-c4999b5ae21c;47efa886-d5b5-47b0-b92e-dfa1df266424;Tamanho/cor inadequado;21/03/2025;finalizada
-0fd66b4c-72e5-433b-ac81-2f8765ec1da4;cadd5626-7885-468f-9a70-300195405966;Arrependimento da compra;06/01/2025;aprovada
-9280346a-9c30-4d8f-b73f-765a5567965c;e421bd67-5eea-4647-b69f-954df9e179df;Entrega atrasada e não mais necessário;14/04/2025;finalizada
-9bb5b72e-ddcd-49fc-8405-f7dee8f967ab;96a8df54-726a-4844-8cf2-a69a1dd19a42;Produto diferente do anunciado;19/04/2025;em processamento
-3e06ff5d-142a-42bb-ac27-40dc265c85c2;40776c4a-a619-45de-9441-41d4a829c2ae;Entrega atrasada e não mais necessário;03/03/2025;finalizada
-a24d474c-ec68-482f-9e38-21b81be67de9;c79591e5-749d-4cd7-89e8-3067bd8226a6;Arrependimento da compra;02/02/2025;aprovada
-16869b31-e94a-4e49-81bb-36a7b4ece5dc;7799fddb-79e5-46e7-9d3e-e854534064b0;Entrega atrasada e não mais necessário;19/04/2025;rejeitada
-15fcf4e9-53e1-49fc-8cce-ed505d3d255e;c0e309ac-fd56-4c86-95bc-f1b94ec320f7;Tamanho/cor inadequado;22/03/2025;em processamento
-fc062b22-ef00-4bde-b4d9-51addc003b46;2a7b5c60-d189-4330-b8ed-676798b13a81;Tamanho/cor inadequado;17/01/2025;em processamento
-5954369a-164d-42dd-9ea4-9978bef9b1f6;27ad082f-b1d0-4d8a-a55f-9c8cca2ba8f5;Produto diferente do anunciado;27/04/2025;aprovada
-4ec76e38-b709-4ce3-a97d-5a4383353c3d;6ad1182f-5e93-4505-aec7-c0eebebe06ea;Entrega atrasada e não mais necessário;23/03/2025;finalizada
-430c8877-4b68-4801-afef-326e724ae0df;5a209e04-5e00-4e3b-8f7c-1a7b86091da1;Tamanho/cor inadequado;21/04/2025;em processamento
-005e5cf3-a6c6-41e5-98e2-a11a512bb625;87d01cf2-95e8-4a39-8411-3459aa7927f8;Tamanho/cor inadequado;04/01/2025;aprovada
-6d50111d-9d03-48d5-af66-b39da6ba8cae;15c473f1-7b20-4646-90e2-8a079cebac3b;Tamanho/cor inadequado;05/04/2025;finalizada
-5798db52-cbf8-4f53-8f16-91a410837e3a;a02cbed2-f58f-41b0-bc8c-65ab12d5dfe5;Arrependimento da compra;19/01/2025;finalizada
-465322c7-6ee6-4b65-afbe-b0f58c2cb7a5;47578291-f3ab-4d8b-b2f2-feb755ff0129;Produto diferente do anunciado;14/01/2025;rejeitada
-32430099-43f6-45f7-ab2c-d5f6046e74ff;72015af7-0e75-44ab-824c-4c8f638b123c;Produto diferente do anunciado;13/04/2025;aprovada
-99de697c-2746-4d3e-993c-1e2b356af924;990cf751-c3f0-4831-b07e-cdca999a0fbc;Produto diferente do anunciado;15/04/2025;aprovada
-15f6bccd-74ac-43a9-aae5-6f6125106cd4;9252ed84-6bcd-4ba3-9408-c506ddc4c146;Produto com defeito;04/01/2025;rejeitada
-fab014c1-47bf-424e-870d-cc6ce777dac2;16c702a1-a3e2-4c17-9450-c61f10e2b676;Tamanho/cor inadequado;18/03/2025;finalizada
-0466ab60-a5a9-4abf-a881-dbeecd03cc95;9248c8c8-4c61-4a43-af04-1c76b3e6922d;Produto diferente do anunciado;30/01/2025;em processamento
-bc09f636-ad17-453e-9109-5db73d37f8db;808b2611-e62c-45cf-aff0-a89f7d692958;Produto diferente do anunciado;15/03/2025;aprovada
-225414f6-3853-4154-bf2a-83379520d64b;88dba487-8203-4ecd-bdef-181800ab5064;Produto diferente do anunciado;23/02/2025;aprovada
-1c728c9e-1ea6-4f5c-890c-f426bf2d8027;999f64e9-fd78-4916-aa84-6060070deea0;Tamanho/cor inadequado;06/02/2025;aprovada
-92ea8e36-fa86-4159-8b07-2bd1b5522d7c;05bd764f-f99d-4db5-819f-d247305992ee;Produto com defeito;06/05/2025;em processamento
-c21652fd-3d2e-4c70-9ef7-a68a2c561163;8b33cc72-4c1b-4668-9fce-47725d2e4264;Produto com defeito;28/01/2025;finalizada
+b89cce21-e626-4c8e-ae7e-5ebbb67dffe8;6ca4ba5f-a550-48d6-b71b-4abb9e32584d;Entrega atrasada e não mais necessário;13/03/2025;finalizada
+651c9026-0c90-4036-bda8-a3823251368a;d91fc066-9fa4-4a62-ada6-1acfb6305d90;Produto com defeito;26/01/2025;em processamento
+1540c6ae-2b79-4472-8f95-dd68520da168;51590336-479f-40fe-99df-d4a9d9ec73eb;Produto diferente do anunciado;21/02/2025;finalizada
+6956edad-ab81-4297-a9b4-387d0c9fb7f0;a1b28aa2-c8a0-4c93-bef6-3ca812b074b9;Produto diferente do anunciado;29/04/2025;em processamento
+5a408fbc-8caf-45fb-a737-d86416bc4031;3fc44e3c-a2ca-4642-b3a6-a3e24224f8ab;Entrega atrasada e não mais necessário;27/01/2025;rejeitada
+9acab5b8-11dd-4fec-a54f-18206019955a;6ec1be8d-d2ae-4137-b693-40f3d9c8fe18;Produto com defeito;07/05/2025;em processamento
+78e333d9-fac2-4e8b-9309-59f4562af80e;2dd205e6-2ff3-4f0c-8653-41a262824085;Produto diferente do anunciado;11/04/2025;aprovada
+a617d7e5-e9b8-472d-8a34-2ef78cb5c88f;aa1a3b1a-0be2-47e0-8ba8-b1e504663ecd;Produto com defeito;17/01/2025;em processamento
+be563b6a-5290-48b2-9e3a-27427c4310d8;b7bab245-9b5b-471d-a336-e5eb47fd23b6;Produto com defeito;30/03/2025;aprovada
+9116242d-206d-4033-b1b9-68faf66e5668;3f448a42-a66a-4709-8626-ef8963665fdc;Entrega atrasada e não mais necessário;04/04/2025;aprovada
+f5b86b79-7e71-42ba-ad9f-baf97c8188a3;6457be65-0db5-44ff-95d2-c673e3165417;Entrega atrasada e não mais necessário;16/04/2025;finalizada
+a88b5f1b-52a1-46d7-9c2d-d06b660c5c94;84ced408-7fa9-4ef5-844b-864b7a241d85;Arrependimento da compra;15/02/2025;aprovada
+cf6b406b-5eba-426b-a0f0-aea7ef602c47;f973fe70-1ac1-4c9c-9d1b-115ffc554082;Entrega atrasada e não mais necessário;07/02/2025;aprovada
+0e3b2f71-b3e1-442f-824d-9e6642b68f1a;b11387dc-b781-45c6-a374-692377917057;Tamanho/cor inadequado;10/02/2025;finalizada
+8ff61a66-9678-4f01-8027-4a3bdb7b7eee;1d3042ee-c323-4ba4-8cd1-4fc16bdc8206;Entrega atrasada e não mais necessário;12/03/2025;em processamento
+0ff82a68-f470-439d-b8ed-d2664f81cd76;bdfb37de-b3b2-41dd-aacc-ed1419fc7703;Produto com defeito;07/05/2025;em processamento
+24b193c8-8305-41eb-9b5b-97a9f12d0704;b1fe892f-52d3-4cbd-8adf-748e3716b116;Tamanho/cor inadequado;10/02/2025;rejeitada
+5f0fdc55-1c52-4183-93bf-ff23cbd6add0;c732ece8-2c2b-464b-88f9-b17a08a21434;Produto com defeito;09/01/2025;aprovada
+310af3ed-4d4d-4dff-b7dd-c2a3dbd95bb1;0009abff-42bd-4e68-9417-8c7e61e6a2f9;Entrega atrasada e não mais necessário;10/02/2025;aprovada
+67319d1b-1852-4cdb-bc5a-7ed732610ebf;5950ae1c-a65c-44a5-8ef2-aee1e5082192;Tamanho/cor inadequado;29/04/2025;aprovada
+20b401af-9cb7-40dc-bb11-44387c718e61;7355bf70-ba1a-459d-957f-a4ee5624afc5;Arrependimento da compra;29/04/2025;aprovada
+6b97b7d9-be35-4116-830b-377984ac58be;47c2d7aa-d211-434d-b82b-b148634fa9f6;Arrependimento da compra;02/03/2025;rejeitada
+e37cba59-b6be-4a5e-a562-1028e9bac747;00f72a78-ef23-48aa-830f-61aeab486306;Produto diferente do anunciado;11/04/2025;em processamento
+6218f928-23c9-47dd-bc27-47227aba8e28;2778f7eb-327d-4224-b411-49337985f5b2;Tamanho/cor inadequado;25/04/2025;em processamento
+13e9627b-32c3-4618-9bbd-7a76b743d752;17d59f8f-2e11-4a61-8ff4-3dcd01ec8c94;Tamanho/cor inadequado;23/01/2025;rejeitada
+cd900629-33ad-4c71-9cfb-d4899a59c9e4;4befe8de-e352-40c0-a477-468216f149b8;Entrega atrasada e não mais necessário;10/02/2025;aprovada
+621f2f74-529c-420f-b1bf-4161c20f8c1e;b71605b2-45d3-4bee-a116-59e87aacc888;Arrependimento da compra;05/02/2025;finalizada
+b0eef62c-ef1e-4d94-8923-2fe896f338f0;83fbc4ab-9ec0-4b56-8cac-575e3d8e3a9c;Tamanho/cor inadequado;13/04/2025;aprovada
+f216cc66-885e-405e-a170-75e6c9edaaf4;15970500-0c1c-48e7-ad2d-92eb69ed7ba2;Tamanho/cor inadequado;21/01/2025;rejeitada
+5a0b7c23-f9c0-403e-af56-bca7c5ccb9a7;eb19071b-0b35-40a1-bfa5-e99ffb23a4b7;Tamanho/cor inadequado;28/02/2025;finalizada
+01c524da-e64c-467e-9607-e66f88601015;d0e98787-cf21-4533-b790-084a9c395b68;Arrependimento da compra;12/04/2025;aprovada
+a0d918e6-3116-4df3-9a3b-ac4084444834;da1a56ab-948b-4102-86d3-905dabf44cd3;Tamanho/cor inadequado;18/04/2025;aprovada
+3cea86d2-141a-4545-aa3d-5d43d98c1f53;19fce77b-7369-4a75-a58f-a359f6e0cd97;Arrependimento da compra;05/05/2025;rejeitada
+5b1f7e2c-5c48-4d92-86f2-d5695087118c;c1a8fe35-fda0-4f93-9e7a-b3fe456579d0;Tamanho/cor inadequado;07/05/2025;em processamento
+ef4f7a7c-eb5f-488e-8ef2-d10e6155fa85;aac212a5-66fd-480f-a95d-49cb463eed46;Entrega atrasada e não mais necessário;23/03/2025;em processamento
+93ba8850-4ba0-4108-a433-697d02d8154d;42384a41-85f5-42c2-a962-2079d6563028;Produto com defeito;20/01/2025;rejeitada
+0fbf6681-59d4-42d3-a773-5dafe16e80ee;46f4dccb-b835-4e28-9fd6-0efbfa11f0e7;Arrependimento da compra;10/03/2025;rejeitada
+e4d76adf-80eb-4337-856c-f04c60583cbb;c60ec399-0a00-4410-b414-74a980574a3a;Tamanho/cor inadequado;10/04/2025;finalizada
+6ca3c55f-a30a-422f-9ddf-3675b313def0;6ffc0d1e-ce06-4757-9e8b-bd27b73b320a;Entrega atrasada e não mais necessário;03/05/2025;em processamento
+bf4355ff-8ac5-4301-97a1-103304c0f681;fae5658f-04ba-46cc-a5d1-da789e019bfe;Entrega atrasada e não mais necessário;25/03/2025;aprovada
+09bea6fc-ebdf-4a22-8d29-b78211044697;3edfe767-0e45-4e5f-8e82-e05be3f75513;Arrependimento da compra;01/05/2025;em processamento
+bf7e4bc4-784e-4f87-a4ee-82b7595fb189;7951ec7b-22be-4d3b-aafa-1ea3c3ce7118;Arrependimento da compra;07/02/2025;finalizada
+5e309208-77f5-4dce-b51c-ae754ae75d39;a0bc8d9b-bd2b-407f-a898-781bbdbd6082;Produto com defeito;27/02/2025;aprovada
+acf449b4-ff81-45fd-a935-ea322b4b46ab;0536ec86-cca5-4434-aaaf-9fa891a56945;Produto diferente do anunciado;12/03/2025;em processamento
+053d3b0f-b501-48c4-8593-dc7f9c05bdd8;10ba4973-d990-4381-87d7-35732374585c;Entrega atrasada e não mais necessário;01/03/2025;aprovada
+be9fc1c0-d39f-4ff0-acf2-c089d955596f;2e81dccc-09be-48bb-a36d-670024ab4cbf;Produto diferente do anunciado;18/01/2025;em processamento
+131e4fb4-ed09-478c-842c-1088acf430ef;93b2c5a4-3527-4179-a226-42c51e07c0e0;Produto com defeito;07/05/2025;aprovada
+afb04991-4551-488b-89cc-f47010dd41e6;2303d407-2b36-4f7e-9a08-e5d565129f9e;Produto diferente do anunciado;10/02/2025;rejeitada
+92d1b963-aa79-41d7-bf53-31b976871eb3;c51cdf35-5722-44f0-8c42-bcd11a1a158c;Arrependimento da compra;10/01/2025;rejeitada
+ed4d4e67-cd72-4413-a523-06f1931beab1;b4973f68-6007-4b3d-bb69-39aadee94590;Produto com defeito;20/02/2025;em processamento
+ca1a54cf-2bc1-4eb6-ad3c-9799e7dfed11;932f1565-e522-42ae-a9af-f7f526fabe7d;Arrependimento da compra;31/03/2025;aprovada
+a008471b-9bf1-49dd-bad7-10ef96c14d7f;eca08971-df36-4dae-8031-48577e0ee973;Produto com defeito;24/04/2025;finalizada
+7d7b9e1f-6a71-4fe7-8002-aebcca939eb1;fa186f64-9af2-4b68-bba0-d04e16cbc234;Produto com defeito;06/05/2025;finalizada
+a6588325-bc68-4419-9a52-9c8199597a85;24a24aab-b414-4907-b7e5-4361b69fd22a;Entrega atrasada e não mais necessário;14/04/2025;aprovada
+c3c6b64a-db22-4dac-9d19-9e14d2fe43d8;92f20b65-418b-4937-9c80-f7e0585ef88b;Produto diferente do anunciado;01/03/2025;em processamento
+3358d675-5b3a-44af-9373-fe0357e74478;f9c77179-d348-4c2d-b58a-f3fb46c6f762;Produto diferente do anunciado;28/03/2025;rejeitada
+eb594240-7773-47a7-84b2-d806db162b98;f51ed666-6e4a-4daa-ba42-87f37e3f1d45;Produto com defeito;23/04/2025;em processamento
+9d0b98c9-a98c-488e-8759-8ec9bada3241;9a74d230-86d6-4c2f-b080-e20dc8fba112;Produto diferente do anunciado;12/03/2025;em processamento
+8306402f-dc9b-4099-b21e-19af27939dcd;25360d76-5328-4e5c-a57d-014c5f5fa344;Produto com defeito;21/01/2025;finalizada
+3894955e-316a-40bc-afa7-77d3fd48a11e;e5026ca0-0b0f-40fc-98e1-88771cb8210a;Entrega atrasada e não mais necessário;31/03/2025;em processamento
+d45fce7b-defb-47b3-96bb-9a1fcee10f5b;60344dd3-c73e-481a-8258-15d1c58d2923;Entrega atrasada e não mais necessário;15/01/2025;finalizada
+ad5bfe1f-283c-4df1-a424-ab887c563785;0b3a428a-c09b-42e3-850b-ed56e1f26527;Produto diferente do anunciado;22/01/2025;finalizada
+f2e7d8ca-4c6b-48f5-b305-a56dfd5ce288;19632c98-3c18-4cb3-a6d5-121c8e11815d;Produto diferente do anunciado;19/04/2025;em processamento
+cabb419f-4e4f-4c58-bc33-ec00fd0e2bc5;4aa9276d-bb44-4646-ab6a-34acc7b014dd;Produto diferente do anunciado;20/01/2025;em processamento
+8892ebb3-4acd-4a05-99ad-36f82f23cc87;81b4e03f-7fd5-496e-a81d-7cf4286dd3df;Produto diferente do anunciado;30/04/2025;rejeitada
+c142d4c5-26d2-4d05-921b-0b98a57238f8;d5b091c1-615a-4449-ad95-0eef35cc2a14;Entrega atrasada e não mais necessário;09/02/2025;aprovada
+c14a198b-46ca-4b46-9692-ed76dbbfb417;6d6b69b4-3311-4e39-b3fa-0cbc899ea772;Produto com defeito;05/01/2025;finalizada
+5e203a83-7b15-46ea-a1f0-e321041eb163;1c0400c4-47ac-4bb1-a46b-9039a8d6d52b;Tamanho/cor inadequado;04/02/2025;finalizada
+2d1035d3-3dea-4ea1-b6e1-a5c165c9aa58;3a6a11dd-6385-4929-a351-0cd8c338d959;Arrependimento da compra;13/01/2025;em processamento
+167785ee-3672-4714-9e16-b27a4bd68d37;8940b0f4-6f4c-460c-ba0b-2f0687657d10;Entrega atrasada e não mais necessário;29/03/2025;rejeitada
+a15a0300-6567-4760-afbc-d677124c3026;ae71c862-89c4-413f-a2cb-979d43eeecb8;Tamanho/cor inadequado;28/01/2025;em processamento
+97d35a58-0ef2-4581-aa73-e615f53b7994;29c0bcf8-cb3d-40a6-9c2b-43fa9721822f;Arrependimento da compra;01/02/2025;aprovada
+fe382b76-466a-4dbc-974c-f992a783b84f;f774c909-b977-4607-a2e6-290c2db74239;Entrega atrasada e não mais necessário;20/03/2025;rejeitada
+41038891-c877-4999-bde7-422994abac20;f7e0c98d-ce21-4546-a03e-eb6f67e70efb;Produto com defeito;11/03/2025;em processamento
+326251c3-5939-4b1f-8b16-151ad58911b3;42ffd729-2db9-48b1-a6bb-71e36cb0bbdc;Produto com defeito;16/02/2025;rejeitada
+7cfadfe3-4700-4781-8f6d-b921114b0e67;e87e01b5-1f2d-4860-bc5b-6ffd36c72485;Entrega atrasada e não mais necessário;18/03/2025;rejeitada
+5cbe8c86-7d86-446d-bfc3-df11af9349cd;4cd05896-ff6f-4658-bbd8-20283fa0af77;Produto diferente do anunciado;13/03/2025;finalizada
+9a667761-931c-498f-9246-822353ba211a;1784fb5f-fb5e-4b55-8196-39b24801117c;Arrependimento da compra;14/04/2025;finalizada
+bcac7d9d-e82d-4743-b145-c48336c98e07;653d0877-b791-49c8-82b9-8e37b32f230c;Arrependimento da compra;20/02/2025;aprovada
+f343d3ae-9e50-4dcc-ad9f-a7be19848d1c;bac316a5-e469-406a-b069-2b1f0f009a01;Arrependimento da compra;24/01/2025;finalizada
+ffd1878f-719f-47f9-b45c-11c2fafb9537;4b8b20b1-6832-4859-865f-08a3c84442d6;Tamanho/cor inadequado;17/02/2025;aprovada
+b3b81369-dece-4fdd-9822-0018a4ea2e5e;b40a6f51-a555-4445-8f0a-89a5b1a4675d;Tamanho/cor inadequado;25/02/2025;rejeitada
+a1ce52f9-a372-4c0b-9975-1c47918c823f;071a8d53-63e0-4207-913c-b0099cff77c5;Produto com defeito;06/02/2025;rejeitada
+a84f87a7-7aec-4f92-9224-871f526fa2bf;7ecfc226-9a9a-4f1b-8345-d6d33d722c0e;Entrega atrasada e não mais necessário;27/02/2025;aprovada
+04d6431d-2ac2-4c5e-a061-4430e0924075;6cf869fe-2960-4643-918b-cb456dddfbc5;Produto com defeito;10/02/2025;rejeitada
+a637344f-ce0b-484b-b545-1e8307264eec;4fa993ae-cb73-4365-bfd6-c568deda4af6;Arrependimento da compra;02/02/2025;rejeitada
+30f300da-b36d-4daa-9eb6-5bae16e8a5f0;7db56b57-47e5-4976-9182-b7abcef689e1;Produto diferente do anunciado;07/05/2025;rejeitada
+f5704058-b792-4fde-94f8-1d618d7b5ef9;2b16b591-3843-4480-8436-44fea58e5128;Arrependimento da compra;12/04/2025;em processamento
+ea4599ad-2316-4b05-8cea-e411f66e4223;a9be0987-011f-4718-a768-22f1a5469b6c;Tamanho/cor inadequado;10/01/2025;finalizada
+6bd4c974-9ce5-4bae-8a7c-ba89f44d14cc;199e47cd-ad18-45b9-b649-3bfb7d849cf2;Produto diferente do anunciado;21/02/2025;em processamento
+85d0f26c-49dc-4c26-a815-d36d8eeacdb7;612b15fe-afbd-413c-823b-d978a3e645cf;Produto com defeito;01/03/2025;finalizada
+a6a741ff-7614-4ab6-bcda-f800d55637c0;07faf982-1fb4-488b-90f9-a79790c3c13f;Produto diferente do anunciado;12/02/2025;em processamento
+f6cabdf1-7089-400a-a665-17d315b86020;a83de21b-fc2c-4892-a5ec-7f358a571dae;Arrependimento da compra;17/04/2025;rejeitada
+ba0479e0-4dd5-4c07-9c50-912a4fc0c6c9;96622c87-7ff1-4433-be34-d7056ef5357b;Produto com defeito;22/01/2025;aprovada
+d03ee7b8-1d59-441e-9054-301948cc7a8e;97922849-d843-48e0-a010-e2f04008d721;Tamanho/cor inadequado;06/03/2025;em processamento
+8bf27ff5-a7f2-452a-80e2-7c3d27f59b41;bd18ef5f-246d-4852-ae5c-ec3de025a2e4;Entrega atrasada e não mais necessário;16/03/2025;finalizada
+46e852ac-dae6-4fb4-86df-75708c780ca3;9f604cdb-a394-4ae4-ad55-5edd8fccb3e5;Produto diferente do anunciado;22/03/2025;finalizada
+ad47cc13-c8f5-43b0-87b8-369705bd4c8c;3a698c2f-1da6-433f-8d72-da7f9af78848;Produto com defeito;19/03/2025;finalizada
+8797d86b-a262-4ca2-8f40-e645529ffb7a;527e7188-49f5-4bca-9535-44c5340108f2;Entrega atrasada e não mais necessário;30/04/2025;aprovada
+615022e2-1185-477a-9258-f5921c8682da;67abd7f0-9c66-4583-adbe-ee8ea929847b;Produto diferente do anunciado;14/01/2025;aprovada
+f829affe-c19b-45a9-9f38-876db2343f85;ecb41a66-d56d-40bb-9c03-21cb7e3c9039;Tamanho/cor inadequado;30/03/2025;rejeitada
+90f6eef4-3da6-4b24-84de-d7a34bbd95c3;d1297f9f-f9d2-4d92-ae4f-d5067239238a;Produto com defeito;04/03/2025;aprovada
+26ce967a-480b-4d00-86c4-2dfbc6d40ae7;effe48e2-8d2d-4100-b89b-68a59e5109bf;Tamanho/cor inadequado;04/05/2025;finalizada
+f7a02e97-f653-403d-aa2a-657229920c6e;932761c8-a439-4a31-b27b-78e11e664188;Arrependimento da compra;08/05/2025;rejeitada
+2154a81d-ab1c-4e6b-ace7-875b97c42c9c;ea743ea2-d987-4e7f-9e86-7917c8f31d4e;Produto diferente do anunciado;13/03/2025;finalizada
+957ed4ae-de9d-4cfd-a553-970c6d92b429;85ec4786-db84-4af6-84af-a3894ebd5375;Arrependimento da compra;22/02/2025;rejeitada
+c6f88dc8-c7ac-4dc3-a599-13ee4ce2715f;6b97b183-56fa-4d00-9d76-35b512ec7f7e;Produto com defeito;10/02/2025;em processamento
+f2228a51-8278-4326-b658-c2c8c3d26ade;2a23d95a-8464-4b81-bf73-d1bc2f4c4b80;Arrependimento da compra;01/02/2025;aprovada
+f91d5f14-66e8-4c45-a211-9c4c62342eb9;d5b1fe46-1a2f-4c52-8fa0-b9d1cd5702e0;Arrependimento da compra;08/04/2025;em processamento
+f4986662-0cb0-4dc1-a017-1f6a66376871;7301646a-4166-4aa4-a2c1-f991e38e0f32;Entrega atrasada e não mais necessário;12/02/2025;em processamento
+18404733-02a2-48f9-b44d-2e407e3ede66;992d89d3-ecbb-473a-bdcb-d8a8966a3a40;Arrependimento da compra;18/02/2025;finalizada
+ef7fea62-a638-448d-8af4-1d75572c2ef7;1c7eabdd-a114-4353-99fd-9bcf42a0c67d;Tamanho/cor inadequado;23/04/2025;em processamento
+976bf50f-303c-41da-b3f2-c93d00fb5aed;f196101e-4a8f-48da-8122-1e793e3abc16;Entrega atrasada e não mais necessário;06/05/2025;finalizada
+0154eaab-348b-4904-9562-d22ba76e2c0b;33e1f2af-32cc-4a25-b1fd-1e5ef86561ef;Entrega atrasada e não mais necessário;02/04/2025;rejeitada
+d9f9b5fe-a9e3-4351-8b1a-951c241f6135;1574283a-a67f-42bc-a8fd-0188acd5af1e;Arrependimento da compra;05/05/2025;finalizada
+bf07f856-bbce-4c50-a0fb-ef8d343ba486;cb260a66-7bcc-4e4a-990b-ab2c9ec84be3;Produto diferente do anunciado;05/05/2025;rejeitada
+c25662f3-04ee-458e-9d18-286f94b64f72;63cd0cb1-a7b3-46f9-9358-96aae2751ce6;Arrependimento da compra;10/04/2025;aprovada
+8986defb-f69b-47c5-90ad-780b57598004;b0643ee1-f251-45b0-adcf-7e9ffa70587c;Tamanho/cor inadequado;20/01/2025;aprovada
+d90736ab-132f-4b4e-bafa-451cbbeb90f4;3294f6d3-ffc2-4344-a6fb-2d42693ec251;Produto diferente do anunciado;04/02/2025;aprovada
+a5299ff8-b10b-48a2-8a9c-56acf8bf68df;4667d2ab-4d03-42a7-8812-f1981f779f46;Produto diferente do anunciado;19/04/2025;rejeitada
+b5d977f0-1538-40c5-a294-3109eaf3ea8a;8e32476e-243e-4f39-9282-9d8579bcc938;Produto com defeito;22/01/2025;rejeitada
+f201a85e-3e0e-4111-a239-8a7d2def43d6;c27bb79b-3212-4783-8e70-b6c9ee052741;Entrega atrasada e não mais necessário;25/03/2025;aprovada
+849df1c3-3a2d-42a2-8353-6b6fb6876bf1;7a253152-757d-4c30-9af2-1db2f98f5cd9;Tamanho/cor inadequado;21/02/2025;finalizada
+2bbe0c51-9f17-4b2d-885f-524d6f6369bf;c9a0a5c4-73dc-45cb-9e2c-8cf5cfdf6cca;Tamanho/cor inadequado;19/01/2025;aprovada
+bd769b73-d3c1-4f31-84ae-128323c0d8cf;b88c2a08-ac45-4e8b-88b8-d8ca2f9f3dec;Produto com defeito;16/04/2025;aprovada
+3ee9ec55-d160-4e11-8a7f-a0228775172a;ed7e7d84-9cfb-48ec-807b-04a523cf20fe;Arrependimento da compra;07/04/2025;aprovada
+063f9226-817c-40fa-b2a9-dff8be3a23d1;b1947832-778a-4bb3-b12d-991c99a9a448;Tamanho/cor inadequado;09/04/2025;aprovada
+490fe1e5-2f06-4f81-ae2d-e665763d277d;ae76a285-5a81-4ef1-84e2-b8bc6f21988a;Produto com defeito;06/04/2025;rejeitada
+7ad739e8-41d3-4b4f-929e-5236b428217f;c460e457-b6be-4683-a4f1-efed7fecb7a1;Entrega atrasada e não mais necessário;13/01/2025;em processamento
+51803acb-f6eb-47e3-a4c8-9f493796e049;f958f9a6-4736-4cc5-ad5a-b0063a1dda1b;Entrega atrasada e não mais necessário;13/03/2025;em processamento
+e2124892-3120-474a-aff2-236041fda8dd;6b1902af-fb4c-40b8-a19c-b51f2dabb839;Tamanho/cor inadequado;02/05/2025;finalizada
+b54a547b-a86c-4dfe-8770-7f9aef45f0bd;098acba1-f76c-4b2e-96fe-bf1df8624c2b;Tamanho/cor inadequado;10/02/2025;rejeitada
+4454baf0-cdee-4716-b618-7ff188593003;495392bc-c7e0-44e7-83f3-7a08b50383f0;Tamanho/cor inadequado;21/01/2025;finalizada
+1e7f8913-1bf7-4aa1-aece-696dc0c57249;67915507-c347-447b-921a-bdc91b94ae15;Arrependimento da compra;23/04/2025;aprovada
+30af93cc-d3e8-4ad1-bafe-ad63cc0ba303;8dd86014-363f-4862-ac4e-bf8953a8debf;Arrependimento da compra;24/03/2025;finalizada
+c233361b-6e0c-4d73-a8c9-e928f7342933;fe29d7ee-3070-4346-af6b-a2435bfd155c;Produto com defeito;23/04/2025;rejeitada
+40d47fd8-a4f2-485a-9256-5a187c8103bd;d04baef8-7d9b-4ed8-8867-510f1921b734;Arrependimento da compra;07/03/2025;finalizada
+ce2776ba-6f0f-4a59-b94a-dfcf6b96a132;2ae84053-8597-40c2-a019-ea401c74f2a9;Produto diferente do anunciado;04/02/2025;rejeitada
+e67369c7-4a48-47f6-81fc-f20d9494f30c;debc2e64-758c-40b9-992f-894d88e9a571;Produto com defeito;11/03/2025;em processamento
+4aee1bce-62b6-4955-95e8-46898403bd22;04ef61f0-b13c-48db-99fc-2b67a3c595c8;Tamanho/cor inadequado;26/01/2025;finalizada
+0af1af6f-158a-42a9-8662-6d2ec089f304;8acd61e6-1553-4e16-a9e5-d4dd09fb731a;Entrega atrasada e não mais necessário;18/03/2025;aprovada
+757f1519-70f0-4a1d-b3de-ee54a8fb9de1;1dcc414b-8141-4cdf-aa50-0a5a903d98f8;Produto diferente do anunciado;12/03/2025;rejeitada
+574e1803-3bac-4ece-87b5-406871c67bb7;b4f76a77-32a5-4202-9be2-cc61f3332724;Tamanho/cor inadequado;06/03/2025;em processamento
+c83d5bf6-a856-425c-893f-e677d837e9e1;765aa3f5-82aa-4ada-b201-5af70e75e4ab;Produto diferente do anunciado;07/05/2025;aprovada
+8a784a2f-811e-4b07-b8d6-31665db22a3d;11f6bbf1-298b-4db0-9d68-2853bd140f47;Arrependimento da compra;17/02/2025;em processamento
+fdcf0131-2768-44bf-beec-28adb72849e8;6c87de32-f50c-446d-a8d4-c53d2693bf4a;Produto diferente do anunciado;27/03/2025;em processamento
+07353381-7584-4b31-976c-388dbecd2bb6;abf57ec6-f39d-442d-9af1-1aecb22e19b4;Tamanho/cor inadequado;24/02/2025;finalizada
+6c45577b-1c6a-48c9-bcc5-20fbe9d414bd;eab1b5d1-9b84-4e70-b87f-cd1491c8c699;Produto com defeito;28/01/2025;rejeitada
+e39aaedf-4cf0-40dd-8a5f-74b5d9eb8b8f;1dd8273f-fb1e-4382-9107-76798e7b0c2c;Entrega atrasada e não mais necessário;10/01/2025;finalizada
+cd34c03d-35c8-454f-82c2-58d1f075102b;bb3e9556-381d-413d-8f04-9bdac6d8bbb1;Tamanho/cor inadequado;18/02/2025;aprovada
+50685a95-749f-45f1-9412-1f9a0e84bfbc;5ee260c4-75e2-4df8-ba7c-a745589438d6;Tamanho/cor inadequado;10/01/2025;em processamento
+4d110c7d-b635-4307-ad3c-ea0105fe28ae;3ff71633-1508-4a39-8be6-ec0b1f234147;Entrega atrasada e não mais necessário;15/02/2025;em processamento
+e639285d-2fa3-4de5-a079-35b13c7f3c60;96b4fa17-39b9-4512-9b9e-e34e87530e1b;Produto diferente do anunciado;23/03/2025;finalizada
+2045af03-19d2-4c43-bd9d-0275d428d582;ecdbe21c-95d3-4d44-bb83-0c994ce4a6c4;Produto diferente do anunciado;17/02/2025;finalizada
+824dfdf7-bed3-4222-8c49-ef62c3c42408;36fa3735-e60e-4784-a05d-473b3040858d;Produto com defeito;18/01/2025;finalizada
+cc664ce4-6bda-46f1-b574-4864267250a0;0d1b149c-7ae9-4cb4-ba58-0968fd135421;Tamanho/cor inadequado;03/03/2025;rejeitada
+169b8c0f-841b-4e24-82d7-1b1ec80de237;41e501fe-372b-4847-8712-823d95952125;Arrependimento da compra;26/02/2025;em processamento
+b1fb93a7-5cb2-418e-a270-fc99d4451df1;7b138c6b-d31e-47cb-9555-61a4d6109ef4;Arrependimento da compra;29/04/2025;aprovada
+a310ebf7-5029-4b97-9b5d-598104d97ca0;9b67b57d-0a4f-49fb-bf61-e55d8b2a5e8a;Tamanho/cor inadequado;25/01/2025;rejeitada
+2a4ff62c-8449-4a0b-93ea-a7c5638bb9e5;7877eb1b-6dce-4030-b386-6294c3621c18;Entrega atrasada e não mais necessário;24/02/2025;em processamento
+f9ca325a-da1a-40d9-a71c-8856c8223d7e;746f3431-fe83-4021-8b96-b9520847feab;Entrega atrasada e não mais necessário;03/02/2025;rejeitada
+838e16ab-7e08-4dc8-b7c5-372fd692dad4;4085d1c9-103d-42f6-aa76-76ca1a936f44;Produto com defeito;24/03/2025;em processamento
+d1367d21-4461-4e33-9227-172a30cbd6da;61142e76-d529-4300-b9d9-cedaefc98dee;Produto diferente do anunciado;16/03/2025;finalizada
+d30f83f1-7b87-446e-a880-75ea2df8c698;568b2070-b347-4f40-a6b0-ae69e678a8fd;Produto diferente do anunciado;09/01/2025;finalizada
+1af71c7d-7d46-4b6d-80c6-a3eb7032ee1b;f26de669-55e3-4f96-a2bf-0f3dea8b34b9;Produto diferente do anunciado;25/02/2025;aprovada
+520c348a-dc20-43da-8419-aa612fdfdcfd;29425a66-65b2-472f-9a4a-c4394e78c973;Entrega atrasada e não mais necessário;30/01/2025;em processamento
+6091d57b-135f-4d02-8911-6335651e84b7;0063f1b1-aaca-438e-a822-d585cd5eb63c;Produto com defeito;28/02/2025;em processamento
+75fa2f51-a494-46b1-ae89-c12046649ed5;539324f8-63d7-4772-8c84-7e3f22f1f118;Produto diferente do anunciado;31/01/2025;rejeitada
+0d910fb8-6b09-451e-a863-32a436e23059;5450f9d8-0618-4b6e-a018-01bef9b84dea;Produto com defeito;04/05/2025;finalizada
+2c76a893-4d53-4395-a306-a6a8ed7a860e;3f58fa58-5db0-4d91-ad35-641aa6f53bec;Produto diferente do anunciado;07/05/2025;rejeitada
+9f506a11-3c78-4405-bf68-51ff3531ef3a;92581c47-9f5d-401d-9558-25a8ddec8a47;Tamanho/cor inadequado;08/04/2025;finalizada
+6f20b8c3-d434-43bb-bcfb-59685f941349;3f301d0e-57de-45fc-bf52-6f5ed9fe9e36;Produto diferente do anunciado;04/02/2025;rejeitada
+582480af-33c0-4129-8be0-ba761d78b3ec;a3ae885e-9354-4087-aa6a-fbe5d0a76c54;Arrependimento da compra;22/04/2025;finalizada
+a8de4642-2cfe-4745-aeb8-76e761b91337;2553ff33-298b-4a25-903d-24cffdfbc585;Produto com defeito;11/03/2025;finalizada
+62647823-7097-448e-be7f-05a2e323c7d8;4613721f-0531-446b-9c7e-1d5818e26365;Produto diferente do anunciado;29/01/2025;em processamento
+ac93488c-982a-41c3-9f93-3449bb9224ad;c81e660e-8de9-4f45-bc60-ddd6b9a05e77;Produto com defeito;13/03/2025;rejeitada
+c649d7bb-4cb9-47d4-afa4-eb683c6b1ee0;c9bf6704-8e7d-4db2-97f6-1ee101f5150a;Produto diferente do anunciado;02/02/2025;em processamento
+556637f6-9ed6-413f-b840-d38634844930;6f89396d-4fb1-48ca-84e8-dcdc577fc787;Tamanho/cor inadequado;06/03/2025;em processamento
+ffd94a92-9629-46cc-b34d-fdb42a2ce016;8c5bf73c-eaff-459c-8b5e-995afb78aaf8;Produto com defeito;01/03/2025;rejeitada
+4961c582-7439-48ba-8cc1-7507e872eac5;4253876c-7c12-4e96-8d46-d111230479e3;Tamanho/cor inadequado;27/02/2025;em processamento
+93340923-bcc9-4ffe-b9b7-a2afd55c82fc;e6fe130a-1bdd-4154-8799-bcbddcaed3f2;Produto com defeito;24/03/2025;finalizada
+2242df17-a2a1-49a6-98e1-1c2bf9c6d308;944d58b2-19c3-42b5-a3fe-4ce975c299e5;Produto diferente do anunciado;07/05/2025;em processamento
+afd56697-ebe6-4d27-baf6-68e25e0f215a;4f588a79-2e80-40ef-9126-3547a0d72e18;Produto com defeito;07/05/2025;em processamento
+8880f2a8-6f6e-414a-86f6-04c930f99d9e;f75b8eee-bd40-42fd-aabc-b6a28a9be82d;Produto diferente do anunciado;07/01/2025;rejeitada
+d896d4cb-fbd8-4a35-bfeb-4a400a45b7a4;f4629df1-a0f7-4bf9-b4b5-4fb3be361d8a;Entrega atrasada e não mais necessário;24/03/2025;aprovada
+343d7891-dd94-4258-b240-f8d0c9ebe89d;158fa940-c15a-4930-924d-4945995056cf;Produto diferente do anunciado;26/04/2025;aprovada
+9bda38d3-1b98-42fd-b8ad-21e90c1e33b1;d45d2678-6645-4e82-9eb4-1324c8f32af1;Entrega atrasada e não mais necessário;18/04/2025;rejeitada
+d8483c98-6b5a-4d72-a68a-ca42070e3a2d;71043e59-a3bc-4779-b567-91d358b44733;Entrega atrasada e não mais necessário;08/02/2025;em processamento
+3765c9e6-5e77-40c7-a4f7-b177689796c7;2cb6afa5-1bb6-4356-9a8c-3437f8aa86db;Produto com defeito;06/05/2025;rejeitada
+97b79180-8364-475e-8f27-c22188f251a3;12afbaeb-c91a-42f2-81e4-d392b5836d91;Produto com defeito;22/03/2025;finalizada
+8b8bee1f-8b96-4602-a7d5-6c8f3bad4137;80c32879-b399-47f7-aef2-9fa0a34168e1;Arrependimento da compra;08/01/2025;finalizada
+fa6161ef-c92c-4439-b35b-ccf6f130a429;cf68cdb3-33de-4631-994c-cfbab02afeae;Produto diferente do anunciado;07/02/2025;em processamento
+ca4a42f1-27d3-4aed-be7f-ee796aa82b1d;15360337-a9d7-4c0b-9ccb-0ce89c8259b4;Produto com defeito;05/03/2025;em processamento
+e45d9b83-719d-4fe7-be86-1ae8a1832bc4;6e7894b6-21da-409b-b1a4-1e7ce1acfdb3;Tamanho/cor inadequado;02/02/2025;aprovada
+9f231766-1cb2-44ed-b882-bea9a9527a54;260d2ccc-3065-4ccc-b887-574cdb18977b;Entrega atrasada e não mais necessário;24/03/2025;finalizada
+17a4c5c4-de70-4a29-8573-336540b2d984;00c65ec8-92fc-4afc-8501-a390b249c3c8;Arrependimento da compra;09/03/2025;em processamento
+daf954e6-cd3e-423d-b30e-efde544bd680;18896cf2-d3ac-4def-ac1f-1d4dd7290933;Entrega atrasada e não mais necessário;23/04/2025;finalizada
+4d9238ed-d5eb-41e7-b198-69b909ca5262;fc99c4ff-df52-413c-9e97-5c88965ec214;Entrega atrasada e não mais necessário;17/03/2025;em processamento
+ee18e97b-408e-42a0-817e-21b3b7fc0260;c311eb60-381f-4d74-ba69-7e228fe74f2b;Entrega atrasada e não mais necessário;25/03/2025;em processamento
+b747a7a2-4976-413c-987d-58d77c5449f7;c22c5eb5-b92d-4458-ada1-94e6f942a058;Produto diferente do anunciado;27/01/2025;aprovada
+d8c22dd2-64bf-4177-af23-2adef039b15e;5efee8f8-a309-4391-b805-2f01310bdddf;Tamanho/cor inadequado;25/04/2025;rejeitada
+2a212310-0380-4cda-bad4-b8e6fa58e4e8;5010c6dc-86c0-4451-bbae-0ac12a3e077c;Entrega atrasada e não mais necessário;11/03/2025;finalizada
+cde50515-5c15-4566-a9cf-ab0b4c4bc300;7e1e7e84-3003-4603-9782-d6a7c6b92071;Entrega atrasada e não mais necessário;30/04/2025;aprovada
+dcb9d619-356b-4329-8a10-4f5c3e4cdd9d;d16623da-5c3c-4a94-84f2-a71dd5404014;Produto diferente do anunciado;14/03/2025;rejeitada
+82a43d81-5a4c-4ec0-aa75-5eb0a71bfa09;69d74a9c-947e-43f6-90b9-faf0c580c52b;Produto diferente do anunciado;05/05/2025;finalizada
+d274f02a-6922-4692-bbbd-6320d1477c45;c6f2604b-a0fb-45e3-88f4-5403440e48f2;Tamanho/cor inadequado;03/04/2025;em processamento
+2b12aa33-60f7-443a-85ed-e781e2fd3786;9a5dfa23-f6c4-4ed5-868d-5efbeb87aab3;Arrependimento da compra;19/01/2025;aprovada
+8a428207-8059-4eb1-9f8e-ee46983dacd2;801b26d8-b8ff-4e54-972a-4af2f640ec07;Tamanho/cor inadequado;04/02/2025;finalizada
+6eedce94-ff55-481d-8485-b5f528418d29;355bef0b-7bb8-429f-bc98-ef79312f83b0;Produto diferente do anunciado;24/04/2025;finalizada
+d77a50f5-8165-4089-b8c9-f83d34ac08d0;6ecf22de-fae3-4d83-89ea-15f994cd2eaf;Produto diferente do anunciado;15/03/2025;finalizada
+d2857b8c-b2f4-4843-8d66-898bc944edff;86057a60-59bc-4b00-a04e-0eb9b4c870c8;Produto com defeito;30/01/2025;em processamento
+d110eb34-e59c-4d05-88c8-316456bcb4b0;09207e96-d456-4ba6-8148-1abfc2fa642a;Produto diferente do anunciado;14/03/2025;finalizada
+c14572d9-c4ee-43a3-8119-5ac15ae7d2ab;59bdfac9-0d99-4ab9-9fc0-ccce4ba08508;Arrependimento da compra;03/04/2025;em processamento
+28d7f7c1-e20e-40f6-8a5c-5d77f01d2b84;c5ab160f-f8a9-43ca-90fb-98ecf091e948;Entrega atrasada e não mais necessário;07/03/2025;finalizada
+919ffb03-b6e5-4450-b080-eeee5d9316b7;991f6d60-c9c6-47b2-a55f-a095e09745c5;Entrega atrasada e não mais necessário;13/03/2025;rejeitada
+1b74ef01-a4a8-42d6-b66c-8667d4def0fe;73e39f90-b361-44f8-9f94-6b0a61eb4d45;Produto com defeito;16/01/2025;finalizada
+ee3918bc-75a4-46fb-ab58-f518c7c19233;a4349e9a-d1a5-417a-8e1b-913c7e4ecf5f;Produto com defeito;23/01/2025;finalizada
+7c0e4935-d903-47c0-a889-a7c2a9512848;e00077cb-ca34-46aa-9fed-322c6d5a9d6f;Tamanho/cor inadequado;06/04/2025;finalizada
+2a2b0b8a-73c7-4535-b9e0-8b9fd111a96b;e228d77b-bf76-456a-9d36-b011434e201e;Produto com defeito;15/03/2025;finalizada
+f2599269-ecc7-408b-8088-6d4b3cd476f3;10c56c19-0014-4db4-9d53-af3497b4af3d;Produto diferente do anunciado;03/03/2025;rejeitada
+9694cfa4-8792-4c5e-a6a6-465d0537a81e;eee23b99-173c-460b-8b88-2c8afb006331;Tamanho/cor inadequado;08/04/2025;em processamento
+1a573700-20d8-4920-8974-8c6a5ca8f6fe;6e90ca61-2a3c-4167-a0b1-5a6067b5b8f8;Produto diferente do anunciado;08/04/2025;em processamento
+6a14ec42-cf57-4409-a2eb-1525111fc841;eec86310-6e04-4bc2-9bbb-e72dcf41a3ba;Entrega atrasada e não mais necessário;08/05/2025;em processamento
+31aedc1b-e602-4477-8a44-ec963c28d0fb;3d10263c-40ff-4117-b49c-9b78faaaa5f6;Tamanho/cor inadequado;27/01/2025;rejeitada
+8d8ae1c6-6b03-4bff-ad47-9d1086ffff89;9ba11d14-5587-4a70-999c-32451ad9dae3;Tamanho/cor inadequado;01/03/2025;em processamento
+e1d55040-7bfc-49fc-97ef-bf85f0d5ee04;078c4a96-1a1a-4cf2-b35f-5f46082526a1;Entrega atrasada e não mais necessário;20/04/2025;aprovada
+8e0bc9d7-517d-4149-a7ef-9bf01c0e6277;b96a12c7-db1c-4c92-85c4-ff1c429efc00;Tamanho/cor inadequado;14/04/2025;em processamento
+e9766e5e-9fbf-4a1e-bb74-6c92e4eb93f8;0e264719-3eaf-4d51-8ef7-11c04edd52bc;Produto com defeito;26/02/2025;rejeitada
+1d2d63e1-d6f1-45c1-a65e-9f548c4e6466;f93c21ff-e381-4499-bbce-52e992feec65;Entrega atrasada e não mais necessário;21/04/2025;finalizada
+00036bdb-2554-49d6-a6cf-650638166c75;f3ccd6f7-e43f-4a3f-bbbb-91bef3dfd2cb;Produto diferente do anunciado;14/04/2025;finalizada
+7841586c-5183-45c9-9f1f-5702944ed69c;a1fbbbe2-c74e-48e9-a94a-1d5af966b97b;Tamanho/cor inadequado;10/01/2025;rejeitada
+93fa7701-2be6-45a3-9f47-ffc2637f4bd0;a0493ed9-a5d8-4148-8deb-083b76ba4572;Tamanho/cor inadequado;18/02/2025;aprovada
+8bd469fc-3976-49c3-b818-d4bb2f962916;45fc0b77-42e2-4965-ab31-a53048a10b40;Arrependimento da compra;05/02/2025;em processamento
+90b0a25b-08c6-4ed9-b2f7-8ea407c398c9;c1b1f7c2-ed9f-4810-9e65-fb5e33776463;Tamanho/cor inadequado;20/04/2025;rejeitada
+27b71366-4a65-4180-bdae-a2fe2f70b132;0134d7fb-544a-4471-8d8f-d23c1d1ca214;Entrega atrasada e não mais necessário;24/01/2025;rejeitada
+a2c9c687-2583-4aa0-80fd-1bc5ccfcb1cb;be0c4cbf-51df-4ae7-accf-bbc37c471659;Entrega atrasada e não mais necessário;08/04/2025;rejeitada
+53094ee7-7aaf-4d43-990a-6f737901b91e;cb54762d-d2e7-4a21-8a07-a61226ab2485;Produto diferente do anunciado;29/01/2025;em processamento
+1320a6f7-add1-44c3-a931-5cd7112e7611;1faf302d-88b9-4e8b-8192-fecf688b8166;Entrega atrasada e não mais necessário;12/03/2025;em processamento
+3d00a7a5-d648-4fc7-a729-93c6f6d2de35;767e105d-33ba-4a53-9658-29c7a9b81065;Tamanho/cor inadequado;16/04/2025;aprovada
+94aa3a65-1f48-490e-ba9f-a6e05933b677;75e8abfe-6af0-4106-a235-09a86bcfdfa4;Tamanho/cor inadequado;16/04/2025;aprovada
+d18425df-4f03-4138-a4b5-ba22e810bef3;40dcec54-6413-4f5d-931b-a2234fcff082;Tamanho/cor inadequado;15/03/2025;em processamento
+bad01a7c-e94d-4189-804e-11bab4c2f0f2;6e516c7a-0aef-41bd-bafc-8cde9d04e845;Arrependimento da compra;07/04/2025;em processamento
+b8452404-4e6c-44a1-bcb3-1676ff594526;ce783cfe-f5af-447f-be44-04bf111be484;Produto com defeito;24/04/2025;finalizada
+aaeaeb67-6529-4efc-8193-a20dbf30a24e;87772bf7-b009-433f-9686-9ac1dc29bd75;Entrega atrasada e não mais necessário;14/04/2025;finalizada
+18e876d1-a47c-40e6-bef6-d421c6d36827;d8cee688-c04d-4b6d-8a7d-e09059aeed57;Entrega atrasada e não mais necessário;20/04/2025;rejeitada
+afd51f9b-3db5-4656-985b-d20dcfc9a6ee;b3af970a-5b84-4e13-8cc9-c8c14cec7e78;Entrega atrasada e não mais necessário;24/03/2025;finalizada
+dc712e52-4995-4b23-ad0e-6252f04c049d;999a5228-5545-489b-be19-e45bafe957be;Arrependimento da compra;13/03/2025;em processamento
+1506f26a-e5bb-4f7f-bd5d-d74afe66c062;3fc25d67-2626-4919-ab5b-92aedaa368e0;Produto com defeito;29/01/2025;em processamento
+d1135d77-9b2c-41eb-99ad-9433acf5ed3a;37660033-6e3b-4815-a549-cdf90a14f511;Produto diferente do anunciado;13/03/2025;em processamento
+0fdf1db4-3a9c-4357-b993-f0284469fb24;580e60e4-3f02-4521-88ba-52267c115895;Arrependimento da compra;26/01/2025;em processamento
+f68a8177-f40b-45fe-83fe-579a91ddcca3;40c7d25d-6c10-414e-9937-0f5c7b2544f6;Tamanho/cor inadequado;24/01/2025;rejeitada
+12347739-145b-4e6d-8639-23447c6d6de2;2c77106f-1dbe-4219-bef4-374e5288dd5f;Entrega atrasada e não mais necessário;02/04/2025;aprovada
+aa1ee036-2fe0-4bca-94d2-412faf974da8;fbbf4d7e-4830-4b65-ac64-644d63a2ef23;Produto com defeito;07/02/2025;aprovada
+622ef76d-bad4-4c6e-a52f-de42f91afaa3;f0382e87-c1a2-4068-978f-2f5f79895a97;Entrega atrasada e não mais necessário;19/01/2025;rejeitada
+6b81af05-8948-4b96-9445-2cf2f6ad56d8;a96d645f-67d4-4716-8c8d-9375cb6e1185;Arrependimento da compra;23/02/2025;em processamento
+0ed98dde-a1be-4fec-a1c9-d86b9269c7b9;a2d4faa0-a466-4489-b9ed-f2d0ead7131d;Produto com defeito;21/04/2025;aprovada
+db38abd5-1a09-4b00-aa1d-4becba7fdedc;cb5b85fe-ee41-4d1d-9989-f6bf676035b0;Produto com defeito;25/01/2025;aprovada
+ed91c92a-b8e4-4272-ba82-b6189a5ccdf2;ad5a0110-4a90-4514-9f3d-007c698c970f;Produto diferente do anunciado;19/03/2025;finalizada
+83523937-c646-441a-adc4-de331de8c259;3d1e27dc-aa8b-4cb6-8b6a-ac8dab954aba;Produto com defeito;17/02/2025;em processamento
+26355ab1-8c6e-46fb-9e21-d8d554d3f461;4169ed13-be0a-48f5-98f0-56ac07b873ee;Arrependimento da compra;23/02/2025;finalizada
+f4ee9580-ea90-42ee-a285-df53a756ebca;b53538b3-10a8-4d35-ba20-6b802e774528;Tamanho/cor inadequado;27/01/2025;rejeitada
+5ef31e6a-4e4b-43f5-b0ac-425854052266;3ef24b98-34e9-4bca-acfa-b818d6c739fa;Tamanho/cor inadequado;25/03/2025;aprovada
+29cf77f8-534e-4f40-bb16-f063b4329ee5;a6c09734-5ea5-4f3d-b792-10d40d06204e;Produto diferente do anunciado;31/03/2025;aprovada
+ecfc0506-1291-4e1e-a59a-3bbe99a33911;56f04f7d-0c78-4206-bc0f-4a5ee5ceac23;Produto diferente do anunciado;03/04/2025;em processamento
+05eb2f38-26fa-44a6-8906-35333bbd784f;5e63b162-bfe9-418e-b02f-da7d161444df;Entrega atrasada e não mais necessário;07/05/2025;finalizada
+03adb1ac-37e9-47a0-bf74-826f4d2e13e0;83d0703a-474e-4b69-b721-0f63f6c2c7be;Produto com defeito;27/02/2025;aprovada
+b00c4608-2297-446e-afee-f819e1a97d2f;735c08e9-57d6-444b-8044-8c97544a3cf3;Arrependimento da compra;20/04/2025;aprovada
+51086be9-f76b-4e49-ba7b-f23f2d96d072;006b55fb-a67d-46d4-beca-9f271dbc1d82;Arrependimento da compra;05/02/2025;aprovada
+13a55177-7a3c-43a5-a843-778d013d14d1;59c629bf-4962-4035-91d7-25af0325c892;Produto com defeito;02/02/2025;rejeitada
+77c640b0-4d5a-444c-8e22-87f3c4a06b9b;59c99716-71f5-4def-98c6-1a6d4ee14e1b;Tamanho/cor inadequado;12/02/2025;finalizada
+30a2e909-4539-4ac2-9d46-59d4536cbead;f9f04a1f-1d10-4f91-9368-5e0dd6d34231;Arrependimento da compra;20/02/2025;aprovada
+ce6c831f-8406-4a71-b3e8-81c9d8e3fc1e;2e75b076-cbf5-4a9a-9ca4-dce4f1508fa2;Produto diferente do anunciado;25/03/2025;rejeitada
+98bfe3de-d949-48d1-a04e-0125fea72c6d;8e27e044-9aa8-43b4-a982-d88e17abe966;Produto com defeito;07/05/2025;finalizada
+d141a474-3452-42cc-b7bc-5dfe6fd5441f;722f80ad-d23c-4d69-9996-c983f15d1ee6;Produto diferente do anunciado;26/02/2025;rejeitada
+b5e4b24a-84e7-45b3-b691-564d808dba92;6e432e8d-924c-446d-88d6-c16f679d8d70;Produto diferente do anunciado;02/03/2025;em processamento
+4125de76-dd3e-474c-8344-60491e8779c0;0aae2984-3e48-4ba0-bc55-ee97f21a2578;Entrega atrasada e não mais necessário;11/04/2025;em processamento
+93d89786-92df-4ac0-b455-a0dcb805299c;84c9ef58-5b3c-43cd-aac2-2e040f06bebb;Produto com defeito;11/03/2025;finalizada
+e5dd1c01-f324-4d24-b13d-d289c40b8a84;9af25d7f-8544-49a7-962b-d4b97ba19443;Arrependimento da compra;05/02/2025;em processamento
+ab44b6c0-bc9d-40a0-8437-ecf011385227;73fd507c-553a-4caf-b41d-401108329b86;Produto diferente do anunciado;15/02/2025;aprovada
+ec4ddc5d-7a3e-414b-891f-3fc747134e9c;7c1d8075-9223-40dd-afca-e7be0ee62ad2;Produto diferente do anunciado;24/01/2025;aprovada
+a6716e7f-b9f2-4091-a28c-516473854212;d26fdb7e-3d53-4342-a763-5620eaef318c;Entrega atrasada e não mais necessário;23/03/2025;finalizada
+ecbb68e3-dbba-4d7f-a453-b9040247cc09;b205b663-21e1-4e9c-a7b7-b5195631b6be;Produto diferente do anunciado;17/02/2025;aprovada
+95ae45b1-f758-45bc-8693-af4ecd5175be;becec9eb-2c81-4f99-a153-74b0f6257ed1;Produto com defeito;03/01/2025;finalizada
+5c00eb82-56b6-44b8-9579-6b83b56d709f;138ea7cb-d038-4dd2-a94c-ad07ad407ee3;Produto diferente do anunciado;12/02/2025;finalizada
+2f4fa237-512c-4328-959f-9769e9a5bee0;370a5c57-5b76-4f60-9bf8-5468a0c1b0af;Produto com defeito;20/01/2025;finalizada
+18041453-5d34-4a60-9426-0cc53b28cc44;4ead032d-ad92-4d7f-bad5-f1c7e92a34b2;Tamanho/cor inadequado;20/03/2025;aprovada
+fec5548a-ed4b-4c3f-8aa3-81a26a2de9b9;1deb678e-551a-4f68-a6dc-315bfffad525;Produto com defeito;15/03/2025;aprovada
+751e6b11-d1e3-4ce2-8b5f-ed153763fe1a;733cba9c-3497-40df-bb2d-6b101229d44f;Entrega atrasada e não mais necessário;23/01/2025;em processamento
+94784bbe-64cf-4201-96ec-e769fa248571;0ffed184-29c4-41dd-b3df-eff60ef6da2a;Arrependimento da compra;27/02/2025;rejeitada
+85734bcb-6dd9-4e71-a947-ee12e503c0e1;0ffcb124-0973-47ce-bf6a-51669fe73fe2;Tamanho/cor inadequado;30/04/2025;rejeitada
+597e8ca8-a94f-4699-8158-73e30d59b536;e463760e-a357-4285-9089-ee8267b31dfb;Entrega atrasada e não mais necessário;19/04/2025;aprovada
+f897bf9f-4029-4ade-b6b7-1232c4105932;68e80e1c-3af1-467b-9d51-bf0547d10e56;Entrega atrasada e não mais necessário;03/04/2025;rejeitada
+abea2b2d-8a74-4720-b902-b79ce16d0f81;eef2ab60-d7ca-4a43-882e-fb43c08cc4d6;Entrega atrasada e não mais necessário;10/01/2025;rejeitada
+289e948d-1d6c-42af-bdb8-bb99e6024ebc;d00d2dcb-e345-4bd5-b039-03e0143bd2f1;Produto com defeito;26/01/2025;finalizada
+7973e934-f1a2-44df-a6e6-d7ff7c9497dc;f043f272-f7a0-4861-b53c-30479e8fffc1;Entrega atrasada e não mais necessário;16/01/2025;rejeitada
+00270bef-2cdb-4745-af03-7761b2a73f82;03b4c32d-26ad-47ba-b251-2c6500fb8888;Tamanho/cor inadequado;09/01/2025;rejeitada
+1b018d41-a9fc-444d-adf0-0d39db4c49b2;12198705-a68c-407c-9e51-ad6155dd9799;Entrega atrasada e não mais necessário;12/04/2025;finalizada
+4776e9b2-a670-414c-afc6-3b4076dbdff9;b618d4d9-c2df-4607-859e-49fc90adf6b0;Entrega atrasada e não mais necessário;08/04/2025;finalizada
+9ad99381-d4c8-411f-a680-a33678551dcc;a0061c21-425d-44aa-969a-6fa00342844c;Produto com defeito;24/04/2025;finalizada
+ad4f0fde-9ccb-441c-9001-ec80ea02c3f2;000e96ac-f78e-4361-8693-9b964ed5b245;Tamanho/cor inadequado;24/03/2025;rejeitada
+1b1301bf-49eb-4924-b645-05a969e1f0fd;6b54c209-aa77-4836-aaea-93f679eabc73;Entrega atrasada e não mais necessário;18/04/2025;finalizada
+ace89870-dc87-4818-8e2c-8b43330130c6;35c428fb-7b92-4c30-be63-43cbdebe19da;Produto diferente do anunciado;29/03/2025;aprovada
+79ca48c7-e9eb-45f1-ba00-e7c00f0d4ffa;d1fe123e-f2e3-4864-8010-fbb39a34fa8a;Tamanho/cor inadequado;31/01/2025;rejeitada
+6ff4b262-9a85-41d2-b68e-7dfdefc4c784;fb860a16-a526-4123-a1a3-969bbc41ef3c;Entrega atrasada e não mais necessário;27/03/2025;em processamento
+b5c31b0b-93b4-4029-b5d1-2400fbbd2566;208cbc85-0687-4963-93f2-18180fcdc561;Produto diferente do anunciado;02/03/2025;em processamento
+dafe64b5-9864-46b7-8b91-b6e8d36a49c0;fd715392-83b8-4037-8dea-2cf8929db284;Tamanho/cor inadequado;26/04/2025;aprovada
+f66a7b56-1c33-46d2-86fc-a48efb19ee96;2ad6920d-0be9-4e0b-9fee-f2a3c4a67960;Tamanho/cor inadequado;04/02/2025;finalizada
+0dc4558b-b5f7-42f0-a160-82efa23ad7a2;dbdf2643-d14d-40ea-902d-f3e11418aa22;Arrependimento da compra;06/05/2025;finalizada
+d7bfa91b-9f51-416d-8a32-17f570615cb8;5f187f9d-7f71-41a3-9b64-53a84d314a00;Tamanho/cor inadequado;19/03/2025;rejeitada
+3db9db9a-17be-434f-93a5-b6694f36bbd9;054ed60f-ce46-46b3-b4c4-88ba87cb5ed4;Produto com defeito;27/02/2025;em processamento
+c5a33c0c-0cfb-488a-a808-05ef3c012ec9;a6f7dc07-ebdc-4a6b-b0f6-d83cc4d9dd2c;Produto com defeito;08/03/2025;aprovada
+e3f9b966-6dfa-4326-85d5-9ea68d1254cb;936257ac-30fe-4754-9b37-42b40786f404;Arrependimento da compra;04/05/2025;finalizada
+0489c391-1a4c-4b4e-a0d7-3079cab8d281;2d849bd3-a232-41dc-9134-b9ac3607c693;Produto diferente do anunciado;03/05/2025;aprovada
+336c881f-952f-4f97-bd1b-8a26ea2b817f;fbdaec1c-beba-490d-9f60-063e7d2eb0e7;Tamanho/cor inadequado;08/01/2025;rejeitada
+09d6c7a1-f870-4bf4-87f8-2359a2f0e813;912a1c63-f73f-4e0e-acad-43de11880862;Entrega atrasada e não mais necessário;01/03/2025;aprovada
+8d9bbf6d-b6b0-4af9-a408-8e70f097aeac;4a1cdff8-7b44-4fac-b8c1-e083165c7c97;Entrega atrasada e não mais necessário;12/03/2025;em processamento
+d3e41c7d-c075-4d32-9d37-a04143c05a52;ff4343b8-6f01-4201-b649-2a5adc26488f;Arrependimento da compra;30/04/2025;em processamento
+92773091-7983-4aa3-85ac-625c6a93be72;cbbb6388-fea2-4e05-8ea3-d5fc57a0d608;Tamanho/cor inadequado;07/05/2025;finalizada
+ae3383c5-f28e-4862-b940-11da0bf9dba8;30b3562c-ce89-4db7-854c-6a299f811d0d;Produto com defeito;16/01/2025;aprovada
+a3e4a011-a5c7-4d24-af19-0fc3c5175491;6fe11970-c593-4f0b-9154-ad5dff87b416;Entrega atrasada e não mais necessário;21/02/2025;em processamento
+294c5571-bc1b-454b-9a10-0726cb870d8d;937eea02-bd0b-4676-9442-a1cd6d0b59a5;Tamanho/cor inadequado;22/01/2025;finalizada
+14b3142a-5c4b-4d1b-9427-67d2ad20a75a;a3ee189d-3c31-4cdd-a5da-76592057f782;Produto com defeito;01/05/2025;rejeitada
+634a574b-eb1b-4513-b645-8e6f26222013;52a7c5d6-08ca-45a8-b822-b39dfbe770a6;Produto com defeito;18/03/2025;finalizada
+50871c0c-f0e8-4487-adaf-730eb61cba58;a894e5f4-a7cd-4229-b2c3-0e3ff3af58b9;Tamanho/cor inadequado;15/02/2025;finalizada
+6d8e8c16-6ec3-4918-b54f-b2204bb6124b;acc9874d-63af-41a4-a6eb-b88c7016e105;Produto diferente do anunciado;12/01/2025;finalizada
+93477a28-32f8-4dfa-84cf-7b1a75c52e7e;981a4354-ab10-4428-94bb-f9389690e5d1;Arrependimento da compra;03/05/2025;rejeitada
+35ae37d8-ba03-42ad-b4b3-9823e7eeaaa6;cab99914-9600-44e5-af45-7ea1d6f8e1cf;Arrependimento da compra;16/02/2025;em processamento
+565a80cc-ee7b-4fb5-ad5e-91c7aa39c0d3;4ce2f3e7-c966-44f0-994e-2706e77f16bf;Arrependimento da compra;01/02/2025;rejeitada
+510d54ae-70d4-4883-8309-c040ba940444;248c18c9-4e67-4859-9cc6-fc87c35a2d58;Produto com defeito;07/02/2025;aprovada
+5240b3ef-dcbc-4740-b23b-d508f9eabebf;d4eddb5a-adc4-4057-889c-0d72da626326;Arrependimento da compra;02/03/2025;em processamento
+b44a6f96-bee8-4502-8a9a-20e1060b16c6;3049fcc0-7e9b-4fdb-b559-3118a717ff18;Produto diferente do anunciado;03/02/2025;em processamento
+78740da1-6595-4b2c-b4fa-860e95a2e27c;6548cd0d-4a8b-461a-b11e-03fea2f8451d;Tamanho/cor inadequado;10/02/2025;rejeitada
+796da163-ba29-4f6c-a3d7-db8173256544;658126c2-1270-43fc-8884-070570a21221;Entrega atrasada e não mais necessário;09/04/2025;finalizada
+f6d48923-49db-4053-9329-f7de3b52a091;2f29ca3e-fd92-4a2a-9a0b-7ca42548f600;Produto com defeito;30/03/2025;em processamento
+2518ed8d-df8a-4e77-a255-add564a51052;e3fa7265-0d19-464d-80eb-f10ec40cf33a;Entrega atrasada e não mais necessário;21/02/2025;em processamento
+1f363f11-3a0a-4614-8926-688048daa810;1b2d79c8-fd32-4cc0-a153-d7e9e0ee7ffe;Produto com defeito;28/02/2025;em processamento
+13b0734c-8faa-4f66-819f-327359e76872;1a26c16b-cc5f-4471-aeda-268be7bac8ca;Produto diferente do anunciado;26/03/2025;aprovada
+0447656b-f7c4-43d4-92c8-df6c011958af;124ce769-5851-43e1-80fc-57371c5a3cc4;Produto diferente do anunciado;18/01/2025;rejeitada
+a0ef7d7e-f845-419a-b245-0c597ca0ef59;678832d0-dcfc-4748-85f9-7eabb43cdbe2;Entrega atrasada e não mais necessário;30/03/2025;finalizada
+45c2f2a3-1ae6-4391-9a5c-476b69cab707;bbc64890-ffe3-4e68-a0e9-b4e0b7a7ab99;Arrependimento da compra;21/04/2025;rejeitada
+d9a818d1-8095-4ed8-ad54-61d488ac25b1;bb9735d9-fdc3-44f1-a823-4f223cc74259;Produto com defeito;04/05/2025;rejeitada
+f2a2070a-292e-4d95-bb3f-9c93a881a5bb;6965ad3d-1b78-410d-9c59-06f12b26c1ff;Produto diferente do anunciado;25/04/2025;finalizada
+bdbfdf1b-8c0c-494d-afc4-d5e8d543bd9e;3b7dacd2-1c50-4562-bf9e-6561a026978d;Produto com defeito;26/02/2025;finalizada
+1aba7a62-b7ae-4deb-bc8c-a40107ce4ac3;7450f00c-c846-45c1-a233-2726097c98e3;Tamanho/cor inadequado;01/03/2025;finalizada
+49cacd33-1c12-4cdc-849c-021560043e44;7e19afe7-351d-45e9-8698-dd6eb717cb51;Entrega atrasada e não mais necessário;19/04/2025;em processamento
+7e765aba-9dab-403f-bd60-6d0906e0311c;e18825b5-9d01-4210-a0a4-55ed9c618176;Arrependimento da compra;18/03/2025;em processamento
+61921234-c47e-4920-b638-29ab00125429;3bf42b73-6642-42ba-b7f1-3cfecd23a8a3;Tamanho/cor inadequado;07/05/2025;rejeitada
+b1a2aa49-0dbf-4f0d-93c8-72b91549b619;46b76ecc-72d5-45fe-9fba-109875249d77;Produto diferente do anunciado;05/05/2025;aprovada
+c1087a41-3a54-4fbf-98bd-db4cde25cbcb;87d01e49-123f-44ee-9c1a-c29c23bd644e;Entrega atrasada e não mais necessário;12/04/2025;em processamento
+ab3a012f-7d77-4545-be54-8bc134c66abd;cfffdd05-0905-43a7-84f7-f400dca143cf;Produto com defeito;06/05/2025;aprovada
+4af31ee5-1f70-4846-9839-6e10ba998db5;2596f465-939e-42f8-bd28-3bfcd91a297c;Tamanho/cor inadequado;25/04/2025;em processamento
+5915c46a-8974-444d-90b5-11a72829097f;09047960-d11d-4bc3-8396-d1b0da7817e5;Entrega atrasada e não mais necessário;14/01/2025;aprovada
+c4050d8e-fe99-4934-a60b-3365d5e0b830;4188e3cb-99d2-415d-a7f9-1a6d3b693df0;Arrependimento da compra;04/02/2025;em processamento
+88fb57e8-acbb-44e2-ac10-b4e0bceab7b7;32b157c2-f626-4f03-be71-178d71337403;Entrega atrasada e não mais necessário;10/02/2025;em processamento
+31a7f0fd-9449-4ec2-ab89-64b28bccf3f9;662b7ae4-c2aa-4e0c-af74-10dd57790735;Arrependimento da compra;04/05/2025;em processamento
+38f82d1f-945e-4c61-a418-bfc6c782ae6c;17a60138-28a4-44a7-aa75-23fab504cdaf;Tamanho/cor inadequado;04/05/2025;aprovada
+77cd0af6-750c-4366-baa8-1c5a084954b1;fba2bf91-aea1-44c0-93a4-9b21f8f08f27;Arrependimento da compra;26/02/2025;finalizada
+85ed42b0-8f33-4567-989c-262c8daf0c8e;35b18b91-a400-47e8-a1af-e2620eb1d7c3;Entrega atrasada e não mais necessário;24/03/2025;aprovada
+23f1629c-d493-49df-a22e-c0bf292fd38b;18c12bd0-2c32-432a-83bd-f86d0aede1dd;Produto com defeito;19/02/2025;finalizada
+2c5dd955-5ac7-4a17-bc9a-a65e005b96cb;f1164f45-97e2-4dce-8710-9bd2e373712e;Entrega atrasada e não mais necessário;04/02/2025;rejeitada
+41bc70e0-f431-4b47-96f3-450651390f2f;ebdc963f-ec09-4ee8-a60d-ca7137be1793;Entrega atrasada e não mais necessário;03/04/2025;rejeitada
+e96af029-61c2-4ab6-92cd-c6c4c08b074c;5cc7ef7c-93ac-451c-89af-d035a45757e9;Produto diferente do anunciado;31/01/2025;em processamento
+24fe016d-837f-4160-b527-33057b22443d;78418480-d377-43b7-b049-51fe33c2d8a6;Entrega atrasada e não mais necessário;11/01/2025;rejeitada

@@ -25,12 +25,13 @@ import os
 from datetime import timedelta, date
 
 # Configurações Globais e Constantes
-SEED = 42  # Para reprodutibilidade
-N_CLIENTES_TARGET = 1000
-# N_VENDAS_INICIAIS_PARA_CLIENTES não é mais usado diretamente da mesma forma.
-N_VENDAS_A_GERAR = 6000  # Número total de vendas a serem geradas inicialmente
+SEED = 42  # Para reprodutibilidade (dados gerados sempre serão os mesmos)
+N_CLIENTES_TARGET = 3000
+N_VENDAS_A_GERAR = (
+    15000  # Número total de vendas a serem geradas inicialmente (número diminui)
+)
 FRACAO_DEVOLUCAO = 0.05  # 5% das vendas concluídas podem gerar devolução
-DATA_OUTPUT_DIR = "data"  # Pasta para salvar os CSVs
+DATA_OUTPUT_DIR = "data"
 
 # Definição das datas de referência para o ano de 2025
 HOJE_DEFINIDO = date(2025, 5, 8)
@@ -39,7 +40,7 @@ INICIO_ANO_2025 = date(2025, 1, 1)
 # Configuração da semente para reprodutibilidade
 random.seed(SEED)
 Faker.seed(SEED)
-fake = Faker("pt_BR")
+fake = Faker("pt_BR")  # Dados brasileiros
 
 # Configuração do logging
 logging.basicConfig(
@@ -273,7 +274,7 @@ def gerar_vendas_e_itens(
             "id_venda": id_venda_atual,
             "id_cliente": id_cliente_venda,
             "data_venda": data_venda_obj,
-            "canal_venda": random.choice(["site", "marketplace", "app móvel"]),
+            "canal_venda": random.choice(["site", "marketplace", "app"]),
             "status_venda": status_venda_inicial,
             "total_venda": 0.0,
         }
@@ -287,19 +288,17 @@ def gerar_vendas_e_itens(
         for produto_info in produtos_selecionados_para_venda:
             quantidade_comprada = random.randint(1, 3)
             preco_unitario_item = produto_info["preco"]
-            preco_total_para_este_item = round(
-                preco_unitario_item * quantidade_comprada, 2
-            )
-            total_venda_calculado += preco_total_para_este_item
-            item_info = {
-                "id_item_venda": str(fake.unique.uuid4()),
-                "id_venda": id_venda_atual,
-                "id_produto": produto_info["id_produto"],
-                "quantidade": quantidade_comprada,
-                "preco_unitario": preco_unitario_item,
-                "preco_total_item": preco_total_para_este_item,
-            }
-            itens_venda_data.append(item_info)
+
+            for unidade in range(quantidade_comprada):
+                item_info = {
+                    "id_item_venda": str(fake.unique.uuid4()),  # ID único por unidade
+                    "id_venda": id_venda_atual,
+                    "id_produto": produto_info["id_produto"],
+                    "quantidade": 1,  # Sempre 1 por registro
+                    "preco_unitario": preco_unitario_item,
+                }
+                itens_venda_data.append(item_info)
+                total_venda_calculado += preco_unitario_item
 
         venda_info["total_venda"] = round(total_venda_calculado, 2)
         vendas_data.append(venda_info)
@@ -334,7 +333,7 @@ def atualizar_clientes_com_metricas_venda(df_clientes, df_vendas, df_itens_venda
             vendas_consideradas[["id_venda", "id_cliente"]], on="id_venda", how="inner"
         )
         gasto_por_cliente = itens_com_cliente.groupby("id_cliente")[
-            "preco_total_item"
+            "preco_unitario"
         ].sum()
     else:
         gasto_por_cliente = pd.Series(dtype="float64")
@@ -476,30 +475,28 @@ def gerar_devolucoes_e_itens(
             )
 
         for _, item_original_info in itens_selecionados_para_devolver.iterrows():
-            quantidade_a_devolver = (
-                random.randint(1, item_original_info["quantidade"])
-                if random.random() >= 0.8
-                else item_original_info["quantidade"]
-            )
-            item_devolvido_info = {
-                "id_item_devolucao": str(fake.unique.uuid4()),
-                "id_devolucao": id_devolucao_atual,
-                "id_item_venda": item_original_info["id_item_venda"],
-                "id_produto": item_original_info["id_produto"],
-                "quantidade_devolvida": quantidade_a_devolver,
-                "motivo_especifico_item": (
-                    random.choice(
-                        [
-                            "Cor diferente",
-                            "Danificado na entrega",
-                            "Qualidade inferior ao esperado",
-                            "Simplesmente não gostei",
-                        ]
-                    )
-                    if random.random() > 0.3
-                    else devolucao_info["motivo_geral_devolucao"]
-                ),
-            }
+            quantidade_a_devolver = random.randint(1, item_original_info["quantidade"])
+            # Gerar UM REGISTRO POR UNIDADE DEVOLVIDA
+            for _ in range(quantidade_a_devolver):
+                item_devolvido_info = {
+                    "id_item_devolucao": str(fake.unique.uuid4()),  # ID único por item
+                    "id_devolucao": id_devolucao_atual,
+                    "id_item_venda": item_original_info["id_item_venda"],
+                    "id_produto": item_original_info["id_produto"],
+                    "quantidade_devolvida": 1,  # Sempre 1 (unidade única)
+                    "motivo_especifico_item": (
+                        random.choice(
+                            [
+                                "Cor diferente",
+                                "Danificado",
+                                "Tamanho diferente",
+                                "Não gostei",
+                            ]
+                        )
+                        if random.random() > 0.3
+                        else devolucao_info["motivo_geral_devolucao"]
+                    ),
+                }
             itens_devolucao_data.append(item_devolvido_info)
 
     df_devolucoes = pd.DataFrame(devolucoes_data)
@@ -564,7 +561,7 @@ def atualizar_status_venda_pos_devolucao(
         total_qty_devolvida_por_item_original = (
             itens_realmente_devolvidos_desta_venda.groupby("id_item_venda")[
                 "quantidade_devolvida"
-            ].sum()
+            ].count()
         )
         todos_os_itens_totalmente_devolvidos = True
         algum_item_parcialmente_ou_totalmente_devolvido = False
@@ -595,7 +592,7 @@ def atualizar_status_venda_pos_devolucao(
     return df_vendas
 
 
-# --- Fluxo Principal de Geração ---
+# Fluxo Principal de Geração
 if __name__ == "__main__":
     if not os.path.exists(DATA_OUTPUT_DIR):
         os.makedirs(DATA_OUTPUT_DIR)
