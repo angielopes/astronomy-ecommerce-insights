@@ -38,8 +38,7 @@ CREATE TABLE `itens_venda` (
   `id_venda` char(36),
   `id_produto` char(36),
   `quantidade` integer,
-  `preco_unitario` decimal(8,2),
-  `preco_total_item` decimal(10,2)
+  `preco_unitario` decimal(8,2)
 );
 
 CREATE TABLE `itens_devolucao` (
