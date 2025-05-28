@@ -28,7 +28,7 @@ from datetime import timedelta, date
 SEED = 42  # Para reprodutibilidade (dados gerados sempre serão os mesmos)
 N_CLIENTES_TARGET = 3000
 N_VENDAS_A_GERAR = (
-    15000  # Número total de vendas a serem geradas inicialmente (número diminui)
+    15000  # Número total de vendas a serem geradas inicialmente (atenção: número diminui)
 )
 FRACAO_DEVOLUCAO = 0.05  # 5% das vendas concluídas podem gerar devolução
 DATA_OUTPUT_DIR = "data"
@@ -47,7 +47,7 @@ logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
-# Dicionário com produtos únicos para cada categoria (mantido como no original)
+# Dicionário com produtos únicos para cada categoria
 produtos_por_categoria = {
     "Telescópio": [
         ("Telescópio Reflector 70mm", 199.99),
