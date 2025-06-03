@@ -1,25 +1,31 @@
--- TOP 10 CLIENTES POR VALOR TOTAL GASTO E POR NÚMERO DE COMPRAS
+-- Valor total devolvido efetivamente por vendas
+WITH valor_itens_devolvidos_aprovados_por_venda AS (
+	SELECT
+		d.id_venda,
+		SUM(iv.preco_unitario) AS total_valor_devolvido_aprovado
+	FROM devolucoes d
+	JOIN itens_devolucao idv ON d.id_devolucao = idv.id_devolucao
+	JOIN itens_venda iv ON idv.id_item_venda = iv.id_item_venda
+	WHERE d.status_devolucao IN ('aprovada', 'finalizada')
+	GROUP BY d.id_venda
+),
 
--- Top 10 total compras
-SELECT id_cliente,
-        nome_cliente,
-        SUM(numero_compras) AS total_compras_cliente
-FROM clientes
-GROUP BY id_cliente
-ORDER BY total_compras_cliente DESC
-LIMIT 10;
+-- Valor líquido das vendas (exclusão das devoluções e vendas canceladas)
+valor_liquido_vendas AS (
+        SELECT
+                v.id_venda,
+                v.id_cliente,
+                v.data_venda,
+                v.canal_venda,
+                v.status_venda,
+                v.total_venda AS total_venda_bruta,
+                COALESCE(vida.total_valor_devolvido_aprovado, 0) AS total_devolvido_venda,
+                CASE
+                        WHEN v.status_venda = "cancelada" THEN 0 -- Vendas canceladas não entrarão em valores líquidos
+                        ELSE(v.total_venda - COALESCE(vida.total_valor_devolvido_aprovado, 0))
+                END AS total_venda_liquida
+        FROM vendas v
+        LEFT JOIN valor_itens_devolvidos_aprovados_por_venda vida ON v.id_venda = vida.id_venda
+)
 
--- Top 10 valor gasto
-SELECT id_cliente,
-        nome_cliente,
-        total_gasto
-FROM clientes
-ORDER BY total_gasto DESC
-LIMIT 10;
-
--- VALOR MÉDIO DE COMPRAS POR CLIENTE (AOV) E TICKET MÉDIO
-
--- Valor médio de compras (apenas compras com status "concluída")
-SELECT AVG(total_venda) AS aov_cliente
-FROM vendas
-WHERE status_venda = 'concluída';
+SELECT * FROM valor_liquido_vendas;
