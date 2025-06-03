@@ -6,7 +6,7 @@ WITH valor_itens_devolvidos_aprovados_por_venda AS (
 	FROM devolucoes d
 	JOIN itens_devolucao idv ON d.id_devolucao = idv.id_devolucao
 	JOIN itens_venda iv ON idv.id_item_venda = iv.id_item_venda
-	WHERE d.status_devolucao IN ("aprovada", "finalizada")
+	WHERE d.status_devolucao IN ('aprovada', 'finalizada')
 	GROUP BY d.id_venda
 ),
 
