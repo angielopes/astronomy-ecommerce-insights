@@ -43,7 +43,7 @@ LIMIT 10;
 SELECT
         v.id_cliente,
         c.nome_cliente,
-        COUNT(DISTINCT id_venda) AS num_compras_validas_cliente
+        COUNT(DISTINCT v.id_venda) AS num_compras_validas_cliente
 FROM vendas v
 JOIN clientes c ON v.id_cliente = c.id_cliente
 WHERE status_venda IN ('concluida', 'devolvida parcialmente')
