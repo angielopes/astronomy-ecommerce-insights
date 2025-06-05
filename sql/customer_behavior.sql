@@ -46,7 +46,7 @@ SELECT
         COUNT(DISTINCT v.id_venda) AS num_compras_validas_cliente
 FROM vendas v
 JOIN clientes c ON v.id_cliente = c.id_cliente
-WHERE status_venda IN ('concluida', 'devolvida parcialmente')
+WHERE v.status_venda IN ('concluida', 'devolvida parcialmente')
 GROUP BY id_cliente, c.nome_cliente
 ORDER BY num_compras_validas_cliente DESC
 LIMIT 10;
