@@ -33,4 +33,18 @@ FROM
 GROUP BY p.id_produto , p.nome_produto , p.categoria
 ORDER BY receita_liquida_produtos DESC;
 
--- 
+-- Desempenho de venda por canal de venda
+SELECT
+    canal_venda,
+    SUM(total_venda_liquida) AS receita_liquida_canal,
+    COUNT(DISTINCT CASE
+            WHEN status_venda IN ('concluída' , 'devolvida parcialmente') THEN id_venda
+            ELSE NULL
+        END) AS num_vendas_canal,
+    AVG(CASE
+        WHEN status_venda IN ('concluída' , 'devolvida parcialmente') THEN total_venda_liquida
+        ELSE NULL
+    END) AS ticket_medio_canal
+FROM
+    vw_valor_liquido_vendas
+GROUP BY canal_venda;
