@@ -25,9 +25,9 @@ LIMIT 10;
 SELECT
         vlv.id_cliente,
         AVG(vlv.total_venda_liquida) AS aov_liquido_cliente
-FROM vw_valor_liquido_vendas vlv
-WHERE vlv.status_venda IN ('concluida', 'devolvida parcialmente')
-GROUP BY vlv.id_cliente;
+FROM vw_valor_liquido_vendas
+WHERE status_venda IN ('concluida', 'devolvida parcialmente')
+GROUP BY id_cliente;
 
 -- Ticket médio geral
 SELECT
